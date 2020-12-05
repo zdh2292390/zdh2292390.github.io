@@ -57,6 +57,9 @@ Education
 
 Internships
 ------
+* **NEC Laboratories America,    &emsp;&emsp;    2020.06 - 2020.08**
+    * Topic: Deep Contextualized Product Semantic Learning.
+
 * **NEC Laboratories America,    &emsp;&emsp;    2019.06 - 2019.08**
     * Topic: Spatio-temporal Modeling for Turbulence Forecasting.
     * Advisor: Dr. [Yanchi Liu](https://scholar.google.com.hk/citations?hl=zh-CN&user=faLmr-YAAAAJ&view_op=list_works&sortby=pubdate) 
