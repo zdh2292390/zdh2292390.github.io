@@ -20,7 +20,7 @@ I am also interested in Natural Language Understanding and knowledge graph, with
 
 News
 ------
-One paper accepted to AAAI'21. \\
+12/2020 One paper accepted to AAAI'21. \\
 11/2020 Invited as a PC member for WWW'21. \\
 10/2020 Invited as a PC member for IJCAI'21. \\
 09/2020 Invited as a PC member for AAAI’21.\\

@@ -15,17 +15,16 @@ redirect_from:
 ### Preprint
 
 - **E-BERT: A Phrase and Product Knowledge Enhanced Language Model for E-commerce** [<a href='https://arxiv.org/pdf/2009.02835.pdf'>PDF</a>, <a href=''>code</a>] <br>
-<!-- <ins>**Denghui Zhang**</ins> <br> -->
+<ins>**Denghui Zhang**</ins>, Zixuan Yuan, Yanchi Liu, 	Zuohui Fu, Fuzhen Zhuang, Pengyang Wang, Haifeng Chen, Hui Xiong<br>
 arXiv:2009.02835 <br>
 
 ### 2021
 - **Self-Supervised Prototype Representation Learning for Event-Based Corporate Profiling** [to appear]
 <!-- [<a href='AAAI21.pdf'>PDF</a>] <br> -->
-<!-- <ins>**Denghui Zhang**</ins>, Yanchi Liu, Wei Cheng, Bo Zong, Jingchao Ni, Zhengzhang Chen, Haifeng Chen, Hui Xiong <br> -->
+Zixuan Yuan, Hao Liu, Renjun Hu, <ins>**Denghui Zhang**</ins>, Hui Xiong<br>
 **AAAI'21**: Proceedings of the 35th AAAI Conference on Artificial Intelligence.<br>
 
 ### 2020
-
 - **T$^2$-Net: A Semi-supervised Deep Model for Turbulence Forecasting** [<a href='ICDM20.pdf'>PDF</a>] <br>
 <ins>**Denghui Zhang**</ins>, Yanchi Liu, Wei Cheng, Bo Zong, Jingchao Ni, Zhengzhang Chen, Haifeng Chen, Hui Xiong <br>
 **ICDM'20**: 2020 IEEE International Conference on Data Mining.<br>
