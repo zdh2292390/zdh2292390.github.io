@@ -18,6 +18,12 @@ redirect_from:
 <!-- <ins>**Denghui Zhang**</ins> <br> -->
 arXiv:2009.02835 <br>
 
+### 2021
+- **Self-Supervised Prototype Representation Learning for Event-Based Corporate Profiling** [to appear]
+<!-- [<a href='AAAI21.pdf'>PDF</a>] <br> -->
+<!-- <ins>**Denghui Zhang**</ins>, Yanchi Liu, Wei Cheng, Bo Zong, Jingchao Ni, Zhengzhang Chen, Haifeng Chen, Hui Xiong <br> -->
+**AAAI'21**: Proceedings of the 35th AAAI Conference on Artificial Intelligence.<br>
+
 ### 2020
 
 - **T$^2$-Net: A Semi-supervised Deep Model for Turbulence Forecasting** [<a href='ICDM20.pdf'>PDF</a>] <br>
