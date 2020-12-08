@@ -19,8 +19,7 @@ redirect_from:
 arXiv:2009.02835 <br>
 
 ### 2021
-- **Self-Supervised Prototype Representation Learning for Event-Based Corporate Profiling** [to appear]<br>
-<!-- [<a href='AAAI21.pdf'>PDF</a>] <br> -->
+- **Self-Supervised Prototype Representation Learning for Event-Based Corporate Profiling** [<a href='Corporate_Profiling__AAAI_2021.pdf'>PDF</a>, <a href=''>code</a>] <br>
 Zixuan Yuan, Hao Liu, Renjun Hu, <ins>**Denghui Zhang**</ins>, Hui Xiong<br>
 **AAAI'21**: Proceedings of the 35th AAAI Conference on Artificial Intelligence.<br>
 
