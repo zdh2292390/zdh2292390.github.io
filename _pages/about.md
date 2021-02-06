@@ -24,7 +24,7 @@ News
 11/2020 Invited as a PC member for WWW'21. \\
 10/2020 Invited as a PC member for IJCAI'21. \\
 09/2020 Invited as a PC member for AAAI’21.\\
-09/2020 New preprint is out! [E-BERT: A Phrase and Product Knowledge Enhanced Language Model for E-commerce](https://arxiv.org/pdf/2009.02835.pdf)
+<!-- 09/2020 New preprint is out! [E-BERT: A Phrase and Product Knowledge Enhanced Language Model for E-commerce](https://arxiv.org/pdf/2009.02835.pdf) -->
 
 Education
 ------
@@ -70,7 +70,7 @@ Internships
 
 Services
 ------
-PC Member: IJCAI'21, AAAI'21.\\
+PC Member: WWW'21, IJCAI'21, AAAI'21.\\
 External/Sub Reviewer:  CIKM 2019, TKDE 2019, WSDM 2020, CIKM 2020, IJCAI 2020.
 
 
