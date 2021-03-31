@@ -20,7 +20,7 @@ I am also interested in Natural Language Understanding and knowledge graph, with
 
 News
 ------
-01/2021: Will join Amazon as a applied research scientist intern working with Dr. [Xin Luna Dong](http://lunadong.com/). \\
+01/2021: Will join Amazon as a research intern working with Dr. [Xin Luna Dong](http://lunadong.com/). \\
 12/2020: One paper accepted to AAAI'21. \\
 11/2020: Invited as a PC member for WWW'21. \\
 10/2020: Invited as a PC member for IJCAI'21. \\
