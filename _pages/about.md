@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am Denghui Zhang.
+Greetings! I am Denghui Zhang.
 
-I am a Ph.D. student in Data Mining at [Rutgers University](https://www.rutgers.edu/), working with Prof. [Hui Xiong](https://scholar.google.com.hk/citations?hl=zh-CN&user=cVDF1tkAAAAJ&view_op=list_works&sortby=pubdate). I am a member of the [Rutgers Data Mining Lab](http://datamining.rutgers.edu/CDMBA/). 
+I am a Ph.D. candidate in Data Mining at [Rutgers University](https://www.rutgers.edu/), working with Prof. [Hui Xiong](https://scholar.google.com.hk/citations?hl=zh-CN&user=cVDF1tkAAAAJ&view_op=list_works&sortby=pubdate). I am a member of the [Rutgers Data Mining Lab](http://datamining.rutgers.edu/CDMBA/). 
 <!-- Prior to UIUC, I got my master's degree from [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](http://www.cas.cn/) in 2018, and received my bachelor's degree from [University of Science and Technology Beijing](http://www.ustb.edu.cn/index.asp) with Beijing Outstanding Undergraduate Award in 2015. -->
 <!-- My research interests lie in the general area of Natural Language Processing, with a special focus on multimedia knowledge extraction and knowledge-aware generation. -->
 <!-- My research interests lie in solving interesting real-world problems in a data-driven way, e.g., representation learning for talent and job analysis, spatio-temporal modeling for turbulence forecasting. -->
@@ -22,6 +22,7 @@ Interesting domain applications we concerned include: graph representation for t
 
 News
 ------
+04/2021: Passed my dissertation proposal defense, glad to be Ph.D. candidate now! \\
 01/2021: Will join Amazon as a research intern working with Dr. [Xin Luna Dong](http://lunadong.com/). \\
 12/2020: One paper accepted to AAAI'21. \\
 11/2020: Invited as a PC member for WWW'21. \\
