@@ -23,7 +23,7 @@ Interesting domain applications we concerned include: graph representation for t
 News
 ------
 04/2021: Passed my dissertation proposal defense, glad to be Ph.D. candidate now! \\
-01/2021: Will join Amazon as a research intern working with Dr. [Xin Luna Dong](http://lunadong.com/). \\
+01/2021: Will join Amazon as a research intern working with Dr. [Xin Luna Dong](http://lunadong.com/) and Dr. [Zhengyang Wang](https://zhengyang-wang.github.io/). \\
 12/2020: One paper accepted to AAAI'21. \\
 11/2020: Invited as a PC member for WWW'21. \\
 10/2020: Invited as a PC member for IJCAI'21. \\
