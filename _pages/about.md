@@ -47,11 +47,11 @@ Education
     <!-- * Beijing Outstanding Undergraduate Award (Top 2%) -->
 
 <!-- Publications
------- -->
+ -->
 
 
 <!--Experience
-------
+
   * **08/2018 - 08/2019, Rensselaer Polytechnic Institute**
     * Research Assistant at [Blender Lab](http://blender.cs.illinois.edu/index.html)
     * Advisor: Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html)
@@ -61,7 +61,6 @@ Education
     * Advisor: Prof. [Yuanzhuo Wang](http://sourcedb.ict.cas.cn/cn/jssrck/201011/t20101122_3025790.html)
     * Focus: Knowledge Base Construction and Completion (Link Prediction)-->
 
-<!-- Internships -->
 Experiences
 ------
 * **Amazon,    &emsp;&emsp; Applied Scientist Intern, &emsp;&emsp;    2021.05 - 2021.08**
