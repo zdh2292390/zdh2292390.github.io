@@ -61,11 +61,10 @@ Education
     * Advisor: Prof. [Yuanzhuo Wang](http://sourcedb.ict.cas.cn/cn/jssrck/201011/t20101122_3025790.html)
     * Focus: Knowledge Base Construction and Completion (Link Prediction)-->
 
-
 <!-- Internships -->
 Experiences
 ------
-* **Amazon,    &emsp;&emsp; Research Intern, &emsp;&emsp;    2021.05 - 2021.08**
+* **Amazon,    &emsp;&emsp; Applied Scientist Intern, &emsp;&emsp;    2021.05 - 2021.08**
     * Topic: Entity Matching.
     * Managers: [Xin Luna Dong](http://lunadong.com/), [Hao Wei](https://scholar.google.com.hk/citations?user=n6FiSS0AAAAJ&hl=en), [Zhengyang Wang](https://scholar.google.com/citations?user=A4fNBtEAAAAJ)
 
