@@ -25,7 +25,7 @@ News
 05/2021: One paper accepted to KDD'21. \\
 04/2021: Passed my dissertation proposal defense, glad to be Ph.D. candidate now! \\
 <!-- 01/2021: Will join Amazon as a research intern working with Dr. [Xin Luna Dong](http://lunadong.com/) and Dr. [Zhengyang Wang](https://zhengyang-wang.github.io/). \\ -->
-<!-- 01/2021: Will join Amazon as a research intern working with Dr. [Xin Luna Dong](http://lunadong.com/) and Dr. [Zhengyang Wang](https://zhengyang-wang.github.io/). \\ -->
+<!-- 01/2021: Will join Amazon as a research intern working with Dr. [Xin Luna Dong](http://lunadong.com/), [Hao Wei], [Zhengyang Wang](https://zhengyang-wang.github.io/). \\ -->
 01/2021: Will join Amazon as a research intern. \\
 12/2020: One paper accepted to AAAI'21. \\
 11/2020: Invited as a PC member for WWW'21. \\
@@ -62,18 +62,23 @@ Education
     * Focus: Knowledge Base Construction and Completion (Link Prediction)-->
 
 
-Internships
+<!-- Internships -->
+Experiences
 ------
-* **NEC Laboratories America,    &emsp;&emsp;    2020.06 - 2020.08**
+* **Amazon,    &emsp;&emsp; Research Intern, &emsp;&emsp;    2021.05 - 2021.08**
+    * Topic: Entity Matching.
+    * Managers: [Xin Luna Dong](http://lunadong.com/), [Hao Wei](https://scholar.google.com.hk/citations?user=n6FiSS0AAAAJ&hl=en), [Zhengyang Wang](https://scholar.google.com/citations?user=A4fNBtEAAAAJ)
+
+* **NEC Laboratories America,    &emsp;&emsp; Research Intern, &emsp;&emsp;    2020.06 - 2020.08**
     * Topic: Deep Contextualized Product Semantic Learning.
 
-* **NEC Laboratories America,    &emsp;&emsp;    2019.06 - 2019.08**
+* **NEC Laboratories America,    &emsp;&emsp; Research Intern, &emsp;&emsp;    2019.06 - 2019.08**
     * Topic: Spatio-temporal Modeling for Turbulence Forecasting.
-    * Advisor: Dr. [Yanchi Liu](https://scholar.google.com.hk/citations?hl=zh-CN&user=faLmr-YAAAAJ&view_op=list_works&sortby=pubdate) 
+    * Manager: Dr. [Yanchi Liu](https://scholar.google.com.hk/citations?hl=zh-CN&user=faLmr-YAAAAJ&view_op=list_works&sortby=pubdate) 
 
-* **Baidu Research,       &emsp;&emsp;    2018.06 - 2018.08**
+* **Baidu Research,       &emsp;&emsp; Research Intern, &emsp;&emsp;    2018.06 - 2018.08**
     * Topic: Representation Learning for Talent and Job Title Analysis.
-    * Advisor: Dr. [Hengshu Zhu](http://www.zhuhengshu.com/) 
+    * Manager: Dr. [Hengshu Zhu](http://www.zhuhengshu.com/) 
 
 Services
 ------
