@@ -12,13 +12,16 @@ redirect_from:
  -->
 <!-- ## Papers -->
 
-### Preprint
+<!-- ### Preprint
 
 - **E-BERT: A Phrase and Product Knowledge Enhanced Language Model for E-commerce** [<a href='https://arxiv.org/pdf/2009.02835.pdf'>PDF</a>, <a href=''>code</a>] <br>
 <ins>**Denghui Zhang**</ins>, Zixuan Yuan, Yanchi Liu, 	Zuohui Fu, Fuzhen Zhuang, Pengyang Wang, Haifeng Chen, Hui Xiong<br>
-arXiv:2009.02835 <br>
-
+arXiv:2009.02835 <br> -->
 ### 2021
+- **Domain-oriented Language Modeling with Adaptive Hybrid Masking and Optimal Transport Alignment** [<a href=''>PDF</a>, <a href=''>code</a>] <br>
+<ins>**Denghui Zhang**</ins>, Zixuan Yuan, Yanchi Liu, Hao Liu, Zuohui Fu, Fuzhen Zhuang, Hui Xiong, Haifeng Chen<br>
+**KDD'21**: Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining.<br>
+
 - **Self-Supervised Prototype Representation Learning for Event-Based Corporate Profiling** [<a href='Corporate_Profiling__AAAI_2021.pdf'>PDF</a>, <a href=''>code</a>] <br>
 Zixuan Yuan, Hao Liu, Renjun Hu, <ins>**Denghui Zhang**</ins>, Hui Xiong<br>
 **AAAI'21**: Proceedings of the 35th AAAI Conference on Artificial Intelligence.<br>
