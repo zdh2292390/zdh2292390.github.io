@@ -20,6 +20,7 @@ My research interests mostly lie in representation learning, i.e., automating fe
 With the emergence of domain-oriented data and tasks, we are interested to incorporate human heuristic domain knowledge into the process of learning representations, so to a build "human + AI" system to tackle very specific challenges in multiple domains.
 Interesting domain applications we concerned include: graph representation for talent intelligence, domain-oriented language representation, etc.
 
+
 News
 ------
 05/2021: One paper accepted to KDD'21. \\
