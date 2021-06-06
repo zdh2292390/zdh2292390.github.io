@@ -19,7 +19,7 @@ redirect_from:
 arXiv:2009.02835 <br> -->
 ### 2021
 - **Domain-oriented Language Modeling with Adaptive Hybrid Masking and Optimal Transport Alignment** [<a href=''>PDF</a>, <a href=''>code</a>] <br>
-<ins>**Denghui Zhang**</ins>, Zixuan Yuan, Yanchi Liu, Hao Liu, Zuohui Fu, Fuzhen Zhuang, Hui Xiong, Haifeng Chen<br>
+<ins>**Denghui Zhang**</ins>, Zixuan Yuan, Yanchi Liu, Hao Liu, Fuzhen Zhuang, Hui Xiong, Haifeng Chen<br>
 **KDD'21**: Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining.<br>
 
 - **Self-Supervised Prototype Representation Learning for Event-Based Corporate Profiling** [<a href='Corporate_Profiling__AAAI_2021.pdf'>PDF</a>, <a href=''>code</a>] <br>
