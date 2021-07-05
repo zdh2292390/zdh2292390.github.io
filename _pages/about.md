@@ -43,8 +43,8 @@ Education
   * **Institute of Computing Technology, Chinese Academy of Sciences**
     * M.S. in Computer Science, &nbsp;2015 - 2018
     <!-- * Advisor: Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ&hl=enl)  -->
-  * **University of Science and Technology Beijing**
-    * B.E. in Electronic Engineering, &nbsp;2011 - 2015
+  <!-- * **University of Science and Technology Beijing** -->
+    <!-- * B.E. in Electronic Engineering, &nbsp;2011 - 2015 -->
     <!-- * Beijing Outstanding Undergraduate Award (Top 2%) -->
 
 <!-- Publications
