@@ -49,18 +49,15 @@ Education
 
 Industry Experiences
 ------
-* **Amazon,    &emsp;&emsp; Applied Scientist Intern, &emsp;&emsp;    2021.05 - 2021.08**
+* Amazon,    &emsp;&emsp; Applied Scientist Intern, &emsp;&emsp;    2021.05 - 2021.08
     <!-- * Topic: Entity Matching. -->
     <!-- * Managers: [Xin Luna Dong](http://lunadong.com/), [Hao Wei](https://scholar.google.com.hk/citations?user=n6FiSS0AAAAJ&hl=en), [Zhengyang Wang](https://scholar.google.com/citations?user=A4fNBtEAAAAJ) -->
-
-* **NEC Laboratories America,    &emsp;&emsp; Research Intern, &emsp;&emsp;    2020.06 - 2020.08**
+* NEC Laboratories America,    &emsp;&emsp; Research Intern, &emsp;&emsp;    2020.06 - 2020.08
     <!-- * Topic: Deep Contextualized Product Semantic Learning. -->
-
-* **NEC Laboratories America,    &emsp;&emsp; Research Intern, &emsp;&emsp;    2019.06 - 2019.08**
+* NEC Laboratories America,    &emsp;&emsp; Research Intern, &emsp;&emsp;    2019.06 - 2019.08
     <!-- * Topic: Spatio-temporal Modeling for Turbulence Forecasting. -->
     <!-- * Manager: Dr. [Yanchi Liu](https://scholar.google.com.hk/citations?hl=zh-CN&user=faLmr-YAAAAJ&view_op=list_works&sortby=pubdate)  -->
-
-* **Baidu Research,       &emsp;&emsp; Research Intern, &emsp;&emsp;    2018.06 - 2018.08**
+* Baidu Research,       &emsp;&emsp; Research Intern, &emsp;&emsp;    2018.06 - 2018.08
     <!-- * Topic: Representation Learning for Talent and Job Title Analysis. -->
     <!-- * Manager: Dr. [Hengshu Zhu](http://www.zhuhengshu.com/)  -->
 
