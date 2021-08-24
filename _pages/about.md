@@ -18,6 +18,8 @@ Interesting domain applications we concerned include: graph representation for t
 
 News
 ------
+08/2021: Invited as a PC member for AAAI'22, WSDM'22. \\
+07/2021: Invited as a PC member for IJCAI'22. \\
 05/2021: One paper accepted to KDD'21. \\
 04/2021: Passed my dissertation proposal defense, glad to be Ph.D. candidate now! \\
 <!-- 01/2021: Will join Amazon as a research intern working with Dr. [Xin Luna Dong](http://lunadong.com/) and Dr. [Zhengyang Wang](https://zhengyang-wang.github.io/). \\ -->
@@ -63,8 +65,8 @@ Industry Experiences
 
 Services
 ------
-PC Member: WWW'21, IJCAI'21, AAAI'21.\\
-External/Sub Reviewer:  CIKM 2019, TKDE 2019, WSDM 2020, CIKM 2020, IJCAI 2020.
+PC Member: AAAI'22, IJCAI'22, WSDM'22, WWW'21, IJCAI'21, AAAI'21.\\
+External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TKDE 2019.
 
 
 
