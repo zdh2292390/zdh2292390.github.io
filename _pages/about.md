@@ -11,7 +11,7 @@ redirect_from:
 Greetings! I am Denghui Zhang.
 
 I am a Ph.D. candidate in Data Mining at [Rutgers University](https://www.rutgers.edu/), working with Prof. [Hui Xiong](https://scholar.google.com.hk/citations?hl=zh-CN&user=cVDF1tkAAAAJ&view_op=list_works&sortby=pubdate). I am a member of the [Rutgers Data Mining Lab](http://datamining.rutgers.edu/CDMBA/). 
-My research interests mostly lie in representation learning, i.e., automating feature learning from data with little annotation effort by designing customized self-supervised tasks. 
+My research interests mostly lie in self-supervised representation learning, i.e., automating feature learning from data with little annotation effort by designing customized self-supervised tasks. 
 With the emergence of domain-oriented data and tasks, we are interested to incorporate human heuristic domain knowledge into the process of learning representations, so to a build "human + AI" system to tackle very specific challenges in multiple domains.
 Interesting domain applications we concerned include: graph representation for talent intelligence, domain-oriented language representation, etc.
 
