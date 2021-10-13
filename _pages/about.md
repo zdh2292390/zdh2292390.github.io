@@ -51,20 +51,20 @@ Education
 
 Industry Experiences
 ------
-* Amazon Science,     2021.05 - 2021.08
+* Amazon Science,   &emsp;&emsp;  2021.05 - 2021.08
     <!-- * Topic: Entity Matching. -->
     <!-- * Managers: [Xin Luna Dong](http://lunadong.com/), [Hao Wei](https://scholar.google.com.hk/citations?user=n6FiSS0AAAAJ&hl=en), [Zhengyang Wang](https://scholar.google.com/citations?user=A4fNBtEAAAAJ) -->
-    * Applied Scientist Intern, &emsp;&emsp;   
+    * Applied Scientist Intern    
 <!-- * NEC Laboratories America,    &emsp;&emsp; Research Intern, &emsp;&emsp;    2020.06 - 2020.08 -->
-* NEC Laboratories America, 2020.06 - 2020.08
-  * Research Intern, &emsp;&emsp;   
+* NEC Laboratories America, &emsp;&emsp;  2020.06 - 2020.08
+  * Research Intern   
     <!-- * Topic: Deep Contextualized Product Semantic Learning. -->
-* NEC Laboratories America,  2019.06 - 2019.08
-  * Research Intern, &emsp;&emsp;    
+* NEC Laboratories America, &emsp;&emsp;   2019.06 - 2019.08
+  * Research Intern    
     <!-- * Topic: Spatio-temporal Modeling for Turbulence Forecasting. -->
     <!-- * Manager: Dr. [Yanchi Liu](https://scholar.google.com.hk/citations?hl=zh-CN&user=faLmr-YAAAAJ&view_op=list_works&sortby=pubdate)  -->
-* Baidu Research,          2018.06 - 2018.08
-  * Research Intern, &emsp;&emsp; 
+* Baidu Research,     &emsp;&emsp;     2018.06 - 2018.08
+  * Research Intern
     <!-- * Topic: Representation Learning for Talent and Job Title Analysis. -->
     <!-- * Manager: Dr. [Hengshu Zhu](http://www.zhuhengshu.com/)  -->
 
@@ -74,25 +74,15 @@ Services
 External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TKDE 2019. -->
 
 * Conference Program Committee Member:
-
-  - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 
-    - External Reviewer (2021)
-  - Annual Meeting of the Association for Computational Linguistics (ACL), 
-    - Rolling Reviewer (2022)
-  - AAAI Conference on Artificial Intelligence (AAAI), 
-    - Program Committee (2021, 2022)
-  - International Joint Conference on Artificial Intelligence (IJCAI), 
-    - Program Committee (2021,2022), External Reviewer (2020)
-  - International Conference on Information and Knowledge Management (CIKM), 
-    - External Reviewer (2019,2020)
-  - ACM International Conference on Web Search and Data Mining (WSDM), 
-    - Program Committee (2022), External Reviewer(2020)
+  
+  - ACM Conference on Knowledge Discovery and Data Mining (SIGKDD), External Reviewer (2021)
+  - Annual Meeting of the Association for Computational Linguistics (ACL), Rolling Reviewer (2022)
+  - AAAI Conference on Artificial Intelligence (AAAI), Program Committee (2021, 2022)
+  - International Joint Conference on Artificial Intelligence (IJCAI), Program Committee (2021,2022), External Reviewer (2020)
+  - International Conference on Information and Knowledge Management (CIKM), External Reviewer (2019,2020)
+  - ACM International Conference on Web Search and Data Mining (WSDM), Program Committee (2022), External Reviewer(2020)
 
 * Journal Reviewer:
 
   - IEEE Transactions on Knowledge and Data Engineering (TKDE), External Reviewer, 2019
-
-
-
-
 
