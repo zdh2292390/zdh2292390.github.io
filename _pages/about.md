@@ -73,7 +73,7 @@ Services
 <!-- PC Member: ACL'2022, AAAI'22, IJCAI'22, WSDM'22, WWW'21, IJCAI'21, AAAI'21.\\
 External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TKDE 2019. -->
 
-* Program Committee Member:
+* **Program Committee Member:**
   - ACM Conference on Knowledge Discovery and Data Mining (SIGKDD)
     - External Reviewer (2021)
 
@@ -93,7 +93,7 @@ External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TK
     - Program Committee (2022), External Reviewer (2020)
 
 
-* Journal Reviewer:
+* **Journal Reviewer:**
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
     - External Reviewer (2019)
 
