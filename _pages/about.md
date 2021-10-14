@@ -51,22 +51,23 @@ Education
 
 Industry Experiences
 ------
-* Amazon Science,   &emsp;&emsp;  2021.05 - 2021.08
-    <!-- * Topic: Entity Matching. -->
-    <!-- * Managers: [Xin Luna Dong](http://lunadong.com/), [Hao Wei](https://scholar.google.com.hk/citations?user=n6FiSS0AAAAJ&hl=en), [Zhengyang Wang](https://scholar.google.com/citations?user=A4fNBtEAAAAJ) -->
-    * Applied Scientist Intern    
+<!-- * Amazon Science,   &emsp;&emsp;  2021.05 - 2021.08 -->
+* Amazon Science,   &emsp;&emsp;, Product Graph Team, &emsp;&emsp;, 2021.05 - 2021.08
+    * Topic: Language Representation Pre-training for Low-resource Entity Matching.
+    * Managers: [Xin Luna Dong](http://lunadong.com/), [Hao Wei](https://scholar.google.com.hk/citations?user=n6FiSS0AAAAJ&hl=en), [Zhengyang Wang](https://scholar.google.com/citations?user=A4fNBtEAAAAJ)
+    * Applied Scientist Intern
 <!-- * NEC Laboratories America,    &emsp;&emsp; Research Intern, &emsp;&emsp;    2020.06 - 2020.08 -->
-* NEC Laboratories America, &emsp;&emsp;  2020.06 - 2020.08
+* NEC Laboratories America, &emsp;&emsp;, Data Science and System Security, &emsp;&emsp;, 2020.06 - 2020.08
   * Research Intern   
-    <!-- * Topic: Deep Contextualized Product Semantic Learning. -->
-* NEC Laboratories America, &emsp;&emsp;   2019.06 - 2019.08
-  * Research Intern    
-    <!-- * Topic: Spatio-temporal Modeling for Turbulence Forecasting. -->
-    <!-- * Manager: Dr. [Yanchi Liu](https://scholar.google.com.hk/citations?hl=zh-CN&user=faLmr-YAAAAJ&view_op=list_works&sortby=pubdate)  -->
-* Baidu Research,     &emsp;&emsp;     2018.06 - 2018.08
+    * Topic: Deep Contextualized Product Representation Learning.
+* NEC Laboratories America, &emsp;&emsp;,Data Science and System Security,&emsp;&emsp;,   2019.06 - 2019.08
   * Research Intern
-    <!-- * Topic: Representation Learning for Talent and Job Title Analysis. -->
-    <!-- * Manager: Dr. [Hengshu Zhu](http://www.zhuhengshu.com/)  -->
+    * Topic: Spatio-temporal Modeling for Turbulence Forecasting.
+    * Manager: Dr. [Yanchi Liu](https://scholar.google.com.hk/citations?hl=zh-CN&user=faLmr-YAAAAJ&view_op=list_works&sortby=pubdate) 
+* Baidu Research,     &emsp;&emsp; , Talent Intelligence Center, &emsp;&emsp;    2018.06 - 2018.08
+  * Research Intern
+    * Topic: Representation Learning for Talent and Job Market Analysis and Benchmarking.
+    * Manager: Dr. [Hengshu Zhu](http://www.zhuhengshu.com/) 
 
 Services
 ------
