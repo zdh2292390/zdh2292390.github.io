@@ -18,9 +18,13 @@ redirect_from:
 <ins>**Denghui Zhang**</ins>, Zixuan Yuan, Yanchi Liu, 	Zuohui Fu, Fuzhen Zhuang, Pengyang Wang, Haifeng Chen, Hui Xiong<br>
 arXiv:2009.02835 <br> -->
 <!-- ### 2021 -->
-- **Domain-oriented Language Modeling with Adaptive Hybrid Masking and Optimal Transport Alignment** [<a href=''>PDF</a>, <a href=''>code</a>] <br>
+- **Learning to Walk with Dual Agents for Knowledge Graph Reasoning** [<a href=''>PDF</a>, <a href=''>code</a>] <br>
+<ins>**Denghui Zhang**</ins>, Zixuan Yuan, Hao Liu, Xiaodong Lin, Hui Xiong<br>
+**AAAI'22**: Proceedings of the 36th AAAI Conference on Artificial Intelligence. (**15% acceptance rate**)<br>
+
+- **Domain-oriented Language Modeling with Adaptive Hybrid Masking and Optimal Transport Alignment** [<a href='KDD21.pdf'>PDF</a>, <a href=''>code</a>] <br>
 <ins>**Denghui Zhang**</ins>, Zixuan Yuan, Yanchi Liu, Hao Liu, Fuzhen Zhuang, Hui Xiong, Haifeng Chen<br>
-**KDD'21**: Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining.<br>
+**KDD'21**: Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (**15.4% acceptance rate**)<br>
 
 - **Self-Supervised Prototype Representation Learning for Event-Based Corporate Profiling** [<a href='Corporate_Profiling__AAAI_2021.pdf'>PDF</a>, <a href=''>code</a>] <br>
 Zixuan Yuan, Hao Liu, Renjun Hu, <ins>**Denghui Zhang**</ins>, Hui Xiong<br>

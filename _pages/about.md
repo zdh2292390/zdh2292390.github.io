@@ -18,6 +18,9 @@ Interesting domain applications we concerned include: graph representation for t
 
 News
 ------
+12/2021: One paper on KG reasoning got accepted to AAAI'22 (15% acceptance rate). \\
+11/2021: Invited as a PC member for KDD'22 Applied Data Science Track. \\
+10/2021: Gave a talk about "Domain-oriented BERT" at [AI Times (by Tsinghua University)](https://www.bilibili.com/video/BV11q4y197Qr?spm_id_from=333.999.0.0). ([slides]()) \\
 08/2021: Invited as a PC member for AAAI'22, WSDM'22. \\
 07/2021: Invited as a PC member for IJCAI'22. \\
 05/2021: One paper accepted to KDD'21. \\
@@ -55,7 +58,7 @@ Industry Experiences
 * Amazon Science,   &emsp;&emsp; Product Graph Team, &emsp;&emsp; 2021.05 - 2021.08
   * Applied Scientist Intern
     * Topic: Language Representation Pre-training for Low-resource Entity Matching.
-    * Mentors: [Xin Luna Dong](http://lunadong.com/), [Hao Wei](https://scholar.google.com.hk/citations?user=n6FiSS0AAAAJ&hl=en), [Zhengyang Wang](https://scholar.google.com/citations?user=A4fNBtEAAAAJ)
+    * Mentors: [Xin Luna Dong](http://lunadong.com/), [Zhengyang Wang](https://scholar.google.com/citations?user=A4fNBtEAAAAJ)
 <!-- * NEC Laboratories America,    &emsp;&emsp; Research Intern, &emsp;&emsp;    2020.06 - 2020.08 -->
 * NEC Laboratories America, &emsp;&emsp; Data Science Team, &emsp;&emsp; 2020.06 - 2020.08
   * Research Intern   
@@ -76,6 +79,7 @@ External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TK
 
 * **Program Committee Member:**
   - ACM Conference on Knowledge Discovery and Data Mining (SIGKDD)
+    - Program Committee (2022)
     - External Reviewer (2021)
 
   - Annual Meeting of the Association for Computational Linguistics (ACL)
