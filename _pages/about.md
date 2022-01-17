@@ -15,12 +15,11 @@ I am a Ph.D. candidate in Data Mining at [Rutgers University](https://www.rutger
 With the emergence of domain-oriented data and tasks, we are interested to incorporate human heuristic domain knowledge into the process of learning representations, so to a build "human + AI" system to tackle very specific challenges in multiple domains.
 Interesting domain applications we concerned include: graph representation for talent intelligence, domain-oriented language representation, etc. -->
 
-
 My research interests lie in the intersection of data mining and business intelligence.
 Regarding domain sciences, I study business and management sciences, in particular, career transition pattern mining, intelligent career benchmarking, talent intelligence, e-commerce product linkage, e-commerce text analysis, etc.
 In terms of computational methodology, I study graph representation learning, self-supervised learning, knowledge graphs, large-scale language models, as well as their adaptation to the domains of interest.
 <!-- My general research agenda is to introduce domain knowledge into the process of model design to improve their predictive power, or apply data mining techniques to discover/decipher domain insights/phenomenons. -->
-My general research agenda is to incorporate domain knowledge into the development of learning models in order to improve their predictive power; to apply data mining techniques to understand economic phenomena and discover domain insights that provide business values.s
+My general research agenda is to incorporate domain knowledge into the development of learning models in order to improve their predictive power; to apply data mining techniques to understand economic phenomena and discover domain insights that provide business values.
 
 News
 ------
