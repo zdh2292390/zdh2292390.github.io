@@ -11,10 +11,14 @@ redirect_from:
 Greetings! I am Denghui Zhang.
 
 I am a Ph.D. candidate in Data Mining at [Rutgers University](https://www.rutgers.edu/), working with Prof. [Hui Xiong](https://scholar.google.com.hk/citations?hl=zh-CN&user=cVDF1tkAAAAJ&view_op=list_works&sortby=pubdate). I am a member of the [Rutgers Data Mining Lab](http://datamining.rutgers.edu/CDMBA/). 
-My research interests mostly lie in self-supervised representation learning, i.e., automating feature learning from data with little annotation effort by designing customized self-supervised tasks. 
+<!-- My research interests mostly lie in self-supervised representation learning, i.e., automating feature learning from data with little annotation effort by designing customized self-supervised tasks. 
 With the emergence of domain-oriented data and tasks, we are interested to incorporate human heuristic domain knowledge into the process of learning representations, so to a build "human + AI" system to tackle very specific challenges in multiple domains.
-Interesting domain applications we concerned include: graph representation for talent intelligence, domain-oriented language representation, etc.
-
+Interesting domain applications we concerned include: graph representation for talent intelligence, domain-oriented language representation, etc. -->
+My research interests lie in the intersection of data mining/machine learning and business/management.
+Regarding domain sciences, I study business and management sciences, in particular, career transition pattern mining, intelligent career benchmarking, talent intelligence, e-commerce product linkage, e-commerce text analysis, etc.
+In terms of computational methodology, I study graph representation learning, self-supervised learning, knowledge graphs, large-scale language models, as well as their adaptation to the domains of interest.
+<!-- My general research agenda is to introduce domain knowledge into the process of model design to improve their predictive power, or apply data mining techniques to discover/decipher domain insights/phenomenons. -->
+My general research agenda is to incorporate domain knowledge into the development of learning models in order to improve their predictive power, or to apply data mining techniques to discover/understand domain insights/phenomena.
 
 News
 ------
