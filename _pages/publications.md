@@ -68,5 +68,18 @@ IEEE Transactions on Big Data, pp.1-14 <br>
 <ins>**Denghui Zhang**</ins>, Manling Li, Yantao Jia, Yuanzhuo Wang, Xueqi Cheng <br>
 **WI 2017**: Proceedings of IEEE/WIC/ACM International Conference on Web Intelligence, pp.460-468<br>
 
-<!-- ## Patents -->
-<!-- [<a href='attrextr.html'>Detail</a>]<br> -->
+
+## Journal Under Review
+
+- **Multi-Faceted Knowledge-Driven Pre-training for Product Representation Learning** 
+<!-- <ins>**Denghui Zhang**</ins>, Zixuan Yuan, Hao Liu, Xiaodong Lin, Hui Xiong<br> -->
+**TKDE**: Proceedings of the 36th AAAI Conference on Artificial Intelligence. (**Major revision**)<br>
+
+
+## Patents
+- **Semi-supervised deep model for turbulence forecasting** 
+[<a href=''>US Patent App. 17/165,515</a>]<br>
+
+- **Multi-scale multi-granularity spatial-temporal traffic volume prediction** 
+[<a href=''>US Patent App. 17/003,112</a>]<br>
+
