@@ -73,7 +73,7 @@ IEEE Transactions on Big Data, pp.1-14 <br>
 
 - **Multi-Faceted Knowledge-Driven Pre-training for Product Representation Learning** 
 <!-- <ins>**Denghui Zhang**</ins>, Zixuan Yuan, Hao Liu, Xiaodong Lin, Hui Xiong<br> -->
-**[TKDE]**: IEEE Transactions on Knowledge and Data Engineering. (**Major revision**)<br>
+[TKDE]: IEEE Transactions on Knowledge and Data Engineering. (**Major revision**)<br>
 
 
 ## Patents

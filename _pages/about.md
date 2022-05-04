@@ -87,6 +87,9 @@ External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TK
     - Session: AI-driven Business Analytics: New Advances and Applications
 
 * **Program Committee Member:**
+  -  Pacific Asia Conference on Information Systems (PACIS)
+    - Reviewer (2022)
+
   - ACM Conference on Knowledge Discovery and Data Mining (SIGKDD)
     - Program Committee (2022)
     - External Reviewer (2021)
@@ -108,6 +111,9 @@ External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TK
 
 
 * **Journal Reviewer:**
+  - Electronic Commerce Research and Applications
+    - Reviewer (2022)
+    
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
     - External Reviewer (2019)
 
