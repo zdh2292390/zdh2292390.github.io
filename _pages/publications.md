@@ -73,13 +73,13 @@ IEEE Transactions on Big Data, pp.1-14 <br>
 
 - **Multi-Faceted Knowledge-Driven Pre-training for Product Representation Learning** 
 <!-- <ins>**Denghui Zhang**</ins>, Zixuan Yuan, Hao Liu, Xiaodong Lin, Hui Xiong<br> -->
-**TKDE**: Proceedings of the 36th AAAI Conference on Artificial Intelligence. (**Major revision**)<br>
+**[TKDE]**: IEEE Transactions on Knowledge and Data Engineering. (**Major revision**)<br>
 
 
 ## Patents
-- **Semi-supervised deep model for turbulence forecasting** 
-[<a href=''>US Patent App. 17/165,515</a>]<br>
+- [<a href=''>US Patent App. 17/165,515</a>] **Semi-supervised deep model for turbulence forecasting** 
 
-- **Multi-scale multi-granularity spatial-temporal traffic volume prediction** 
-[<a href=''>US Patent App. 17/003,112</a>]<br>
+
+- [<a href=''>US Patent App. 17/003,112</a>] **Multi-scale multi-granularity spatial-temporal traffic volume prediction** 
+
 

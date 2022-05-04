@@ -23,7 +23,7 @@ My general research agenda is to incorporate domain knowledge into the developme
 
 News
 ------
-04/2022: Will serve as a session chair at [INFORMS 2022](https://meetings.informs.org/wordpress/indianapolis2022/). 
+04/2022: Will serve as a session chair at [INFORMS 2022](https://meetings.informs.org/wordpress/indianapolis2022/). \\
 12/2021: One paper on KG reasoning got accepted to AAAI'22 (15% acceptance rate). \\
 11/2021: Invited as a PC member for KDD'22 Applied Data Science Track. \\
 10/2021: Gave a talk about "Domain-oriented BERT" at [AI Times (by Tsinghua University)](https://www.bilibili.com/video/BV11q4y197Qr?spm_id_from=333.999.0.0). ([slides]()) \\
@@ -84,6 +84,7 @@ Services
 External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TKDE 2019. -->
 * **Session Chair:**
   - INFORMS Annual Meeting 2022
+    - Session: AI-driven Business Analytics: New Advances and Applications
 
 * **Program Committee Member:**
   - ACM Conference on Knowledge Discovery and Data Mining (SIGKDD)
