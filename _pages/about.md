@@ -23,6 +23,7 @@ My general research agenda is to incorporate domain knowledge into the developme
 
 News
 ------
+05/2022: Thrilled to received the Dissertation Fellowship from Rutgers, thanks! \\
 04/2022: Will serve as a session chair at [INFORMS 2022](https://meetings.informs.org/wordpress/indianapolis2022/). \\
 12/2021: One paper on KG reasoning got accepted to AAAI'22 (15% acceptance rate). \\
 11/2021: Invited as a PC member for KDD'22 Applied Data Science Track. \\
@@ -113,7 +114,7 @@ External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TK
 * **Journal Reviewer:**
   - Electronic Commerce Research and Applications
     - Reviewer (2022)
-    
+
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
     - External Reviewer (2019)
 
