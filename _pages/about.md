@@ -23,7 +23,7 @@ My general research agenda is to incorporate domain knowledge into the developme
 
 News
 ------
-05/2022: Thrilled to received the Dissertation Fellowship from Rutgers, thanks! \\
+05/2022: Thrilled to receive the Dissertation Fellowship from Rutgers, thanks! \\
 04/2022: Will serve as a session chair at [INFORMS 2022](https://meetings.informs.org/wordpress/indianapolis2022/). \\
 12/2021: One paper on KG reasoning got accepted to AAAI'22 (15% acceptance rate). \\
 11/2021: Invited as a PC member for KDD'22 Applied Data Science Track. \\
