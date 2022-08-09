@@ -8,21 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I am Denghui Zhang.
+<!-- Greetings! I am Denghui Zhang. -->
 
-I am a Ph.D. candidate in Data Mining at [Rutgers University](https://www.rutgers.edu/), working with Prof. [Hui Xiong](https://scholar.google.com.hk/citations?hl=zh-CN&user=cVDF1tkAAAAJ&view_op=list_works&sortby=pubdate). I am a member of the [Rutgers Data Mining Lab](http://datamining.rutgers.edu/CDMBA/). 
+Denghui Zhang is a 5th-year Ph.D. student in Information Systems at [Rutgers University](https://www.rutgers.edu/), working with Prof. [Hui Xiong](https://scholar.google.com.hk/citations?hl=zh-CN&user=cVDF1tkAAAAJ&view_op=list_works&sortby=pubdate). He is a member of the [Rutgers Data Mining Lab](http://datamining.rutgers.edu/CDMBA/). 
 <!-- My research interests mostly lie in self-supervised representation learning, i.e., automating feature learning from data with little annotation effort by designing customized self-supervised tasks. 
 With the emergence of domain-oriented data and tasks, we are interested to incorporate human heuristic domain knowledge into the process of learning representations, so to a build "human + AI" system to tackle very specific challenges in multiple domains.
 Interesting domain applications we concerned include: graph representation for talent intelligence, domain-oriented language representation, etc. -->
 
-My research interests lie in the intersection of data mining and business intelligence.
+<!-- My research interests lie  -->
+His research interests lies in the intersection of data mining and business intelligence.
 Regarding domain sciences, I study business and management sciences, in particular, career transition pattern mining, intelligent career benchmarking, talent intelligence, e-commerce product linkage, e-commerce text analysis, etc.
-In terms of computational methodology, I study graph representation learning, self-supervised learning, knowledge graphs, large-scale language models, as well as their adaptation to the domains of interest.
+In terms of computational methodology, he studies graph representation learning, self-supervised learning, knowledge graphs, large-scale language models, as well as their adaptation to the domains of interest.
 <!-- My general research agenda is to introduce domain knowledge into the process of model design to improve their predictive power, or apply data mining techniques to discover/decipher domain insights/phenomenons. -->
-My general research agenda is to incorporate domain knowledge into the development of learning models in order to improve their predictive power; to apply data mining techniques to understand economic phenomena and discover domain insights that provide business values.
+His general research agenda is to incorporate domain knowledge into the development of learning models in order to improve their predictive power; to apply data mining techniques to understand economic phenomena and discover domain insights that provide business values.
+
+His work has been published in top venues of data mining, artificial intelligence and information systems, including refereed journals (IEEE TKDE, IEEE BigData) and conference proceedings (KDD, AAAI, ICDM, CIKM, CIST, etc.). He also has serveral ongoing work under preparation for UTD journals (ISR, Management Science).
+
+
+<blue> I am on job market for faculty positions now. Recommendations or suggestions are warmly welcome!</blue>
+
 
 News
 ------
+08/2022: One paper got accepted to [CIST 2022](https://sites.google.com/view/cist2022/home?authuser=0)! \\
+08/2022: One paper on product representation learning got accepted to IEEE TKDE! \\
 05/2022: Thrilled to receive the Dissertation Fellowship from Rutgers, thanks! \\
 04/2022: Will serve as a session chair at [INFORMS 2022](https://meetings.informs.org/wordpress/indianapolis2022/). \\
 12/2021: One paper on KG reasoning got accepted to AAAI'22 (15% acceptance rate). \\

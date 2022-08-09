@@ -18,8 +18,18 @@ redirect_from:
 <ins>**Denghui Zhang**</ins>, Zixuan Yuan, Yanchi Liu, 	Zuohui Fu, Fuzhen Zhuang, Pengyang Wang, Haifeng Chen, Hui Xiong<br>
 arXiv:2009.02835 <br> -->
 <!-- ### 2021 -->
+### Peer-reviewed conference and journal papers
+
+- **Acqui-hiring or Acqui-quitting: Post-M\&A Turnover Prediction via a Dual-fit GNN Model** 
+<ins>**Denghui Zhang**</ins>, Hao Zhong, Jingyuan Yang<br>
+**CIST'22**: INFORMS Conference On Information Systems And Technology, 2022.<br>
+
+- **Multi-Faceted Knowledge-Driven Pre-training for Product Representation Learning** 
+<ins>**Denghui Zhang**</ins>, Yanchi Liu, Zixuan Yuan, Yanjie Fu, Haifeng Chen, Hui Xiong<br>
+**IEEE TKDE**: IEEE Transactions on Knowledge and Data Engineering.<br>
+
 - **Learning to Walk with Dual Agents for Knowledge Graph Reasoning** [<a href='https://arxiv.org/pdf/2112.12876.pdf'>PDF</a>, <a href='https://github.com/RutgersDM/DKGR/tree/master'>code</a>] <br>
-<ins>**Denghui Zhang**</ins>, Zixuan Yuan, Hao Liu, Xiaodong Lin, Hui Xiong<br>
+<ins>**Denghui Zhang**</ins>, <ins>**Zixuan Yuan**</ins>, Hao Liu, Xiaodong Lin, Hui Xiong<br>
 **AAAI'22**: Proceedings of the 36th AAAI Conference on Artificial Intelligence. (**15% acceptance rate**)<br>
 
 - **Domain-oriented Language Modeling with Adaptive Hybrid Masking and Optimal Transport Alignment** [<a href='KDD21.pdf'>PDF</a>, <a href=''>code</a>] <br>
@@ -69,16 +79,18 @@ IEEE Transactions on Big Data, pp.1-14 <br>
 **WI 2017**: Proceedings of IEEE/WIC/ACM International Conference on Web Intelligence, pp.460-468<br>
 
 
-## Journal Under Review
+### Working papers
 
-- **Multi-Faceted Knowledge-Driven Pre-training for Product Representation Learning** 
-<!-- <ins>**Denghui Zhang**</ins>, Zixuan Yuan, Hao Liu, Xiaodong Lin, Hui Xiong<br> -->
-[TKDE]: IEEE Transactions on Knowledge and Data Engineering. (**Major revision**)<br>
+- **Acqui-hiring or Acqui-quitting: Post-M&A Turnover Prediction via a Dual-fit GNN Model** 
+<ins>**Denghui Zhang**</ins>, Hao Zhong, Jingyuan Yang<br>
+**ISR**: In preparation for Information Systems Research.<br>
 
+- **AlphaVC: A Reinforcement Learning-based Venture Capital Investment Strategy** 
+<ins>**Zixuan Yuan**</ins>, <ins>**Denghui Zhang**</ins>, Hao Zhong, Shengming Zhang, Xiong Hui<br>
+**MNSC**: In preparation for Manamgement Science.<br>
 
-## Patents
+### Patents
 - [<a href=''>US Patent App. 17/165,515</a>] **Semi-supervised deep model for turbulence forecasting** 
-
 
 - [<a href=''>US Patent App. 17/003,112</a>] **Multi-scale multi-granularity spatial-temporal traffic volume prediction** 
 
