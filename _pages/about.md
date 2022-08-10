@@ -24,9 +24,7 @@ His general research agenda is to incorporate domain knowledge into the developm
 
 His work has been published in top venues of data mining, artificial intelligence and information systems, including refereed journals (IEEE TKDE, IEEE BigData) and conference proceedings (KDD, AAAI, ICDM, CIKM, CIST, etc.). He also has serveral ongoing work under preparation for UTD journals (ISR, Management Science).
 
-
-<blue> I am on job market for faculty positions now. Recommendations or suggestions are warmly welcome!</blue>
-
+<span style="color: blue;">I am on job market for faculty positions now. </span>Recommendations or suggestions are warmly welcome!
 
 News
 ------
