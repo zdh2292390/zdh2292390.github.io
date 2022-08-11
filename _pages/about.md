@@ -30,6 +30,7 @@ News
 ------
 08/2022: One paper got accepted to [CIST 2022](https://sites.google.com/view/cist2022/home?authuser=0)! \\
 08/2022: One paper on product representation learning got accepted to IEEE TKDE! \\
+08/2022: Invited to serve as a PC member for [AAAI 2023](https://aaai.org/Conferences/AAAI-23/).
 05/2022: Thrilled to receive the Dissertation Fellowship from Rutgers, thanks! \\
 04/2022: Will serve as a session chair at [INFORMS 2022](https://meetings.informs.org/wordpress/indianapolis2022/). \\
 12/2021: One paper on KG reasoning got accepted to AAAI'22 (15% acceptance rate). \\
