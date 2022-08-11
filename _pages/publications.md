@@ -24,7 +24,7 @@ arXiv:2009.02835 <br> -->
 <ins>**Denghui Zhang**</ins>, Hao Zhong, Jingyuan Yang<br>
 **CIST'22**: INFORMS Conference On Information Systems And Technology, 2022.<br>
 
-- **Multi-Faceted Knowledge-Driven Pre-training for Product Representation Learning** 
+- **Multi-Faceted Knowledge-Driven Pre-training for Product Representation Learning** <br>
 <ins>**Denghui Zhang**</ins>, Yanchi Liu, Zixuan Yuan, Yanjie Fu, Haifeng Chen, Hui Xiong<br>
 **IEEE TKDE**: IEEE Transactions on Knowledge and Data Engineering.<br>
 
