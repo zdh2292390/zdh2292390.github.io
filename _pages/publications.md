@@ -71,7 +71,7 @@ IEEE Transactions on Big Data, pp.1-14 <br>
 
 - **Path-Based Attention Neural Model for Fine-Grained Entity Typing**  [<a href='PAN.pdf'>PDF</a>] <br>
 <ins>**Denghui Zhang**</ins>, Manling Li, Pengshan Cai, Yantao Jia, Yuanzhuo Wang, Xueqi Cheng <br>
-**AAAI 2018**: Proceedings of the 32nd AAAI Conference on Artificial Intelligence, pp.8179-8180 <br>
+**AAAI 2018**: Proceedings of the 32nd AAAI Conference on Artificial Intelligence, pp.8179-8180 (abstract paper) <br>
 
 
 - **Efficient Parallel Translating Embedding For Knowledge Graphs**  [<a href='ParTransX.pdf'>PDF</a>, <a href=''>code</a>] <br>
