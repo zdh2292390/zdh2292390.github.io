@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- Greetings! I am Denghui Zhang. -->
 
-Denghui Zhang is a 5th-year Ph.D. student in Information Systems at [Rutgers University](https://www.rutgers.edu/), working with Prof. [Hui Xiong](https://scholar.google.com.hk/citations?hl=zh-CN&user=cVDF1tkAAAAJ&view_op=list_works&sortby=pubdate). He is a member of the [Rutgers Data Mining Lab](http://datamining.rutgers.edu/CDMBA/). 
+Denghui Zhang is a 5th-year Ph.D. student in Information Systems at [Rutgers University](https://en.wikipedia.org/wiki/Rutgers_University#Rankings), working with Prof. [Hui Xiong](https://scholar.google.com.hk/citations?hl=zh-CN&user=cVDF1tkAAAAJ&view_op=list_works&sortby=pubdate). He is a member of the [Rutgers Data Mining Lab](http://datamining.rutgers.edu/CDMBA/). 
 <!-- My research interests mostly lie in self-supervised representation learning, i.e., automating feature learning from data with little annotation effort by designing customized self-supervised tasks. 
 With the emergence of domain-oriented data and tasks, we are interested to incorporate human heuristic domain knowledge into the process of learning representations, so to a build "human + AI" system to tackle very specific challenges in multiple domains.
 Interesting domain applications we concerned include: graph representation for talent intelligence, domain-oriented language representation, etc. -->
@@ -36,7 +36,7 @@ News
 04/2022: Will serve as a session chair at [INFORMS 2022](https://meetings.informs.org/wordpress/indianapolis2022/). \\
 12/2021: One paper on KG reasoning got accepted to AAAI'22 (15% acceptance rate). \\
 11/2021: Invited as a PC member for KDD'22 Applied Data Science Track. \\
-10/2021: Gave a talk about "Domain-oriented BERT" at [AI Times (by Tsinghua University)](https://www.bilibili.com/video/BV11q4y197Qr?spm_id_from=333.999.0.0). ([slides]()) \\
+10/2021: Gave a talk about "Domain-oriented BERT" at [AI Times (by Tsinghua University)](https://www.bilibili.com/video/BV11q4y197Qr?spm_id_from=333.999.0.0). \\
 08/2021: Invited as a PC member for AAAI'22, WSDM'22. \\
 07/2021: Invited as a PC member for IJCAI'22. \\
 05/2021: One paper accepted to KDD'21. \\
