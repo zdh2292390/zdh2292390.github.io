@@ -18,7 +18,7 @@ redirect_from:
 <ins>**Denghui Zhang**</ins>, Zixuan Yuan, Yanchi Liu, 	Zuohui Fu, Fuzhen Zhuang, Pengyang Wang, Haifeng Chen, Hui Xiong<br>
 arXiv:2009.02835 <br> -->
 <!-- ### 2021 -->
-### Peer-reviewed conference and journal papers
+## Peer-reviewed conference and journal papers
 
 - **Acqui-hiring or Acqui-quitting: Data-driven Post-M&A Turnover Prediction via a Dual-fit GNN Model** <br>
 <ins>**Denghui Zhang**</ins>, Hao Zhong, Jingyuan Yang<br>
@@ -79,7 +79,7 @@ IEEE Transactions on Big Data, pp.1-14 <br>
 **WI 2017**: Proceedings of IEEE/WIC/ACM International Conference on Web Intelligence, pp.460-468<br>
 
 
-### Working papers
+## Working papers
 
 - **Acqui-hiring or Acqui-quitting: Post-M&A Turnover Prediction via a Dual-fit GNN Model** 
 <ins>**Denghui Zhang**</ins>, Hao Zhong, Jingyuan Yang<br>
@@ -89,7 +89,7 @@ IEEE Transactions on Big Data, pp.1-14 <br>
 <ins>**Zixuan Yuan**</ins>, <ins>**Denghui Zhang**</ins>, Hao Zhong, Shengming Zhang, Xiong Hui<br>
 **MNSC**: In preparation for Manamgement Science.<br>
 
-### Patents
+## Patents
 - [<a href=''>US Patent App. 17/165,515</a>] **Semi-supervised deep model for turbulence forecasting** 
 
 - [<a href=''>US Patent App. 17/003,112</a>] **Multi-scale multi-granularity spatial-temporal traffic volume prediction** 
