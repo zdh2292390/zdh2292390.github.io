@@ -29,7 +29,7 @@ His work has been published in top venues of data mining, artificial intelligenc
 News
 ------
 08/2022: One paper got accepted to [CIST 2022](https://sites.google.com/view/cist2022/home?authuser=0)! \\
-08/2022: One paper on product representation learning got accepted to IEEE TKDE! \\
+08/2022: One paper on product representation learning got accepted to [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)! \\
 08/2022: Invited to serve as a PC member for [AAAI 2023](https://aaai.org/Conferences/AAAI-23/). \\
 05/2022: Thrilled to receive the Dean's Dissertation Fellowship from Rutgers, thanks Rutgers! \\
 04/2022: Will serve as a session chair at [INFORMS 2022](https://meetings.informs.org/wordpress/indianapolis2022/). \\
