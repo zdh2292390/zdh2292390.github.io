@@ -32,11 +32,11 @@ arXiv:2009.02835 <br> -->
 <ins>**Denghui Zhang**</ins>, <ins>**Zixuan Yuan**</ins>, Hao Liu, Xiaodong Lin, Hui Xiong<br>
 **AAAI'22**: Proceedings of the 36th AAAI Conference on Artificial Intelligence. (**15% acceptance rate**)<br>
 
-- **Domain-oriented Language Modeling with Adaptive Hybrid Masking and Optimal Transport Alignment** [<a href='KDD21.pdf'>PDF</a>, <a href=''>code</a>] <br>
+- **Domain-oriented Language Modeling with Adaptive Hybrid Masking and Optimal Transport Alignment** [<a href='KDD21.pdf'>PDF</a>] <br>
 <ins>**Denghui Zhang**</ins>, Zixuan Yuan, Yanchi Liu, Hao Liu, Fuzhen Zhuang, Hui Xiong, Haifeng Chen<br>
 **KDD'21**: Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (**15.4% acceptance rate**)<br>
 
-- **Self-Supervised Prototype Representation Learning for Event-Based Corporate Profiling** [<a href='Corporate_Profiling__AAAI_2021.pdf'>PDF</a>, <a href=''>code</a>] <br>
+- **Self-Supervised Prototype Representation Learning for Event-Based Corporate Profiling** [<a href='Corporate_Profiling__AAAI_2021.pdf'>PDF</a>, <a href='https://github.com/yuanzx33033/SePaL'>code</a>] <br>
 Zixuan Yuan, Hao Liu, Renjun Hu, <ins>**Denghui Zhang**</ins>, Hui Xiong<br>
 **AAAI'21**: Proceedings of the 35th AAAI Conference on Artificial Intelligence.<br>
 
@@ -53,7 +53,7 @@ Zixuan Yuan, Hao Liu, Yanchi Liu, <ins>**Denghui Zhang**</ins>, Fei Yi, Nengju Z
 
 <!-- ### 2019 -->
 
-- **Job2Vec: Job Title Benchmarking with Collective Multi-View Representation Learning** [<a href='https://arxiv.org/pdf/2009.07429.pdf'>PDF</a>, <a href=''>code</a>]
+- **Job2Vec: Job Title Benchmarking with Collective Multi-View Representation Learning** [<a href='https://arxiv.org/pdf/2009.07429.pdf'>PDF</a>]
 <br>
 <ins>**Denghui Zhang**</ins>, Junming Liu, Hengshu Zhu, Yanchi Liu, Lichen Wang, Pengyang Wang, Hui Xiong<br>
 **CIKM'19**: Proceedings of the 28th ACM International Conference on Information and Knowledge Management, pp.2763-2771<br>
@@ -74,7 +74,7 @@ IEEE Transactions on Big Data, pp.1-14 <br>
 **AAAI 2018**: Proceedings of the 32nd AAAI Conference on Artificial Intelligence, pp.8179-8180 (abstract paper) <br>
 
 
-- **Efficient Parallel Translating Embedding For Knowledge Graphs**  [<a href='ParTransX.pdf'>PDF</a>, <a href=''>code</a>] <br>
+- **Efficient Parallel Translating Embedding For Knowledge Graphs**  [<a href='ParTransX.pdf'>PDF</a>, <a href='https://github.com/zdh2292390/ParTrans-X'>code</a>] <br>
 <ins>**Denghui Zhang**</ins>, Manling Li, Yantao Jia, Yuanzhuo Wang, Xueqi Cheng <br>
 **WI 2017**: Proceedings of IEEE/WIC/ACM International Conference on Web Intelligence, pp.460-468<br>
 
