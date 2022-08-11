@@ -16,13 +16,15 @@ With the emergence of domain-oriented data and tasks, we are interested to incor
 Interesting domain applications we concerned include: graph representation for talent intelligence, domain-oriented language representation, etc. -->
 
 <!-- My research interests lie  -->
+<!-- His research interests lies in the intersection of data mining and business intelligence. -->
 His research interests lies in the intersection of data mining and business intelligence.
-Regarding domain sciences, I study business and management sciences, in particular, career transition pattern mining, intelligent career benchmarking, talent intelligence, e-commerce product linkage, e-commerce text analysis, etc.
-In terms of computational methodology, he studies graph representation learning, self-supervised learning, knowledge graphs, large-scale language models, as well as their adaptation to the domains of interest.
+<!-- Regarding application domains, he studies business and management problems, in particular, online labor market analysis, career transition pattern mining, intelligent career benchmarking, talent intelligence, e-commerce product linkage, e-commerce text analysis, etc. -->
+He is fascinated with two application domains, i.e., business and management, in which he studies problems including online labor market analysis, career transition pattern mining, intelligent job benchmarking, post-M&A turnover prediction, Venture Capital strategy optimization, e-commerce product linkage, e-commerce text analysis, etc.
+In terms of computational methodology, he studies graph representation learning, self-supervised learning, knowledge graphs, large-scale language models, as well as their adaptation to business and management domains.
 <!-- My general research agenda is to introduce domain knowledge into the process of model design to improve their predictive power, or apply data mining techniques to discover/decipher domain insights/phenomenons. -->
-His general research agenda is to incorporate domain knowledge into the development of learning models in order to improve their predictive power; to apply data mining techniques to understand economic phenomena and discover domain insights that provide business values.
+His general research agenda is to incorporate domain knowledge into AI models to improve their predictive power; applying data mining techniques to understand economic phenomena and discover domain insights that provide business values.
 
-His work has been published in top venues of data mining, artificial intelligence and information systems, including refereed journals (IEEE TKDE, IEEE BigData) and conference proceedings (KDD, AAAI, ICDM, CIKM, CIST, etc.). He also has serveral ongoing work under preparation for UTD journals (ISR, Management Science).
+His work has been published in top venues of data mining, artificial intelligence and information systems, including refereed journals (IEEE TKDE, IEEE BigData) and conference proceedings (KDD, AAAI, ICDM, CIKM, CIST, etc.). He has serveral working papers in preparation for UTD journals (ISR, Management Science).
 
 <span style="color: blue;">I am on job market for faculty positions now. </span>Recommendations or suggestions are warmly welcome!
 
