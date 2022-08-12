@@ -20,9 +20,9 @@ Interesting domain applications we concerned include: graph representation for t
 His research interests lies in the intersection of data mining and business intelligence.
 <!-- Regarding application domains, he studies business and management problems, in particular, online labor market analysis, career transition pattern mining, intelligent career benchmarking, talent intelligence, e-commerce product linkage, e-commerce text analysis, etc. -->
 He is fascinated with two application domains, i.e., business and management, in which he studies problems including online labor market analysis, career transition pattern mining, intelligent job benchmarking, post-M&A turnover prediction, Venture Capital strategy optimization, e-commerce product linkage, e-commerce text analysis, etc.
-In terms of computational methodology, he studies graph representation learning, self-supervised learning, knowledge graphs, large-scale language models, as well as their adaptation to business and management domains.
+In terms of data mining methodology, he studies graph representation learning, self-supervised learning, knowledge graphs, large-scale language models, as well as their adaptation to business and management domains.
 <!-- My general research agenda is to introduce domain knowledge into the process of model design to improve their predictive power, or apply data mining techniques to discover/decipher domain insights/phenomenons. -->
-His general research agenda is to incorporate domain knowledge into AI models to improve their predictive power; applying data mining techniques to understand economic phenomena and discover domain insights that provide business values.
+His general research agenda is incorporating domain knowledge to design new AI models to improve their predictive power; applying data mining techniques to understand economic phenomena and discover domain insights that provide business values.
 
 His work has been published in top venues of data mining, artificial intelligence and information systems, including refereed journals (IEEE TKDE, IEEE BigData) and conference proceedings (KDD, AAAI, ICDM, CIKM, CIST, etc.). He has serveral working papers in preparation for UTD journals (ISR, Management Science).
 
@@ -37,19 +37,19 @@ News
 05/2022: Thrilled to receive the Dean's Dissertation Fellowship from Rutgers, thanks Rutgers! \\
 04/2022: Will serve as a session chair at [INFORMS 2022](https://meetings.informs.org/wordpress/indianapolis2022/). \\
 12/2021: One paper on KG reasoning got accepted to AAAI'22 (15% acceptance rate). \\
-11/2021: Invited as a PC member for KDD'22 Applied Data Science Track. \\
+11/2021: Invited to serve as a PC member for KDD'22 Applied Data Science Track. \\
 10/2021: Gave a talk about "Domain-oriented BERT" at [AI Times (by Tsinghua University)](https://www.bilibili.com/video/BV11q4y197Qr?spm_id_from=333.999.0.0). \\
-08/2021: Invited as a PC member for AAAI'22, WSDM'22. \\
-07/2021: Invited as a PC member for IJCAI'22. \\
+08/2021: Invited to serve as a PC member for AAAI'22, WSDM'22. \\
+07/2021: Invited to serve as a PC member for IJCAI'22. \\
 05/2021: One paper accepted to KDD'21. \\
 04/2021: Passed my dissertation proposal defense, glad to be Ph.D. candidate now! \\
 <!-- 01/2021: Will join Amazon as a research intern working with Dr. [Xin Luna Dong](http://lunadong.com/) and Dr. [Zhengyang Wang](https://zhengyang-wang.github.io/). \\ -->
 <!-- 01/2021: Will join Amazon as a research intern working with Dr. [Xin Luna Dong](http://lunadong.com/), [Hao Wei], [Zhengyang Wang](https://zhengyang-wang.github.io/). \\ -->
 01/2021: Will join Amazon as a research intern. \\
 12/2020: One paper accepted to AAAI'21. \\
-11/2020: Invited as a PC member for WWW'21. \\
-10/2020: Invited as a PC member for IJCAI'21. \\
-09/2020: Invited as a PC member for AAAI’21.\\
+11/2020: Invited to serve as a PC member for WWW'21. \\
+10/2020: Invited to serve as a PC member for IJCAI'21. \\
+09/2020: Invited to serve as a PC member for AAAI’21.\\
 <!-- 09/2020 New preprint is out! [E-BERT: A Phrase and Product Knowledge Enhanced Language Model for E-commerce](https://arxiv.org/pdf/2009.02835.pdf) -->
 
 Education
