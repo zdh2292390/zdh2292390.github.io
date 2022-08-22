@@ -28,6 +28,10 @@ arXiv:2009.02835 <br> -->
 <ins>**Denghui Zhang**</ins>, Yanchi Liu, Zixuan Yuan, Yanjie Fu, Haifeng Chen, Hui Xiong<br>
 **IEEE TKDE**: IEEE Transactions on Knowledge and Data Engineering.<br>
 
+- **Towards Learning Disentangled Representations for Time Series** [<a href=''>PDF</a>] <br>
+Yuening Li, Zhengzhang Chen, Daochen Zha, Mengnan Du, <ins>**Denghui Zhang**</ins>, Haifeng Chen, Xia Hu<br>
+**KDD'22**: Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. <br>
+
 - **Learning to Walk with Dual Agents for Knowledge Graph Reasoning** [<a href='https://arxiv.org/pdf/2112.12876.pdf'>PDF</a>, <a href='https://github.com/RutgersDM/DKGR/tree/master'>code</a>] <br>
 <ins>**Denghui Zhang**</ins>, <ins>**Zixuan Yuan**</ins>, Hao Liu, Xiaodong Lin, Hui Xiong<br>
 **AAAI'22**: Proceedings of the 36th AAAI Conference on Artificial Intelligence. (**15% acceptance rate**)<br>
