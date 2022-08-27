@@ -93,6 +93,10 @@ IEEE Transactions on Big Data, pp.1-14 <br>
 <ins>**Zixuan Yuan**</ins>, <ins>**Denghui Zhang**</ins>, Hao Zhong, Shengming Zhang, Xiong Hui<br>
 **MNSC**: In preparation for Manamgement Science.<br>
 
+- **LEVER: Online Adaptive Sequence Learning Framework for High-Frequency Trading** <br>
+Zixuan Yuan, Junming Liu, Haoyi Zhou, <ins>**Denghui Zhang,**</ins>, Hao Liu, Nengjun Zhu, Hui Xiong<br>
+**IEEE TKDE**: IEEE Transactions on Knowledge and Data Engineering. (Major revision.)<br>
+
 ## Patents
 - [<a href=''>US Patent App. 17/165,515</a>] **Semi-supervised deep model for turbulence forecasting** 
 
