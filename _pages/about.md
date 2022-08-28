@@ -130,3 +130,14 @@ External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TK
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
     - External Reviewer (2019)
 
+Teaching
+------
+* *Instructor:*
+
+- 29:623:335:01, Data Warehousing & Data Mining (Spring 2022)
+- Course Evaluation: 4.42/5
+
+
+* **Teaching Assistant:**
+
+
