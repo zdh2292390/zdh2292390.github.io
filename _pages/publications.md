@@ -22,7 +22,7 @@ arXiv:2009.02835 <br> -->
 
 
 - **AlphaVC: A Reinforcement Learning-based Venture Capital Investment Strategy** <br>
-<ins>**Zixuan Yuan**</ins>, <ins>**Denghui Zhang**</ins>\*, Hao Zhong, Shengming Zhang, Xiong Hui<br>
+<ins>**Zixuan Yuan**</ins>\*, <ins>**Denghui Zhang**</ins>\*, Hao Zhong, Shengming Zhang, Xiong Hui<br>
 **INFORMS DS**: INFORMS Workshop on Data Science 2022.<br>
 
 - **Acqui-hiring or Acqui-quitting: Data-driven Post-M&A Turnover Prediction via a Dual-fit GNN Model** <br>
@@ -38,7 +38,7 @@ Yuening Li, Zhengzhang Chen, Daochen Zha, Mengnan Du, <ins>**Denghui Zhang**</in
 **KDD'22**: Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. <br>
 
 - **Learning to Walk with Dual Agents for Knowledge Graph Reasoning** [<a href='https://arxiv.org/pdf/2112.12876.pdf'>PDF</a>, <a href='https://github.com/RutgersDM/DKGR/tree/master'>code</a>] <br>
-<ins>**Denghui Zhang**</ins>, <ins>**Zixuan Yuan**</ins>, Hao Liu, Xiaodong Lin, Hui Xiong<br>
+<ins>**Denghui Zhang**</ins>\*, <ins>**Zixuan Yuan**</ins>\*, Hao Liu, Xiaodong Lin, Hui Xiong<br>
 **AAAI'22**: Proceedings of the 36th AAAI Conference on Artificial Intelligence. (**15% acceptance rate**)<br>
 
 - **Domain-oriented Language Modeling with Adaptive Hybrid Masking and Optimal Transport Alignment** [<a href='KDD21.pdf'>PDF</a>] <br>
@@ -95,7 +95,7 @@ IEEE Transactions on Big Data, pp.1-14 <br>
 **ISR**: In preparation for Information Systems Research.<br>
 
 - **AlphaVC: A Reinforcement Learning-based Venture Capital Investment Strategy** <br>
-<ins>**Zixuan Yuan**</ins>, <ins>**Denghui Zhang**</ins>, Hao Zhong, Shengming Zhang, Xiong Hui<br>
+<ins>**Zixuan Yuan**</ins>\*, <ins>**Denghui Zhang**</ins>\*, Hao Zhong, Shengming Zhang, Xiong Hui<br>
 **MNSC**: In preparation for Manamgement Science.<br>
 
 - **LEVER: Online Adaptive Sequence Learning Framework for High-Frequency Trading** <br>
