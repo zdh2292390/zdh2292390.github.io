@@ -132,12 +132,14 @@ External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TK
 
 Teaching
 ------
-* *Instructor:*
+* **Instructor:**
 
 - 29:623:335:01, Data Warehousing & Data Mining (Spring 2022)
-- Course Evaluation: 4.42/5
+  - Course Evaluation: 4.53/5
 
 
 * **Teaching Assistant:**
-
+- 29:623:335:01, Data Warehousing & Data Mining (Spring 2021)
+- 33:136:485:02, Time Series Model (2020 Fall)
+- Information Security IT/CS (Fall 2021, Spring 2022)
 
