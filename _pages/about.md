@@ -17,7 +17,7 @@ Interesting domain applications we concerned include: graph representation for t
 
 <!-- My research interests lie  -->
 <!-- His research interests lies in the intersection of data mining and business intelligence. -->
-His research interests lies in the intersection of data mining and business intelligence.
+His research interests lie in the intersection of data mining and business intelligence.
 <!-- Regarding application domains, he studies business and management problems, in particular, online labor market analysis, career transition pattern mining, intelligent career benchmarking, talent intelligence, e-commerce product linkage, e-commerce text analysis, etc. -->
 He is fascinated with two application domains, i.e., business and management, in which he studies problems including online labor market analysis, career transition pattern mining, intelligent job benchmarking, post-M&A turnover prediction, Venture Capital strategy optimization, e-commerce product linkage, e-commerce text analysis, etc.
 In terms of data mining methodology, he studies graph representation learning, self-supervised learning, knowledge graphs, large-scale language models, as well as their adaptation to business and management domains.
