@@ -31,6 +31,7 @@ His work has been published in top venues of data mining, artificial intelligenc
 
 News
 ------
+09/2022: Invited to serve as a PC member for [WITS 2022](https://witsconf.org/wits2022-call-for-papers/)! \\
 08/2022: Two papers got accepted to [INFORMS Workshop on Data Science](https://blogs.ubc.ca/datascience2022/)! \\
 08/2022: One paper got accepted to [CIST 2022](https://sites.google.com/view/cist2022/home?authuser=0)! \\
 08/2022: One paper on product representation learning got accepted to [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)! \\
@@ -101,7 +102,13 @@ External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TK
     - Session: AI-driven Business Analytics: New Advances and Applications
 
 * **Program Committee Member:**
-  -  Pacific Asia Conference on Information Systems (PACIS)
+  - Workshop on Information Technologies and Systems (WITS)
+    - Program Committee (2022)
+  
+  - International Conference on Information Systems (ICIS)
+    - Reviewer (2022)
+
+  - Pacific Asia Conference on Information Systems (PACIS)
     - Reviewer (2022)
 
   - ACM Conference on Knowledge Discovery and Data Mining (SIGKDD)
