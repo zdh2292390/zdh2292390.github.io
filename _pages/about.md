@@ -30,13 +30,14 @@ His work has been published in top venues of data mining, artificial intelligenc
 
 News
 ------
+05/2022: Glad to receive the Student Scholarship from INFORMS Workshop on Data Science. Thanks, WDS committee! \\
 09/2022: Invited to serve as a PC member for [WITS 2022](https://witsconf.org/wits2022-call-for-papers/)! \\
 08/2022: Two papers got accepted to [INFORMS Workshop on Data Science](https://blogs.ubc.ca/datascience2022/)! \\
 08/2022: One paper got accepted to [CIST 2022](https://sites.google.com/view/cist2022/home?authuser=0)! \\
 08/2022: One paper on product representation learning got accepted to [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)! \\
 08/2022: Invited to serve as a PC member for [AAAI 2023](https://aaai.org/Conferences/AAAI-23/). \\
 07/2022: Invited to serve as a session chair for [KDD 2022](https://kdd.org/kdd2022/index.html). \\
-05/2022: Thrilled to receive the Dean's Dissertation Fellowship from Rutgers, thanks Rutgers! \\
+05/2022: Thrilled to receive the Dean's Dissertation Fellowship from Rutgers, thank you Rutgers! \\
 04/2022: Will serve as a session chair at [INFORMS 2022](https://meetings.informs.org/wordpress/indianapolis2022/). \\
 12/2021: One paper on KG reasoning got accepted to AAAI'22 (15% acceptance rate). \\
 11/2021: Invited to serve as a PC member for KDD'22 Applied Data Science Track. \\
