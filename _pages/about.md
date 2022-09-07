@@ -30,7 +30,7 @@ His work has been published in top venues of data mining, artificial intelligenc
 
 News
 ------
-05/2022: Glad to receive the Student Scholarship from INFORMS Workshop on Data Science. Thanks, WDS committee! \\
+05/2022: Glad to receive the Student Scholarship from INFORMS Workshop on Data Science, thanks!\\
 09/2022: Invited to serve as a PC member for [WITS 2022](https://witsconf.org/wits2022-call-for-papers/)! \\
 08/2022: Two papers got accepted to [INFORMS Workshop on Data Science](https://blogs.ubc.ca/datascience2022/)! \\
 08/2022: One paper got accepted to [CIST 2022](https://sites.google.com/view/cist2022/home?authuser=0)! \\
