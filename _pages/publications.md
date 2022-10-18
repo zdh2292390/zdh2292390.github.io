@@ -25,7 +25,7 @@ arXiv:2009.02835 <br> -->
 <ins>**Zixuan Yuan**</ins>\*, <ins>**Denghui Zhang**</ins>\*, Hao Zhong, Shengming Zhang, Xiong Hui<br>
 **INFORMS DS**: INFORMS Workshop on Data Science 2022.<br>
 
-- **Acqui-hiring or Acqui-quitting: Data-driven Post-M&A Turnover Prediction via a Dual-fit GNN Model** <br>
+- **Acqui-hiring or Acqui-quitting: Data-driven Post-M&A Turnover Prediction via a Dual-fit GNN Model** [<a href='M_A_sample_denghui.pdf'>PDF</a>] <br>
 <ins>**Denghui Zhang**</ins>, Hao Zhong, Jingyuan Yang<br>
 **CIST'22**: INFORMS Conference On Information Systems And Technology, 2022.<br>
 
