@@ -79,7 +79,7 @@ Industry Experiences
 * Amazon Science,   &emsp;&emsp; Product Graph Team, &emsp;&emsp; 2021.05 - 2021.08
   * Applied Scientist Intern
     * Topic: Language Representation Pre-training for Low-resource Entity Matching.
-    * Mentors: [Xin Luna Dong](http://lunadong.com/), [Zhengyang Wang](https://scholar.google.com/citations?user=A4fNBtEAAAAJ)
+    * Mentors: [Xin Luna Dong](https://scholar.google.com/citations?user=uGsKvHoAAAAJ&hl=en), [Zhengyang Wang](https://scholar.google.com/citations?user=A4fNBtEAAAAJ)
 <!-- * NEC Laboratories America,    &emsp;&emsp; Research Intern, &emsp;&emsp;    2020.06 - 2020.08 -->
 * NEC Laboratories America, &emsp;&emsp; Data Science Team, &emsp;&emsp; 2020.06 - 2020.08
   * Research Intern   
@@ -91,7 +91,7 @@ Industry Experiences
 * Baidu Research,     &emsp;&emsp; Talent Intelligence Center, &emsp;&emsp;    2018.06 - 2018.08
   * Research Intern
     * Topic: Representation Learning for Talent and Job Market Analysis and Benchmarking.
-    * Mentor: Dr. [Hengshu Zhu](http://www.zhuhengshu.com/) 
+    * Mentor: Dr. [Hengshu Zhu](https://scholar.google.com/citations?user=55MQBzYAAAAJ&hl=en) 
 
 Services
 ------
