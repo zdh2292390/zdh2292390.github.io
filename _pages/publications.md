@@ -23,11 +23,11 @@ arXiv:2009.02835 <br> -->
 
 - **AlphaVC: A Reinforcement Learning-based Venture Capital Investment Strategy** <br>
 <ins>**Zixuan Yuan**</ins>\*, <ins>**Denghui Zhang**</ins>\*, Hao Zhong, Shengming Zhang, Xiong Hui<br>
-**INFORMS DS**: INFORMS Workshop on Data Science 2022.<br>
+**INFORMS DS**: INFORMS Workshop on Data Science 2022. (In preparation for Management Science.)<br>
 
 - **Acqui-hiring or Acqui-quitting: Data-driven Post-M&A Turnover Prediction via a Dual-fit GNN Model** [<a href='M_A_sample_denghui.pdf'>PDF</a>] <br>
 <ins>**Denghui Zhang**</ins>, Hao Zhong, Jingyuan Yang<br>
-**CIST'22**: INFORMS Conference On Information Systems And Technology, 2022.<br>
+**CIST'22**: INFORMS Conference On Information Systems And Technology, 2022. (In preparation for Information Systems Research.)<br>
 
 - **Multi-Faceted Knowledge-Driven Pre-training for Product Representation Learning** <br>
 <ins>**Denghui Zhang**</ins>, Yanchi Liu, Zixuan Yuan, Yanjie Fu, Haifeng Chen, Hui Xiong<br>
