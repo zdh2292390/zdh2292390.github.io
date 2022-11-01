@@ -23,11 +23,11 @@ arXiv:2009.02835 <br> -->
 
 - **AlphaVC: A Reinforcement Learning-based Venture Capital Investment Strategy** <br>
 <ins>**Zixuan Yuan**</ins>\*, <ins>**Denghui Zhang**</ins>\*, Hao Zhong, Shengming Zhang, Xiong Hui<br>
-**INFORMS DS**: INFORMS Workshop on Data Science 2022.<br>
+**INFORMS DS**: INFORMS Workshop on Data Science 2022. (In preparation for Management Science.)<br>
 
 - **Acqui-hiring or Acqui-quitting: Data-driven Post-M&A Turnover Prediction via a Dual-fit GNN Model** [<a href='M_A_sample_denghui.pdf'>PDF</a>] <br>
 <ins>**Denghui Zhang**</ins>, Hao Zhong, Jingyuan Yang<br>
-**CIST'22**: INFORMS Conference On Information Systems And Technology, 2022.<br>
+**CIST'22**: INFORMS Conference On Information Systems And Technology, 2022. (In preparation for Information Systems Research.)<br>
 
 - **Multi-Faceted Knowledge-Driven Pre-training for Product Representation Learning** <br>
 <ins>**Denghui Zhang**</ins>, Yanchi Liu, Zixuan Yuan, Yanjie Fu, Haifeng Chen, Hui Xiong<br>
@@ -37,7 +37,7 @@ arXiv:2009.02835 <br> -->
 Yuening Li, Zhengzhang Chen, Daochen Zha, Mengnan Du, <ins>**Denghui Zhang**</ins>, Haifeng Chen, Xia Hu<br>
 **KDD'22**: Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. <br>
 
-- **Learning to Walk with Dual Agents for Knowledge Graph Reasoning** [<a href='https://arxiv.org/pdf/2112.12876.pdf'>PDF</a>, <a href='https://github.com/RutgersDM/DKGR/tree/master'>code</a>] <br>
+- **Learning to Walk with Dual Agents Reinforcemen Learning for Knowledge Graph Reasoning** [<a href='https://arxiv.org/pdf/2112.12876.pdf'>PDF</a>, <a href='https://github.com/RutgersDM/DKGR/tree/master'>code</a>] <br>
 <ins>**Denghui Zhang**</ins>\*, <ins>**Zixuan Yuan**</ins>\*, Hao Liu, Xiaodong Lin, Hui Xiong<br>
 **AAAI'22**: Proceedings of the 36th AAAI Conference on Artificial Intelligence. (**15% acceptance rate**)<br>
 
