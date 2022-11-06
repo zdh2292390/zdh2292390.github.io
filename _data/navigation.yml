@@ -9,8 +9,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "Awards"
-    url: /awards/    
+  # - title: "Awards"
+  #   url: /awards/    
 
   # - title: "Blog Posts"
   #   url: /year-archive/
@@ -19,8 +19,8 @@ main:
     # url: /files/cv_zhangdenghui.pdf
     url: /files/cv_zhangdenghui__Business_.pdf
     
-  - title: "Miscellaneous"
-    url: /miscellaneous/
+  # - title: "Miscellaneous"
+  #   url: /miscellaneous/
 
   # - title: "Guide"
   #   url: /markdown/
