@@ -19,8 +19,8 @@ main:
     # url: /files/cv_zhangdenghui.pdf
     url: /files/cv_zhangdenghui__Business_.pdf
     
-  - title: "Miscellaneous"
-    url: /miscellaneous/
+  # - title: "Miscellaneous"
+  #   url: /miscellaneous/
 
   # - title: "Guide"
   #   url: /markdown/

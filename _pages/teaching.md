@@ -10,7 +10,7 @@ redirect_from:
 ### **Instructor:**
 
 <!-- - 29:623:335:01, Data Warehousing & Data Mining (Spring 2022) -->
-- Data Warehousing & Data Mining (Spring 2022)
+- Data Warehousing & Data Mining (Undergraduate, Spring 2022)
   - Course Evaluation: 4.53/5
 
 ### **Teaching Assistant:**
