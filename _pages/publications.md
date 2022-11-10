@@ -22,9 +22,7 @@ arXiv:2009.02835 <br> -->
 
 <span style="color:blue">[CM]</span> Computational Management Science, <span style="color:blue">[EM]</span>  E-commerce Analysis <br>
 <span style="color:brown">[GL]</span>  Graph Machine Learning, <span style="color:purple">[NLP]</span>  Natual Language Processing<br>
-<span style="color:green">[FT]</span>  FinTech, <span style="color:Orange;">[RL]</span>  Reinforcement Learning <br> 
-
-
+<span style="color:green">[FT]</span>  FinTech, <span style="color:Orange;">[RL]</span>  Reinforcement Learning <br>
 ## Peer-reviewed conference and journal papers
 
 
