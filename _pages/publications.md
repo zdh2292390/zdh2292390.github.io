@@ -18,6 +18,11 @@ redirect_from:
 <ins>**Denghui Zhang**</ins>, Zixuan Yuan, Yanchi Liu, 	Zuohui Fu, Fuzhen Zhuang, Pengyang Wang, Haifeng Chen, Hui Xiong<br>
 arXiv:2009.02835 <br> -->
 <!-- ### 2021 -->
+### Topics:
+
+[CM] Computational Management Science, [EM] E-commerce Analysis, [FT] FinTech
+[GL] Graph Machine Learning, [NLP] Natual Language Processing
+
 ## Peer-reviewed conference and journal papers
 
 
