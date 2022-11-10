@@ -20,8 +20,10 @@ arXiv:2009.02835 <br> -->
 <!-- ### 2021 -->
 ### Topics:
 
-[CM] Computational Management Science, [EM] E-commerce Analysis, [FT] FinTech
-[GL] Graph Machine Learning, [NLP] Natual Language Processing
+<span style="color:blue">[CM]</span> Computational Management Science, [EM] E-commerce Analysis <br>
+[GL] Graph Machine Learning, [NLP] Natual Language Processing<br>
+[FT] FinTech, [RL] Reinforcement Learning <br> 
+
 
 ## Peer-reviewed conference and journal papers
 
