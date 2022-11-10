@@ -26,6 +26,10 @@ arXiv:2009.02835 <br> -->
 **Domains:**  Computational Management Science <span style="color:RoyalBlue">[CM]</span>,  E-commerce Analysis <span style="color:Salmon">[EM]</span>,  FinTech <span style="color:green">[FT]</span><br>
 **Methodologies:**  Graph Machine Learning <span style="color:brown">[GL]</span>,  Text Mining <span style="color:purple">[TM]</span>,  Reinforcement Learning <span style="color:Orange;">[RL]</span>
 
+- **Multi-Faceted Knowledge-Driven Pre-training for Product Representation Learning** <span style="color:Salmon">[EM] <span style="color:purple">[TM]</span></span> <br>
+<ins>**Denghui Zhang**</ins>, Yanchi Liu, Zixuan Yuan, Yanjie Fu, Haifeng Chen, Hui Xiong<br>
+**IEEE TKDE**: IEEE Transactions on Knowledge and Data Engineering.<br>
+
 - **AlphaVC: A Reinforcement Learning-based Venture Capital Investment Strategy** <span style="color:green">[FT]</span> <span style="color:Orange;">[RL]</span><br>
 <ins>**Zixuan Yuan**</ins>\*, <ins>**Denghui Zhang**</ins>\*, Hao Zhong, Shengming Zhang, Xiong Hui<br>
 **INFORMS DS**: INFORMS Workshop on Data Science 2022. (In preparation for Management Science.)<br>
@@ -33,10 +37,6 @@ arXiv:2009.02835 <br> -->
 - **Acqui-hiring or Acqui-quitting: Data-driven Post-M&A Turnover Prediction via a Dual-fit GNN Model** [<a href='M_A_sample_denghui.pdf'>PDF</a>] <span style="color:RoyalBlue">[CM]</span> <span style="color:brown">[GL]</span><br>
 <ins>**Denghui Zhang**</ins>, Hao Zhong, Jingyuan Yang<br>
 **CIST'22**: INFORMS Conference On Information Systems And Technology, 2022. (In preparation for Information Systems Research.)<br>
-
-- **Multi-Faceted Knowledge-Driven Pre-training for Product Representation Learning** <span style="color:Salmon">[EM] <span style="color:purple">[TM]</span></span> <br>
-<ins>**Denghui Zhang**</ins>, Yanchi Liu, Zixuan Yuan, Yanjie Fu, Haifeng Chen, Hui Xiong<br>
-**IEEE TKDE**: IEEE Transactions on Knowledge and Data Engineering.<br>
 
 - **Towards Learning Disentangled Representations for Time Series** [<a href=''>PDF</a>] <br>
 Yuening Li, Zhengzhang Chen, Daochen Zha, Mengnan Du, <ins>**Denghui Zhang**</ins>, Haifeng Chen, Xia Hu<br>
