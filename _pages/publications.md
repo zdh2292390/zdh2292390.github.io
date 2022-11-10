@@ -20,9 +20,8 @@ arXiv:2009.02835 <br> -->
 <!-- ### 2021 -->
 ### Topics:
 
-<span style="color:RoyalBlue">[CM]</span> Computational Management Science, <span style="color:CornflowerBlue">[EM]</span>  E-commerce Analysis <br>
-<span style="color:brown">[GL]</span>  Graph Machine Learning, <span style="color:purple">[NLP]</span>  Natual Language Processing<br>
-<span style="color:green">[FT]</span>  FinTech, <span style="color:Orange;">[RL]</span>  Reinforcement Learning <br>
+<span style="color:RoyalBlue">[CM]</span> Computational Management Science, <span style="color:CornflowerBlue">[EM]</span>  E-commerce Analysis, <span style="color:green">[FT]</span>  FinTech<br>
+<span style="color:brown">[GL]</span>  Graph Machine Learning, <span style="color:purple">[NLP]</span>  Natual Language Processing, <span style="color:Orange;">[RL]</span>  Reinforcement Learning <br>
 ## Peer-reviewed conference and journal papers
 
 
