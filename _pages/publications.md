@@ -23,8 +23,8 @@ arXiv:2009.02835 <br> -->
 <!-- <span style="color:RoyalBlue">[CM] Computational Management Science,</span>  <span style="color:CornflowerBlue">[EM] E-commerce Analysis,</span>   <span style="color:green">[FT] FinTech</span><br>
 <span style="color:brown">[GL]Graph Machine Learning,</span> <span style="color:purple">[NLP] Natual Language Processing,</span> <span style="color:Orange;">[RL] Reinforcement Learning,</span -->
 ## Peer-reviewed conference and journal papers
-Domains: <span style="color:RoyalBlue">[CM]</span> Computational Management Science, <span style="color:Salmon">[EM]</span>  E-commerce Analysis, <span style="color:green">[FT]</span>  FinTech<br>
-Methodologies: <span style="color:brown">[GL]</span>  Graph Machine Learning, <span style="color:purple">[TM]</span> Text Mining, <span style="color:Orange;">[RL]</span>  Reinforcement Learning
+**Domains:** <span style="color:RoyalBlue">[CM]</span> Computational Management Science, <span style="color:Salmon">[EM]</span>  E-commerce Analysis, <span style="color:green">[FT]</span>  FinTech<br>
+**Methodologies:** <span style="color:brown">[GL]</span>  Graph Machine Learning, <span style="color:purple">[TM]</span> Text Mining, <span style="color:Orange;">[RL]</span>  Reinforcement Learning
 
 - **AlphaVC: A Reinforcement Learning-based Venture Capital Investment Strategy** <span style="color:green">[FT]</span> <span style="color:Orange;">[RL]</span><br>
 <ins>**Zixuan Yuan**</ins>\*, <ins>**Denghui Zhang**</ins>\*, Hao Zhong, Shengming Zhang, Xiong Hui<br>
