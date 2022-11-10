@@ -23,9 +23,8 @@ arXiv:2009.02835 <br> -->
 <!-- <span style="color:RoyalBlue">[CM] Computational Management Science,</span>  <span style="color:CornflowerBlue">[EM] E-commerce Analysis,</span>   <span style="color:green">[FT] FinTech</span><br>
 <span style="color:brown">[GL]Graph Machine Learning,</span> <span style="color:purple">[NLP] Natual Language Processing,</span> <span style="color:Orange;">[RL] Reinforcement Learning,</span -->
 ## Peer-reviewed conference and journal papers
-### Topics:
-<span style="color:RoyalBlue">[CM]</span> Computational Management Science, <span style="color:Salmon">[EM]</span>  E-commerce Analysis, <span style="color:green">[FT]</span>  FinTech<br>
-<span style="color:brown">[GL]</span>  Graph Machine Learning, <span style="color:Orange;">[RL]</span>  Reinforcement Learning
+Domains: <span style="color:RoyalBlue">[CM]</span> Computational Management Science, <span style="color:Salmon">[EM]</span>  E-commerce Analysis, <span style="color:green">[FT]</span>  FinTech<br>
+Methodologies: <span style="color:brown">[GL]</span>  Graph Machine Learning, <span style="color:purple">[TM]</span> Text Mining, <span style="color:Orange;">[RL]</span>  Reinforcement Learning
 
 - **AlphaVC: A Reinforcement Learning-based Venture Capital Investment Strategy** <span style="color:green">[FT]</span> <span style="color:Orange;">[RL]</span><br>
 <ins>**Zixuan Yuan**</ins>\*, <ins>**Denghui Zhang**</ins>\*, Hao Zhong, Shengming Zhang, Xiong Hui<br>
@@ -35,7 +34,7 @@ arXiv:2009.02835 <br> -->
 <ins>**Denghui Zhang**</ins>, Hao Zhong, Jingyuan Yang<br>
 **CIST'22**: INFORMS Conference On Information Systems And Technology, 2022. (In preparation for Information Systems Research.)<br>
 
-- **Multi-Faceted Knowledge-Driven Pre-training for Product Representation Learning** <span style="color:Salmon">[EM]</span> <br>
+- **Multi-Faceted Knowledge-Driven Pre-training for Product Representation Learning** <span style="color:Salmon">[EM] <span style="color:purple">[TM]</span></span> <br>
 <ins>**Denghui Zhang**</ins>, Yanchi Liu, Zixuan Yuan, Yanjie Fu, Haifeng Chen, Hui Xiong<br>
 **IEEE TKDE**: IEEE Transactions on Knowledge and Data Engineering.<br>
 
@@ -47,7 +46,7 @@ Yuening Li, Zhengzhang Chen, Daochen Zha, Mengnan Du, <ins>**Denghui Zhang**</in
 <ins>**Denghui Zhang**</ins>\*, <ins>**Zixuan Yuan**</ins>\*, Hao Liu, Xiaodong Lin, Hui Xiong<br>
 **AAAI'22**: Proceedings of the 36th AAAI Conference on Artificial Intelligence. (**15% acceptance rate**)<br>
 
-- **Domain-oriented Language Modeling with Adaptive Hybrid Masking and Optimal Transport Alignment** [<a href='KDD21.pdf'>PDF</a>] <span style="color:Salmon">[EM]</span> <br>
+- **Domain-oriented Language Modeling with Adaptive Hybrid Masking and Optimal Transport Alignment** [<a href='KDD21.pdf'>PDF</a>] <span style="color:purple">[TM]</span> <span style="color:Salmon">[EM]</span> <br>
 <ins>**Denghui Zhang**</ins>, Zixuan Yuan, Yanchi Liu, Hao Liu, Fuzhen Zhuang, Hui Xiong, Haifeng Chen<br>
 **KDD'21**: Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (**15.4% acceptance rate**)<br>
 
@@ -84,7 +83,7 @@ Manling Li, Yuanzhuo Wang, <ins>**Denghui Zhang**</ins>, Yantao Jia, Xueqi Cheng
 IEEE Transactions on Big Data, pp.1-14 <br>
 <!-- Special Issue on "Knowledge Graphs: Techniques and Applications"  --> 
 
-- **Path-Based Attention Neural Model for Fine-Grained Entity Typing**  [<a href='PAN.pdf'>PDF</a>] <br>
+- **Path-Based Attention Neural Model for Fine-Grained Entity Typing**  [<a href='PAN.pdf'>PDF</a>] <span style="color:purple">[TM]</span><br>
 <ins>**Denghui Zhang**</ins>, Manling Li, Pengshan Cai, Yantao Jia, Yuanzhuo Wang, Xueqi Cheng <br>
 **AAAI 2018**: Proceedings of the 32nd AAAI Conference on Artificial Intelligence, pp.8179-8180 (abstract paper) <br>
 
