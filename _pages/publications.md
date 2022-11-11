@@ -24,7 +24,7 @@ arXiv:2009.02835 <br> -->
 <span style="color:brown">[GL]Graph Machine Learning,</span> <span style="color:purple">[NLP] Natual Language Processing,</span> <span style="color:Orange;">[RL] Reinforcement Learning,</span -->
 ## Peer-reviewed conference and journal papers
 **Domains:**  Computational Management Science <span style="color:RoyalBlue">[CM]</span>,  E-commerce Analysis <span style="color:Salmon">[EM]</span>,  FinTech <span style="color:green">[FT]</span><br>
-**Methodologies:**  Graph Machine Learning <span style="color:brown">[GL]</span>,  Text Mining <span style="color:purple">[TM]</span>,  Reinforcement Learning <span style="color:Orange;">[RL]</span>
+**Methodologies:**  Graph Deep Learning <span style="color:brown">[GL]</span>,  Text Mining <span style="color:purple">[TM]</span>,  Reinforcement Learning <span style="color:Orange;">[RL]</span>
 
 - **Multi-Faceted Knowledge-Driven Pre-training for Product Representation Learning** <span style="color:Salmon">[EM] <span style="color:purple">[TM]</span></span> <br>
 <ins>**Denghui Zhang**</ins>, Yanchi Liu, Zixuan Yuan, Yanjie Fu, Haifeng Chen, Hui Xiong<br>
@@ -50,7 +50,7 @@ Yuening Li, Zhengzhang Chen, Daochen Zha, Mengnan Du, <ins>**Denghui Zhang**</in
 <ins>**Denghui Zhang**</ins>, Zixuan Yuan, Yanchi Liu, Hao Liu, Fuzhen Zhuang, Hui Xiong, Haifeng Chen<br>
 **KDD'21**: Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (**15.4% acceptance rate**)<br>
 
-- **Self-Supervised Prototype Representation Learning for Event-Based Corporate Profiling** [<a href='Corporate_Profiling__AAAI_2021.pdf'>PDF</a>, <a href='https://github.com/yuanzx33033/SePaL'>code</a>] <br>
+- **Self-Supervised Prototype Representation Learning for Event-Based Corporate Profiling** <span style="color:green">[FT]</span> [<a href='Corporate_Profiling__AAAI_2021.pdf'>PDF</a>, <a href='https://github.com/yuanzx33033/SePaL'>code</a>] <br>
 Zixuan Yuan, Hao Liu, Renjun Hu, <ins>**Denghui Zhang**</ins>, Hui Xiong<br>
 **AAAI'21**: Proceedings of the 35th AAAI Conference on Artificial Intelligence.<br>
 
