@@ -19,7 +19,7 @@ Interesting domain applications we concerned include: graph representation for t
 <!-- His research interests lies in the intersection of data mining and business intelligence. -->
 His research interests lie in the intersection of data mining and business intelligence.
 <!-- He is fascinated with two application domains, i.e., business and management, in which he studies problems including online labor market analysis, career transition pattern mining, intelligent job benchmarking, post-M&A turnover prediction, Venture Capital strategy optimization, e-commerce product linkage, e-commerce text analysis, etc. -->
-Specifically, he is interested in two types of research: (i) **empower AI models with human domain knowledge**, i.e., leverage domain knowledge to design new AI models for emerging domain sciences; (ii) **leverage AI to discover new domain insights**, i.e., apply machine learning to interpret societal phenomena and derive managerial implications to guide business decision making.
+Specifically, he is interested in two types of research philosophy: (i) **empower AI models with human domain knowledge**, i.e., leverage domain knowledge to design new AI models for emerging domain sciences; (ii) **leverage AI to discover new domain insights**, i.e., apply machine learning to interpret societal phenomena and derive managerial implications to guide business decision making.
 From application perspective, he studies real-world problems including online professional network analysis, intelligent job benchmarking, post-M&A turnover prediction, Venture Capital strategy optimization, e-commerce product linkage and text analysis, etc. 
 In terms of data mining methodology, he studies graph representation learning, self-supervised learning, reinforcement learning, large-scale language models, as well as their adaptation to business and management domains.
 <!-- His general research agenda is incorporating domain knowledge to design new AI models to improve their predictive power; applying data mining techniques to understand economic phenomena and discover domain insights that provide business values. -->
@@ -144,6 +144,7 @@ Teaching Experience
 
 <!-- - 29:623:335:01, Data Warehousing & Data Mining (Spring 2022) -->
 - Data Warehousing & Data Mining (Spring 2022)
+  - Teach students with diverse backgrounds the fundations of data mining and machine learning, as well as how to use Python, Pandas, Orange to perform quick data anlytics.
   - Course Evaluation: 4.53/5
 
 ### **Teaching Assistant:**
