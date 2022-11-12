@@ -26,7 +26,7 @@ arXiv:2009.02835 <br> -->
 **Domains:**  Computational Management Science <span style="color:RoyalBlue">[CM]</span>,  E-commerce Analysis <span style="color:Salmon">[EM]</span>,  FinTech <span style="color:green">[FT]</span><br>
 **Methodologies:**  Graph Deep Learning <span style="color:brown">[GL]</span>,  Text Mining <span style="color:purple">[TM]</span>,  Reinforcement Learning <span style="color:Orange;">[RL]</span>
 
-![image](M&A.jpeg){: style="float: left"}
+<!-- ![image](M&A.jpeg){: style="float: left"} -->
 - **Multi-Faceted Knowledge-Driven Pre-training for Product Representation Learning** <span style="color:Salmon">[EM] <span style="color:purple">[TM]</span></span> <br>
 <ins>**Denghui Zhang**</ins>, Yanchi Liu, Zixuan Yuan, Yanjie Fu, Haifeng Chen, Hui Xiong<br>
 **IEEE TKDE**: IEEE Transactions on Knowledge and Data Engineering.<br>

@@ -100,7 +100,9 @@ External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TK
 * **Session Chair:**
   - INFORMS Annual Meeting 2022
     - Session: AI-driven Business Analytics: New Advances and Applications
-
+  - The 28th ACM SIGKDD Conference (2022)
+    - Session of “Graph Learning and Social Networks”
+    
 * **Program Committee Member:**
   - Workshop on Information Technologies and Systems (WITS)
     - Program Committee (2022)
