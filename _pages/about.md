@@ -20,7 +20,7 @@ Interesting domain applications we concerned include: graph representation for t
 His research interests lie in the intersection of data mining and business intelligence.
 <!-- He is fascinated with two application domains, i.e., business and management, in which he studies problems including online labor market analysis, career transition pattern mining, intelligent job benchmarking, post-M&A turnover prediction, Venture Capital strategy optimization, e-commerce product linkage, e-commerce text analysis, etc. -->
 Specifically, he is interested in two types of research philosophy: (i) **empower deep learning models with human domain knowledge**, i.e., leverage domain knowledge to design new AI models for emerging domain sciences; (ii) **leverage AI to discover new domain insights**, i.e., apply machine learning to interpret societal phenomena and derive managerial implications to guide business decision making.
-From application perspective, he studies real-world problems including online professional network analysis, intelligent job benchmarking, post-M&A turnover prediction, Venture Capital strategy optimization, e-commerce product linkage and text analysis, etc. 
+From application perspective, he studies real-world problems including online professional network analysis, post-M&A turnover prediction, Venture Capital strategy optimization, e-commerce product linkage and text analysis, etc. 
 In terms of data mining methodology, he studies graph representation learning, self-supervised learning, reinforcement learning, large-scale language models, as well as their adaptation to business and management domains.
 <!-- His general research agenda is incorporating domain knowledge to design new AI models to improve their predictive power; applying data mining techniques to understand economic phenomena and discover domain insights that provide business values. -->
 
@@ -102,7 +102,7 @@ External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TK
     - Session: AI-driven Business Analytics: New Advances and Applications
   - The 28th ACM SIGKDD Conference (2022)
     - Session of “Graph Learning and Social Networks”
-    
+
 * **Program Committee Member:**
   - Workshop on Information Technologies and Systems (WITS)
     - Program Committee (2022)
