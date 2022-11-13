@@ -108,7 +108,9 @@ IEEE Transactions on Big Data, pp.1-14 <br>
 Zixuan Yuan, Junming Liu, Haoyi Zhou, <ins>**Denghui Zhang,**</ins>, Hao Liu, Nengjun Zhu, Hui Xiong<br>
 **IEEE TKDE**: IEEE Transactions on Knowledge and Data Engineering. (Major revision.)<br>
 
-## Patents
+## Patents 
+- [<a href=''>US Patent App. 17/584,638</a>] **Multi-Faceted Knowledge-Driven Pre-training for Product Representation Learning** 
+
 - [<a href=''>US Patent App. 17/165,515</a>] **Semi-supervised deep model for turbulence forecasting** 
 
 - [<a href=''>US Patent App. 17/003,112</a>] **Multi-scale multi-granularity spatial-temporal traffic volume prediction** 
