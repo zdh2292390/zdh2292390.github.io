@@ -56,12 +56,12 @@ Zixuan Yuan, Hao Liu, Renjun Hu, <ins>**Denghui Zhang**</ins>, Hui Xiong<br>
 **AAAI'21**: Proceedings of the 35th AAAI Conference on Artificial Intelligence.<br>
 
 <!-- ### 2020 -->
-- **T$^2$-Net: A Semi-supervised Deep Model for Turbulence Forecasting** [<a href='ICDM20.pdf'>PDF</a>] <br>
+- **T$^2$-Net: A Semi-supervised Deep Model for Turbulence Forecasting** [<a href='ICDM20.pdf'>PDF</a>] <span style="color:green">[SA]</span><br>
 <ins>**Denghui Zhang**</ins>, Yanchi Liu, Wei Cheng, Bo Zong, Jingchao Ni, Zhengzhang Chen, Haifeng Chen, Hui Xiong <br>
 **ICDM'20**: 2020 IEEE International Conference on Data Mining.<br>
 
 
-- **Spatio-Temporal Dual Graph Attention Network for Query-POI Matching** [<a href='https://dl.acm.org/doi/abs/10.1145/3397271.3401159'>PDF</a>, <a href=''>code</a>] <br>
+- **Spatio-Temporal Dual Graph Attention Network for Query-POI Matching** [<a href='https://dl.acm.org/doi/abs/10.1145/3397271.3401159'>PDF</a>] <span style="color:green">[SA]</span><br>
 Zixuan Yuan, Hao Liu, Yanchi Liu, <ins>**Denghui Zhang**</ins>, Fei Yi, Nengju Zhu, Hui Xiong  <br>
 **SIGIR'20**: Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, Pages 629–638 <br>
 
