@@ -21,8 +21,13 @@ His research interests lie in the intersection of data mining and business intel
 <!-- He is fascinated with two application domains, i.e., business and management, in which he studies problems including online labor market analysis, career transition pattern mining, intelligent job benchmarking, post-M&A turnover prediction, Venture Capital strategy optimization, e-commerce product linkage, e-commerce text analysis, etc. -->
 He is interested in two types of research philosophy: (i) empower deep learning models with human domain knowledge, i.e., leverage domain knowledge to design new AI models for emerging domain sciences; (ii) leverage AI to discover new domain insights, i.e., apply machine learning to interpret societal phenomena and derive managerial implications to guide business decision making.
 Specifically, he focuses on **knowledge-inspired deep representation learning for emerging domain sciences**.
-From machine learing methodology perspective, he studies graph representation learning, self-supervised learning, reinforcement learning, large-scale language models, as well as their adaptation to business and management domains.
-In terms of applications, he studies real-world problems including online professional network analysis, post-M&A turnover prediction, Venture Capital strategy optimization, e-commerce product linkage and text analysis, etc. 
+<!-- From machine learing methodology perspective, he studies graph representation learning, self-supervised learning, reinforcement learning, large-scale language models, as well as their adaptation to business and management domains. -->
+<!-- In terms of applications, he studies real-world problems including online professional network analysis, post-M&A turnover prediction, Venture Capital strategy optimization, e-commerce product linkage and text analysis, etc.  -->
+His work is primarily related to the following topics.
+
+* *Machine learning methodologies:* graph representation learning, text representation learning, reinforcement learning.
+* *Applications:* online professional network analysis, employee turnover prediction, Venture Capital strategy generation, e-commerce product linkage.
+
 <!-- His general research agenda is incorporating domain knowledge to design new AI models to improve their predictive power; applying data mining techniques to understand economic phenomena and discover domain insights that provide business values. -->
 
 His work has been published in top venues of data mining, artificial intelligence and information systems, including refereed journals (IEEE TKDE, IEEE BigData) and conference proceedings (KDD, AAAI, ICDM, CIKM, CIST, etc.). He has serveral working papers in preparation for UTD journals (ISR, Management Science).
