@@ -23,7 +23,7 @@ He is interested in two types of research philosophy: (i) empower deep learning 
 Specifically, he focuses on **knowledge-inspired deep representation learning for emerging domain sciences**.
 <!-- From machine learing methodology perspective, he studies graph representation learning, self-supervised learning, reinforcement learning, large-scale language models, as well as their adaptation to business and management domains. -->
 <!-- In terms of applications, he studies real-world problems including online professional network analysis, post-M&A turnover prediction, Venture Capital strategy optimization, e-commerce product linkage and text analysis, etc.  -->
-His work is primarily related to the following topics.
+His work is primarily related to the following topics,
 * **Machine learning methodologies:** graph representation learning, text (language) representation learning, reinforcement learning.
 * **Applications:** career network analysis, employee turnover prediction, Venture Capital portofolio generation, e-commerce product linkage.
 <!-- His general research agenda is incorporating domain knowledge to design new AI models to improve their predictive power; applying data mining techniques to understand economic phenomena and discover domain insights that provide business values. -->
