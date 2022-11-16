@@ -28,7 +28,7 @@ His work is primarily related to the following topics,
 -  **Domain Applications:** Career Network Analysis, Employee Turnover Prediction, Venture Capital Portfolio Generation, E-commerce Product Linkage. 
 <!-- His general research agenda is incorporating domain knowledge to design new AI models to improve their predictive power; applying data mining techniques to understand economic phenomena and discover domain insights that provide business values. -->
 
-His work has been published in top venues of data mining, artificial intelligence and information systems, including refereed journals (IEEE TKDE, IEEE BigData) and conference proceedings (KDD, AAAI, ICDM, CIKM, CIST, etc.). He has serveral working papers in preparation for UTD journals (ISR, Management Science).
+His work has been published in top venues of data mining, artificial intelligence and information systems, including refereed journals (**IEEE TKDE, IEEE BigData**) and conference proceedings (**KDD, AAAI, ICDM, CIKM, CIST**, etc.). He has serveral working papers in preparation for **UTD journals (ISR, Management Science)**.
 
 <span style="color: blue;">I am on job market for faculty positions now. </span>Recommendations or suggestions are warmly welcome!
 
