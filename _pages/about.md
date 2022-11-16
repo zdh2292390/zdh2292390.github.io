@@ -20,7 +20,7 @@ Interesting domain applications we concerned include: graph representation for t
 His research interests lie in the intersection of data mining, natural langauge processing and business intelligence.
 <!-- He is fascinated with two application domains, i.e., business and management, in which he studies problems including online labor market analysis, career transition pattern mining, intelligent job benchmarking, post-M&A turnover prediction, Venture Capital strategy optimization, e-commerce product linkage, e-commerce text analysis, etc. -->
 He is interested in two types of research philosophy: (i) empower deep learning models with human domain knowledge, i.e., leverage domain knowledge to design new AI models for emerging domain sciences (talent analysis and FinTech); (ii) leverage AI to discover new domain insights, i.e., apply machine learning to interpret societal phenomena and derive managerial implications to guide business decision making.
-Specifically, he focuses on **knowledge-inspired deep representation learning for emerging domain sciences**.
+Specifically, he focuses on **knowledge-inspired deep representation learning** to encode diverse types of domain knowledge (e.g., graph-structured knowledge, text semantic, and risk evalution knowledge, etc).
 <!-- From machine learing methodology perspective, he studies graph representation learning, self-supervised learning, reinforcement learning, large-scale language models, as well as their adaptation to business and management domains. -->
 <!-- In terms of applications, he studies real-world problems including online professional network analysis, post-M&A turnover prediction, Venture Capital strategy optimization, e-commerce product linkage and text analysis, etc.  -->
 His work is primarily related to the following topics,
@@ -138,11 +138,13 @@ External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TK
 
 
 * **Journal Reviewer:**
+  - IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019
+    <!-- - External Reviewer (2019) -->
+
   - Electronic Commerce Research and Applications, 2022
     <!-- - Reviewer (2022) -->
 
-  - IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019
-    <!-- - External Reviewer (2019) -->
+
 
 Teaching Experience
 ------
