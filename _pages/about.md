@@ -108,15 +108,6 @@ External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TK
     - Session of “Graph Learning and Social Networks”
 
 * **Program Committee Member:**
-  - Workshop on Information Technologies and Systems (WITS)
-    - Program Committee (2022)
-  
-  - International Conference on Information Systems (ICIS)
-    - Reviewer (2022)
-
-  - Pacific Asia Conference on Information Systems (PACIS)
-    - Reviewer (2022)
-
   - ACM Conference on Knowledge Discovery and Data Mining (SIGKDD)
     - Program Committee (2022)
     - External Reviewer (2021)
@@ -129,6 +120,15 @@ External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TK
 
   - International Joint Conference on Artificial Intelligence (IJCAI)
     - Program Committee (2021, 2022), External Reviewer (2020)
+
+  - Workshop on Information Technologies and Systems (WITS)
+    - Program Committee (2022)
+  
+  - International Conference on Information Systems (ICIS)
+    - Reviewer (2022)
+
+  - Pacific Asia Conference on Information Systems (PACIS)
+    - Reviewer (2022)
 
   - International Conference on Information and Knowledge Management (CIKM)
     - External Reviewer (2019, 2020)
