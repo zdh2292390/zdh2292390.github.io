@@ -25,7 +25,7 @@ Specifically, he focuses on **knowledge-inspired deep representation learning fo
 <!-- In terms of applications, he studies real-world problems including online professional network analysis, post-M&A turnover prediction, Venture Capital strategy optimization, e-commerce product linkage and text analysis, etc.  -->
 His work is primarily related to the following topics,
 -  **ML Methodologies:** Graph Representation Learning, Text Representation Learning, Reinforcement Learning.  
--  **Application Domains:** Career Network Analysis, Employee Turnover Prediction, Venture Capital Portfolio Generation, E-commerce Product Linkage. 
+-  **Domain Applications:** Career Network Analysis, Employee Turnover Prediction, Venture Capital Portfolio Generation, E-commerce Product Linkage. 
 <!-- His general research agenda is incorporating domain knowledge to design new AI models to improve their predictive power; applying data mining techniques to understand economic phenomena and discover domain insights that provide business values. -->
 
 His work has been published in top venues of data mining, artificial intelligence and information systems, including refereed journals (IEEE TKDE, IEEE BigData) and conference proceedings (KDD, AAAI, ICDM, CIKM, CIST, etc.). He has serveral working papers in preparation for UTD journals (ISR, Management Science).
