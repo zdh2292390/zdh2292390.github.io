@@ -108,41 +108,41 @@ External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TK
     - Session of “Graph Learning and Social Networks”
 
 * **Program Committee Member:**
-  - ACM Conference on Knowledge Discovery and Data Mining (SIGKDD)
-    - Program Committee (2022)
-    - External Reviewer (2021)
+  - ACM Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022
+    <!-- - Program Committee (2022) -->
+    <!-- - External Reviewer (2021) -->
 
-  - Annual Meeting of the Association for Computational Linguistics (ACL)
-    - Rolling Reviewer (2022)
+  - Annual Meeting of the Association for Computational Linguistics (ACL), 2022
+    <!-- - Rolling Reviewer (2022) -->
 
-  - AAAI Conference on Artificial Intelligence (AAAI)
-    - Program Committee (2021, 2022)
+  - AAAI Conference on Artificial Intelligence (AAAI), 2021, 2022
+    <!-- - Program Committee (2021, 2022) -->
 
-  - International Joint Conference on Artificial Intelligence (IJCAI)
-    - Program Committee (2021, 2022), External Reviewer (2020)
+  - International Joint Conference on Artificial Intelligence (IJCAI), 2021, 2022
+    <!-- - Program Committee (2021, 2022), External Reviewer (2020) -->
 
-  - Workshop on Information Technologies and Systems (WITS)
-    - Program Committee (2022)
+  - Workshop on Information Technologies and Systems (WITS), 2022
+    <!-- - Program Committee (2022) -->
   
-  - International Conference on Information Systems (ICIS)
-    - Reviewer (2022)
+  - International Conference on Information Systems (ICIS), 2022
+    <!-- - Reviewer (2022) -->
 
-  - Pacific Asia Conference on Information Systems (PACIS)
-    - Reviewer (2022)
+  - Pacific Asia Conference on Information Systems (PACIS), 2022
+    <!-- - Reviewer (2022) -->
 
-  - International Conference on Information and Knowledge Management (CIKM)
-    - External Reviewer (2019, 2020)
+  - International Conference on Information and Knowledge Management (CIKM), 2020
+    <!-- - External Reviewer (2019, 2020) -->
 
-  - ACM International Conference on Web Search and Data Mining (WSDM)
-    - Program Committee (2022), External Reviewer (2020)
+  - ACM International Conference on Web Search and Data Mining (WSDM), 2022
+    <!-- - Program Committee (2022), External Reviewer (2020) -->
 
 
 * **Journal Reviewer:**
-  - Electronic Commerce Research and Applications
-    - Reviewer (2022)
+  - Electronic Commerce Research and Applications, 2022
+    <!-- - Reviewer (2022) -->
 
-  - IEEE Transactions on Knowledge and Data Engineering (TKDE)
-    - External Reviewer (2019)
+  - IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019
+    <!-- - External Reviewer (2019) -->
 
 Teaching Experience
 ------
