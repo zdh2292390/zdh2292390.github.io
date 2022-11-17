@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 ------
-### **Instructor:**
+### **Lecturer:**
 
 <!-- - 29:623:335:01, Data Warehousing & Data Mining (Spring 2022) -->
 - Data Warehousing & Data Mining (Undergraduate, Spring 2022)
