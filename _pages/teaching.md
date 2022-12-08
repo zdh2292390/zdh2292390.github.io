@@ -12,7 +12,7 @@ redirect_from:
 <!-- - 29:623:335:01, Data Warehousing & Data Mining (Spring 2022) -->
 - Data Warehousing & Data Mining (Undergraduate, Spring 2022)
   - Teach students with diverse backgrounds the fundations of data mining and machine learning, as well as how to use Python, Pandas, Orange to perform quick data analytics.
-  - Course Evaluation: 4.53/5 (department average 4.29/5)
+  - Course Evaluation: 4.53/5 (department average 4.29)
 
 ### **Teaching Assistant:**
 <!-- - 29:623:335:01, Data Warehousing & Data Mining (Spring 2021)
