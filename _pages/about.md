@@ -34,6 +34,8 @@ His work has been published in top venues of data mining, artificial intelligenc
 
 News
 ------
+03/2023: Invited to serve as a reviewer for [AMCIS 2023](https://amcis2023.aisconferences.org/)! \\
+02/2023: Invited to serve as a PC member for [KDD 2023](https://kdd.org/kdd2023/)! \\
 09/2022: So glad to receive the Student Scholarship from INFORMS Workshop on Data Science, thanks!\\
 09/2022: Invited to serve as a PC member for [WITS 2022](https://witsconf.org/wits2022-call-for-papers/)! \\
 08/2022: Two papers got accepted to [INFORMS Workshop on Data Science](https://blogs.ubc.ca/datascience2022/)! \\

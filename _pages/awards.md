@@ -6,6 +6,7 @@ redirect_from:
   - /awards.html
 ---
 
+- Travel Scholarship from the 37th AAAI Conference on Artificial Intelligence, 2023
 - Dean’s Dissertation Fellowship at Rutgers University
 - Student Scholarship from INFORMS Workshop on Data Science
 - Freshman Scholarship at Chinese Academy of Sciences (Top 10%)
