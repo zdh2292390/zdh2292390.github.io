@@ -37,7 +37,7 @@ arXiv:2009.02835 <br> -->
 
 - **Acqui-hiring or Acqui-quitting: Data-driven Post-M&A Turnover Prediction via a Dual-fit GNN Model** [<a href='M_A_sample_denghui.pdf'>PDF</a>] <span style="color:RoyalBlue">[CM]</span> <span style="color:brown">[GL]</span><br>
 <ins>**Denghui Zhang**</ins>, Hao Zhong, Jingyuan Yang<br>
-**CIST'22**: INFORMS Conference On Information Systems And Technology, 2022. (In preparation for Information Systems Research.)<br>
+**CIST'22**: INFORMS Conference On Information Systems And Technology, 2022. (Submitted to Information Systems Research.)<br>
 
 - **Towards Learning Disentangled Representations for Time Series** [<a href=''>PDF</a>] <br>
 Yuening Li, Zhengzhang Chen, Daochen Zha, Mengnan Du, <ins>**Denghui Zhang**</ins>, Haifeng Chen, Xia Hu<br>
