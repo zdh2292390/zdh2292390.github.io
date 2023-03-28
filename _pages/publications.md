@@ -98,7 +98,7 @@ IEEE Transactions on Big Data, pp.1-14 <br>
 
 - **Acqui-hiring or Acqui-quitting: Post-M&A Turnover Prediction via a Dual-fit GNN Model** <br>
 <ins>**Denghui Zhang**</ins>, Hao Zhong, Jingyuan Yang<br>
-**ISR**: In preparation for Information Systems Research.<br>
+**ISR**: Submitted to Information Systems Research.<br>
 
 - **AlphaVC: A Reinforcement Learning-based Venture Capital Investment Strategy** <br>
 <ins>**Zixuan Yuan**</ins>\*, <ins>**Denghui Zhang**</ins>\*, Hao Zhong, Shengming Zhang, Xiong Hui<br>
