@@ -32,7 +32,8 @@ His work has been published in top venues of data mining, artificial intelligenc
 
 <!-- <span style="color: blue;">I am on job market for faculty positions now. </span>Recommendations or suggestions are warmly welcome! -->
 
-<span style="color: blue;">I will join Stevens Institute of Technology, School of Business as a tenure-track assistant professor in Fall 2023! </span> I'm actively looking for Ph.D. students to work with me in AI-driven business analytics. Feel free to shoot me an email with your CV. Once we have a commitment to each other, I will do my best to help you!   
+<!-- <span style="color: blue;"> </span>  -->
+I will join **Stevens Institute of Technology, School of Business** as a tenure-track assistant professor in Fall 2023! I'm actively looking for Ph.D. students to work with me in AI-driven business analytics. Feel free to shoot me an email with your CV. Once we have a commitment to each other, I will do my best to help you!   
 
 
 News
