@@ -22,18 +22,18 @@ I'm actively looking for Ph.D. students to work with me in AI-driven business an
 
 <!-- My research interests lie  -->
 <!-- His research interests lies in the intersection of data mining and business intelligence. -->
-His research interests lie in the intersection of data mining, natural langauge processing and business intelligence.
+My research interests lie in the intersection of data mining, natural langauge processing and business intelligence.
 <!-- He is fascinated with two application domains, i.e., business and management, in which he studies problems including online labor market analysis, career transition pattern mining, intelligent job benchmarking, post-M&A turnover prediction, Venture Capital strategy optimization, e-commerce product linkage, e-commerce text analysis, etc. -->
 He is interested in two types of research philosophy: (i) empower deep learning models with human domain knowledge, i.e., leverage domain knowledge to design new AI models for emerging domain sciences (Talent Analytics and FinTech); (ii) leverage AI to discover new knowledge, i.e., apply machine learning to interpret societal phenomena and derive managerial implications to guide decision-making.
 Specifically, he focuses on **knowledge-inspired deep representation learning** to fuse diverse knowledge sources (e.g., graph-structured knowledge, text semantic, and formula knowledge, etc) for complex domain adaptation.
 <!-- From machine learing methodology perspective, he studies graph representation learning, self-supervised learning, reinforcement learning, large-scale language models, as well as their adaptation to business and management domains. -->
 <!-- In terms of applications, he studies real-world problems including online professional network analysis, post-M&A turnover prediction, Venture Capital strategy optimization, e-commerce product linkage and text analysis, etc.  -->
-His work is primarily related to the following topics,
+My work is primarily related to the following topics,
 -  **ML Methodologies:** Graph Representation Learning, Text Representation Learning, Reinforcement Learning.  
 -  **Domain Applications:** Career Network Analysis, Employee Turnover Prediction, Venture Capital Portfolio Generation, E-commerce Product Linkage. 
 <!-- His general research agenda is incorporating domain knowledge to design new AI models to improve their predictive power; applying data mining techniques to understand economic phenomena and discover domain insights that provide business values. -->
 
-His work has been published in top venues of data mining, artificial intelligence and information systems, including refereed journals (**IEEE TKDE, IEEE BigData**) and conference proceedings (**KDD, AAAI, ICDM, CIKM, CIST**, etc.). He has working papers in preparation for **UTD journals (ISR, Management Science)**.
+My work has been published in top venues of data mining, artificial intelligence and information systems, including refereed journals (**IEEE TKDE, IEEE BigData**) and conference proceedings (**KDD, AAAI, ICDM, CIKM, CIST**, etc.). He has working papers in preparation for **UTD journals (ISR, Management Science)**.
 
 <!-- <span style="color: blue;">I am on job market for faculty positions now. </span>Recommendations or suggestions are warmly welcome! -->
 
