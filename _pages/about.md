@@ -17,11 +17,11 @@ With the emergence of domain-oriented data and tasks, we are interested to incor
 Interesting domain applications we concerned include: graph representation for talent intelligence, domain-oriented language representation, etc. -->
 
 **I will join [Stevens Institute of Technology, School of Business](https://www.stevens.edu/school-business) as a tenure-track assistant professor in Fall 2023!  
-I received my Ph.D. at [Rutgers University](https://en.wikipedia.org/wiki/Rutgers_University#Rankings), advised by Prof. [Hui Xiong](https://scholar.google.com.hk/citations?hl=zh-CN&user=cVDF1tkAAAAJ&view_op=list_works&sortby=pubdate). 
 I'm actively looking for Ph.D. students to work with me in AI-driven business analytics. Feel free to shoot me an email with your CV. Once we have a commitment to each other, I will do my best to help you!**
 
 <!-- My research interests lie  -->
 <!-- His research interests lies in the intersection of data mining and business intelligence. -->
+I received my Ph.D. at [Rutgers University](https://en.wikipedia.org/wiki/Rutgers_University#Rankings), advised by Prof. [Hui Xiong](https://scholar.google.com.hk/citations?hl=zh-CN&user=cVDF1tkAAAAJ&view_op=list_works&sortby=pubdate). 
 My research interests lie in the intersection of data mining, natural langauge processing and business intelligence.
 <!-- He is fascinated with two application domains, i.e., business and management, in which he studies problems including online labor market analysis, career transition pattern mining, intelligent job benchmarking, post-M&A turnover prediction, Venture Capital strategy optimization, e-commerce product linkage, e-commerce text analysis, etc. -->
 He is interested in two types of research philosophy: (i) empower deep learning models with human domain knowledge, i.e., leverage domain knowledge to design new AI models for emerging domain sciences (Talent Analytics and FinTech); (ii) leverage AI to discover new knowledge, i.e., apply machine learning to interpret societal phenomena and derive managerial implications to guide decision-making.
