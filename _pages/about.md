@@ -71,8 +71,8 @@ News
 09/2020: Invited to serve as a PC member for AAAI’21.\\
 <!-- 09/2020 New preprint is out! [E-BERT: A Phrase and Product Knowledge Enhanced Language Model for E-commerce](https://arxiv.org/pdf/2009.02835.pdf) -->
 
-Education<!-- 
------- -->
+<!-- Education -->
+<!-- ------ -->
  <!--  * **Rutgers, The State University of New Jersey**
     * Ph.D. in Information Systems, &nbsp;2018 - Current
     * Advisor: Prof. [Hui Xiong](http://datamining.rutgers.edu/) 
