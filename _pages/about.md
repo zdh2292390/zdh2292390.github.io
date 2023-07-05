@@ -16,7 +16,7 @@ redirect_from:
 With the emergence of domain-oriented data and tasks, we are interested to incorporate human heuristic domain knowledge into the process of learning representations, so to a build "human + AI" system to tackle very specific challenges in multiple domains.
 Interesting domain applications we concerned include: graph representation for talent intelligence, domain-oriented language representation, etc. -->
 
-**I will join [Stevens Institute of Technology, School of Business](https://www.stevens.edu/school-business) as a tenure-track assistant professor in Fall 2023!  
+**I will join [Stevens Institute of Technology, School of Business](https://www.stevens.edu/school-business) as a tenure-track assistant professor in Fall 2023.** 
 <!-- I'm actively looking for Ph.D. students to work with me in AI-driven business analytics. Feel free to shoot me an email with your CV. Once we have a commitment to each other, I will exert my utmost effort to help you!** -->
 
 <!-- My research interests lie  -->
