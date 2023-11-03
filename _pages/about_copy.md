@@ -21,7 +21,7 @@ Interesting domain applications we concerned include: graph representation for t
 <!-- I'm actively looking for Ph.D. students to work with me in AI-driven business analytics. Feel free to shoot me an email with your CV. Once we have a commitment to each other, I will exert my utmost effort to help you! -->
 I'm actively looking for Ph.D. students to work with me in business analytics. Feel free to shoot me an email with your CV. Once we have a commitment to each other, I will exert my utmost effort to help you!
 
-<!-- 
+
 I received my Ph.D. at [Rutgers University](https://en.wikipedia.org/wiki/Rutgers_University#Rankings), advised by Prof. [Hui Xiong](https://scholar.google.com.hk/citations?hl=zh-CN&user=cVDF1tkAAAAJ&view_op=list_works&sortby=pubdate). 
 My research interests lie in the intersection of data mining, natural langauge processing and business intelligence.
 I am interested in two types of research philosophy: (i) empower deep learning models with human domain knowledge, i.e., leverage domain knowledge to design new AI models for emerging domain sciences (Talent Analytics and FinTech); (ii) leverage AI to discover new knowledge, i.e., apply machine learning to interpret societal phenomena and derive managerial implications to guide decision-making.
@@ -36,9 +36,9 @@ My work has been published in top venues of data mining, artificial intelligence
 
 My faviorate quote:
 "It does not matter how slowly you go as long as you do not stop." - Confucius\\
-子曰：“譬如为山，未成一篑，止，吾止也。譬如平地，虽覆一篑，进，吾往也。”  -->
+子曰：“譬如为山，未成一篑，止，吾止也。譬如平地，虽覆一篑，进，吾往也。” 
 
-<!-- News
+News
 ------
 09/2023: Invited to serve as a reviewer for INFORMS Journal on Computing. \\
 09/2023: Invited to serve as a reviewer for Nature Communications. \\
@@ -64,7 +64,7 @@ My faviorate quote:
 12/2020: One paper accepted to AAAI'21. \\
 11/2020: Invited to serve as a PC member for WWW'21. \\
 10/2020: Invited to serve as a PC member for IJCAI'21. \\
-09/2020: Invited to serve as a PC member for AAAI’21.\\ -->
+09/2020: Invited to serve as a PC member for AAAI’21.\\
 
 <!-- Education -->
 <!-- ------ -->
@@ -80,3 +80,92 @@ My faviorate quote:
 
 <!-- Publications
  -->
+
+
+
+Industry Experiences
+------
+<!-- * Amazon Science,   &emsp;&emsp;  2021.05 - 2021.08 -->
+* Amazon Science,   &emsp;&emsp; Product Graph Team, &emsp;&emsp; 2021.05 - 2021.08
+  * Applied Scientist Intern
+    * Topic: Language Representation Pre-training for Low-resource Entity Matching.
+    <!-- * Mentors: [Xin Luna Dong](https://scholar.google.com/citations?user=uGsKvHoAAAAJ&hl=en), [Zhengyang Wang](https://scholar.google.com/citations?user=A4fNBtEAAAAJ) -->
+<!-- * NEC Laboratories America,    &emsp;&emsp; Research Intern, &emsp;&emsp;    2020.06 - 2020.08 -->
+* NEC Laboratories America, &emsp;&emsp; Data Science Team, &emsp;&emsp; 2020.06 - 2020.08
+  * Research Intern   
+    * Topic: Deep Contextualized Product Representation Learning.
+* NEC Laboratories America, &emsp;&emsp;Data Science Team,&emsp;&emsp;   2019.06 - 2019.08
+  * Research Intern
+    * Topic: Spatio-temporal Modeling for Turbulence Forecasting.
+    <!-- * Mentor: Dr. [Yanchi Liu](https://scholar.google.com.hk/citations?hl=zh-CN&user=faLmr-YAAAAJ&view_op=list_works&sortby=pubdate)  -->
+* Baidu Research,     &emsp;&emsp; Talent Intelligence Center, &emsp;&emsp;    2018.06 - 2018.08
+  * Research Intern
+    * Topic: Representation Learning for Talent and Job Market Analysis and Benchmarking.
+    <!-- * Mentor: Dr. [Hengshu Zhu](https://scholar.google.com/citations?user=55MQBzYAAAAJ&hl=en)  -->
+
+Services
+------
+<!-- PC Member: ACL'2022, AAAI'22, IJCAI'22, WSDM'22, WWW'21, IJCAI'21, AAAI'21.\\
+External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TKDE 2019. -->
+* **Session Chair:**
+  - INFORMS Annual Meeting 2022
+    - Session: AI-driven Business Analytics: New Advances and Applications
+  - The 28th ACM SIGKDD Conference (2022)
+    - Session of “Graph Learning and Social Networks”
+
+* **Program Committee Member:**
+  - ACM Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022
+    <!-- - Program Committee (2022) -->
+    <!-- - External Reviewer (2021) -->
+
+  - Annual Meeting of the Association for Computational Linguistics (ACL), 2022
+    <!-- - Rolling Reviewer (2022) -->
+
+  - AAAI Conference on Artificial Intelligence (AAAI), 2021, 2022
+    <!-- - Program Committee (2021, 2022) -->
+
+  - International Joint Conference on Artificial Intelligence (IJCAI), 2021, 2022
+    <!-- - Program Committee (2021, 2022), External Reviewer (2020) -->
+
+  - Workshop on Information Technologies and Systems (WITS), 2022
+    <!-- - Program Committee (2022) -->
+  
+  - International Conference on Information Systems (ICIS), 2022
+    <!-- - Reviewer (2022) -->
+
+  - Pacific Asia Conference on Information Systems (PACIS), 2022
+    <!-- - Reviewer (2022) -->
+
+  - International Conference on Information and Knowledge Management (CIKM), 2020
+    <!-- - External Reviewer (2019, 2020) -->
+
+  - ACM International Conference on Web Search and Data Mining (WSDM), 2022
+    <!-- - Program Committee (2022), External Reviewer (2020) -->
+
+
+* **Journal Reviewer:**
+  - IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019
+    <!-- - External Reviewer (2019) -->
+
+  - Electronic Commerce Research and Applications, 2022
+    <!-- - Reviewer (2022) -->
+
+
+
+Teaching Experience
+------
+### **Instructor:**
+
+<!-- - 29:623:335:01, Data Warehousing & Data Mining (Spring 2022) -->
+- Data Warehousing & Data Mining (Spring 2022)
+  - Teach students with diverse backgrounds the fundations of data mining and machine learning, as well as how to use Python, Pandas, Orange to perform quick data anlytics.
+  - Course Evaluation: 4.53/5 (department average 4.29/5)
+
+### **Teaching Assistant:**
+<!-- - 29:623:335:01, Data Warehousing & Data Mining (Spring 2021)
+- 33:136:485:02, Time Series Model (2020 Fall) -->
+- Cyber Security
+- Information Security IT/CS (Fall 2021, Spring 2022)
+- Data Warehousing & Data Mining (Spring 2021)
+- Time Series Model (2020 Fall)
+
