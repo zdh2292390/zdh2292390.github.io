@@ -8,75 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-<!-- Greetings! I am Denghui Zhang. -->
 
-<!-- Denghui Zhang is a 5th-year Ph.D. student in Information Systems at [Rutgers University](https://en.wikipedia.org/wiki/Rutgers_University#Rankings), working with Prof. [Hui Xiong](https://scholar.google.com.hk/citations?hl=zh-CN&user=cVDF1tkAAAAJ&view_op=list_works&sortby=pubdate).  -->
-<!-- He is a member of the [Rutgers Data Mining Lab](http://datamining.rutgers.edu/CDMBA/).  -->
-<!-- My research interests mostly lie in self-supervised representation learning, i.e., automating feature learning from data with little annotation effort by designing customized self-supervised tasks. 
-With the emergence of domain-oriented data and tasks, we are interested to incorporate human heuristic domain knowledge into the process of learning representations, so to a build "human + AI" system to tackle very specific challenges in multiple domains.
-Interesting domain applications we concerned include: graph representation for talent intelligence, domain-oriented language representation, etc. -->
 
-<!-- **I will join [Stevens Institute of Technology, School of Business](https://www.stevens.edu/school-business) as a tenure-track assistant professor in Fall 2023.**  -->
 **Greetings! I am an assistant professor at [Stevens Institute of Technology, School of Business](https://www.stevens.edu/school-business).** 
 <!-- I'm actively looking for Ph.D. students to work with me in AI-driven business analytics. Feel free to shoot me an email with your CV. Once we have a commitment to each other, I will exert my utmost effort to help you! -->
 I'm actively looking for Ph.D. students to work with me in business analytics. Feel free to shoot me an email with your CV. Once we have a commitment to each other, I will exert my utmost effort to help you!
 
-<!-- 
-I received my Ph.D. at [Rutgers University](https://en.wikipedia.org/wiki/Rutgers_University#Rankings), advised by Prof. [Hui Xiong](https://scholar.google.com.hk/citations?hl=zh-CN&user=cVDF1tkAAAAJ&view_op=list_works&sortby=pubdate). 
-My research interests lie in the intersection of data mining, natural langauge processing and business intelligence.
-I am interested in two types of research philosophy: (i) empower deep learning models with human domain knowledge, i.e., leverage domain knowledge to design new AI models for emerging domain sciences (Talent Analytics and FinTech); (ii) leverage AI to discover new knowledge, i.e., apply machine learning to interpret societal phenomena and derive managerial implications to guide decision-making.
-Specifically, my research focuses on **domain knowledge inspired deep representation learning** to fuse diverse knowledge sources (e.g., graph-structured knowledge, text semantic, and formula knowledge, etc) for complex domain adaptation.
-My work is primarily related to the following topics,
--  **ML Methodologies:** Graph Representation Learning, Text Representation Learning, Reinforcement Learning.  
--  **Domain Applications:** Career Network Analysis, Employee Turnover Prediction, Venture Capital Portfolio Generation, E-commerce Product Linkage. 
 
-My work has been published in top venues of data mining, artificial intelligence and information systems, including refereed journals (**IEEE TKDE, IEEE BigData**) and conference proceedings (**KDD, AAAI, ICDM, CIKM, CIST**, etc.). Some of my working papers are under review for **UTD and FT50 journals**.
-
-
-
-My faviorate quote:
-"It does not matter how slowly you go as long as you do not stop." - Confucius\\
-子曰：“譬如为山，未成一篑，止，吾止也。譬如平地，虽覆一篑，进，吾往也。”  -->
-
-<!-- News
-------
-09/2023: Invited to serve as a reviewer for INFORMS Journal on Computing. \\
-09/2023: Invited to serve as a reviewer for Nature Communications. \\
-03/2023: Invited to serve as a reviewer for [AMCIS 2023](https://amcis2023.aisconferences.org/)! \\
-02/2023: Invited to serve as a PC member for [KDD 2023](https://kdd.org/kdd2023/)! \\
-09/2022: So glad to receive the Student Scholarship from INFORMS Workshop on Data Science, thanks!\\
-09/2022: Invited to serve as a PC member for [WITS 2022](https://witsconf.org/wits2022-call-for-papers/)! \\
-08/2022: Two papers got accepted to [INFORMS Workshop on Data Science](https://blogs.ubc.ca/datascience2022/)! \\
-08/2022: One paper got accepted to [CIST 2022](https://sites.google.com/view/cist2022/home?authuser=0)! \\
-08/2022: One paper on product representation learning got accepted to [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)! \\
-08/2022: Invited to serve as a PC member for [AAAI 2023](https://aaai.org/Conferences/AAAI-23/). \\
-07/2022: Invited to serve as a session chair for [KDD 2022](https://kdd.org/kdd2022/index.html). \\
-05/2022: Thrilled to receive the Dean's Dissertation Fellowship from Rutgers, thank you Rutgers! \\
-04/2022: Will serve as a session chair at [INFORMS 2022](https://meetings.informs.org/wordpress/indianapolis2022/). \\
-12/2021: One paper on KG reasoning got accepted to AAAI'22 (15% acceptance rate). \\
-11/2021: Invited to serve as a PC member for KDD'22 Applied Data Science Track. \\
-10/2021: Gave a talk about "Domain-oriented BERT" at [AI Times (by Tsinghua University)](https://www.bilibili.com/video/BV11q4y197Qr?spm_id_from=333.999.0.0). \\
-08/2021: Invited to serve as a PC member for AAAI'22, WSDM'22. \\
-07/2021: Invited to serve as a PC member for IJCAI'22. \\
-05/2021: One paper accepted to KDD'21. \\
-04/2021: Passed my dissertation proposal defense, glad to be Ph.D. candidate now! \\
-01/2021: Will join Amazon as a research intern. \\
-12/2020: One paper accepted to AAAI'21. \\
-11/2020: Invited to serve as a PC member for WWW'21. \\
-10/2020: Invited to serve as a PC member for IJCAI'21. \\
-09/2020: Invited to serve as a PC member for AAAI’21.\\ -->
-
-<!-- Education -->
-<!-- ------ -->
-  <!-- * **Rutgers, The State University of New Jersey** -->
-    <!-- * Ph.D. in Information Systems, &nbsp;2018 - Current -->
-    <!-- * Advisor: Prof. [Hui Xiong](http://datamining.rutgers.edu/)  -->
-  <!-- * **Institute of Computing Technology, Chinese Academy of Sciences** -->
-    <!-- * M.S. in Computer Science, &nbsp;2015 - 2018 -->
-    <!-- * Advisor: Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ&hl=enl)  -->
-  <!-- * **University of Science and Technology Beijing** -->
-    <!-- * B.E. in Electronic Engineering, &nbsp;2011 - 2015 -->
-    <!-- * Beijing Outstanding Undergraduate Award (Top 2%) -->
-
-<!-- Publications
- -->
