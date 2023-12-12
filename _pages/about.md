@@ -33,10 +33,10 @@ My work is primarily related to the following topics,
 My work has been published in top venues of data mining, artificial intelligence and information systems, including refereed journals (**IEEE TKDE, IEEE BigData**) and conference proceedings (**KDD, AAAI, ICDM, CIKM, CIST**, etc.). Some of my working papers are under review for **UTD and FT50 journals**.
 
 
-<!-- 
+
 My faviorate quote:
 "It does not matter how slowly you go as long as you do not stop." - Confucius\\
-子曰：“譬如为山，未成一篑，止，吾止也。譬如平地，虽覆一篑，进，吾往也。”  -->
+子曰：“譬如为山，未成一篑，止，吾止也。譬如平地，虽覆一篑，进，吾往也。” 
 
 News
 ------
