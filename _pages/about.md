@@ -8,16 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<!-- Greetings! I am Denghui Zhang. -->
 
-<!-- Denghui Zhang is a 5th-year Ph.D. student in Information Systems at [Rutgers University](https://en.wikipedia.org/wiki/Rutgers_University#Rankings), working with Prof. [Hui Xiong](https://scholar.google.com.hk/citations?hl=zh-CN&user=cVDF1tkAAAAJ&view_op=list_works&sortby=pubdate).  -->
-<!-- He is a member of the [Rutgers Data Mining Lab](http://datamining.rutgers.edu/CDMBA/).  -->
-<!-- My research interests mostly lie in self-supervised representation learning, i.e., automating feature learning from data with little annotation effort by designing customized self-supervised tasks. 
-With the emergence of domain-oriented data and tasks, we are interested to incorporate human heuristic domain knowledge into the process of learning representations, so to a build "human + AI" system to tackle very specific challenges in multiple domains.
-Interesting domain applications we concerned include: graph representation for talent intelligence, domain-oriented language representation, etc. -->
-
-<!-- **I will join [Stevens Institute of Technology, School of Business](https://www.stevens.edu/school-business) as a tenure-track assistant professor in Fall 2023.**  -->
-<!-- **Greetings! I am an assistant professor at [Stevens Institute of Technology, School of Business](https://www.stevens.edu/school-business).**  -->
 **Greetings! I am an assistant professor at [Stevens Institute of Technology](https://www.stevens.edu/).** 
 <!-- I'm actively looking for Ph.D. students to work with me in AI-driven business analytics. Feel free to shoot me an email with your CV. Once we have a commitment to each other, I will exert my utmost effort to help you! -->
 I'm actively looking for Ph.D. students to work with me in business analytics. Feel free to shoot me an email with your CV. Once we have a commitment to each other, I will exert my utmost effort to help you!
@@ -32,7 +23,6 @@ My work is primarily related to the following topics,
 -  **Domain Applications:** Career Network Analysis, Employee Turnover Prediction, Venture Capital Portfolio Generation, E-commerce Product Linkage. 
 
 My work has been published in top venues of data mining, artificial intelligence and information systems, including refereed journals (**IEEE TKDE, IEEE BigData**) and conference proceedings (**KDD, AAAI, ICDM, CIKM, CIST**, etc.). Some of my working papers are under review for **UTD and FT50 journals**.
-
 
 
 My faviorate quote:
