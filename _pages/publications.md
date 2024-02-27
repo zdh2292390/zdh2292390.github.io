@@ -23,8 +23,22 @@ arXiv:2009.02835 <br> -->
 <!-- <span style="color:RoyalBlue">[CM] Computational Management Science,</span>  <span style="color:CornflowerBlue">[EM] E-commerce Analysis,</span>   <span style="color:green">[FT] FinTech</span><br>
 <span style="color:brown">[GL]Graph Machine Learning,</span> <span style="color:purple">[NLP] Natual Language Processing,</span> <span style="color:Orange;">[RL] Reinforcement Learning,</span -->
 ## Peer-reviewed conference and journal papers
+
+
 **Domains:**  Computational Management Science <span style="color:RoyalBlue">[CM]</span>,  E-commerce Analysis <span style="color:Salmon">[EM]</span>,  FinTech <span style="color:green">[FT]</span>, Spatial AI <span style="color:green">[SA]</span> <br>
 **Methodologies:**  Graph Deep Learning <span style="color:brown">[GL]</span>,  Text Mining <span style="color:purple">[TM]</span>,  Reinforcement Learning <span style="color:Orange;">[RL]</span>
+
+- **Self-Paced Unified Representation Learning for Hierarchical Multi-Label Classification** <br>
+Zixuan Yuan, Hao Liu, Haoyi Zhou, <ins>**Denghui Zhang,**</ins>, Xiao Zhang, Hao Wang, Hui Xiong<br>
+**AAAI'24**: Proceedings of the 38th AAAI Conference on Artificial Intelligence.<br>
+
+- **Graph Learning of Multifaceted Motivations for Online Political Engagement Prediction in Counter-party Social Networks** <br>
+Manting Hu, Qingyuan Lin, <ins>**Denghui Zhang,**</ins>, Angela Lu, Junming Liu, Hui Xiong<br>
+**ICIS'23**: 44th International Conference on Information Systems (**Best Student Paper**).<br>
+
+- **LEVER: Online Adaptive Sequence Learning Framework for High-Frequency Trading** <br>
+Zixuan Yuan, Junming Liu, Haoyi Zhou, <ins>**Denghui Zhang,**</ins>, Hao Liu, Nengjun Zhu, Hui Xiong<br>
+**IEEE TKDE**: IEEE Transactions on Knowledge and Data Engineering.<br>
 
 <!-- ![image](M&A.jpeg){: style="float: left"} -->
 - **Multi-Faceted Knowledge-Driven Pre-training for Product Representation Learning** <span style="color:Salmon">[EM] <span style="color:purple">[TM]</span></span> <br>
@@ -104,9 +118,7 @@ IEEE Transactions on Big Data, pp.1-14 <br>
 <ins>**Zixuan Yuan**</ins>\*, <ins>**Denghui Zhang**</ins>\*, Hao Zhong, Shengming Zhang, Xiong Hui<br>
 **MNSC**: In preparation for Manamgement Science.<br>
 
-- **LEVER: Online Adaptive Sequence Learning Framework for High-Frequency Trading** <br>
-Zixuan Yuan, Junming Liu, Haoyi Zhou, <ins>**Denghui Zhang,**</ins>, Hao Liu, Nengjun Zhu, Hui Xiong<br>
-**IEEE TKDE**: IEEE Transactions on Knowledge and Data Engineering. (Major revision.)<br>
+
 
 ## Patents 
 - [<a href=''>US Patent App. 17/584,638</a>] **Multi-Faceted Knowledge-Driven Pre-training for Product Representation Learning** 
