@@ -29,15 +29,15 @@ arXiv:2009.02835 <br> -->
 **Methodologies:**  Graph Deep Learning <span style="color:brown">[GL]</span>,  Text Mining <span style="color:purple">[TM]</span>,  Reinforcement Learning <span style="color:Orange;">[RL]</span>
 
 - **Self-Paced Unified Representation Learning for Hierarchical Multi-Label Classification** <br>
-Zixuan Yuan, Hao Liu, Haoyi Zhou, <ins>**Denghui Zhang,**</ins>, Xiao Zhang, Hao Wang, Hui Xiong<br>
+Zixuan Yuan, Hao Liu, Haoyi Zhou, <ins>**Denghui Zhang**</ins>, Xiao Zhang, Hao Wang, Hui Xiong<br>
 **AAAI'24**: Proceedings of the 38th AAAI Conference on Artificial Intelligence.<br>
 
 - **Graph Learning of Multifaceted Motivations for Online Political Engagement Prediction in Counter-party Social Networks** <br>
-Manting Hu, Qingyuan Lin, <ins>**Denghui Zhang,**</ins>, Angela Lu, Junming Liu, Hui Xiong<br>
+Manting Hu, Qingyuan Lin, <ins>**Denghui Zhang,**</ins> Angela Lu, Junming Liu, Hui Xiong<br>
 **ICIS'23**: 44th International Conference on Information Systems (**Best Student Paper**).<br>
 
 - **LEVER: Online Adaptive Sequence Learning Framework for High-Frequency Trading** <br>
-Zixuan Yuan, Junming Liu, Haoyi Zhou, <ins>**Denghui Zhang,**</ins>, Hao Liu, Nengjun Zhu, Hui Xiong<br>
+Zixuan Yuan, Junming Liu, Haoyi Zhou, <ins>**Denghui Zhang**</ins>, Hao Liu, Nengjun Zhu, Hui Xiong<br>
 **IEEE TKDE**: IEEE Transactions on Knowledge and Data Engineering.<br>
 
 <!-- ![image](M&A.jpeg){: style="float: left"} -->

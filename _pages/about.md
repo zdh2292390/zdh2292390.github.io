@@ -151,16 +151,15 @@ Teaching Experience
 ------
 ### **Instructor:**
 
-<!-- - 29:623:335:01, Data Warehousing & Data Mining (Spring 2022) -->
-- Data Warehousing & Data Mining (Spring 2022)
+- Big Data Technology (Graduate, Spring 2024, Stevens Institute of Technology).
+  - Topics: MapReduce, Hadoop, Spark, Streaming Data, Large-scale Machine Learning.
+- Data Warehousing & Data Mining (Undergraduate, Spring 2022, Rutgers University)
   - Teach students with diverse backgrounds the fundations of data mining and machine learning, as well as how to use Python, Pandas, Orange to perform quick data anlytics.
-  - Course Evaluation: 4.53/5 (department average 4.29/5)
+  <!-- - Course Evaluation: 4.53/5 (department average 4.29/5) -->
 
-### **Teaching Assistant:**
-<!-- - 29:623:335:01, Data Warehousing & Data Mining (Spring 2021)
-- 33:136:485:02, Time Series Model (2020 Fall) -->
+<!-- ### **Teaching Assistant:**
 - Cyber Security
 - Information Security IT/CS (Fall 2021, Spring 2022)
 - Data Warehousing & Data Mining (Spring 2021)
-- Time Series Model (2020 Fall)
+- Time Series Model (2020 Fall) -->
 
