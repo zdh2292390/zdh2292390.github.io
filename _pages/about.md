@@ -34,7 +34,7 @@ News
 01/2024: Invited to serve as a reviewer for MIS Quarterly. \\
 12/2023: Glad to receive the Best Student Paper Award at [ICIS 2023](https://icis2023.aisconferences.org/)!\\
 12/2023: One paper on Hierarchical Multi-Label Classification got accepted to AAAI 2024!\\
-11/2023: One paper on got accepted to IEEE TKDE!\\
+<!-- 11/2023: One paper on Adaptive Sequence Learning for Trading got accepted to IEEE TKDE!\\ -->
 09/2023: Invited to serve as a reviewer for INFORMS Journal on Computing. \\
 09/2023: Invited to serve as a reviewer for Nature Communications. \\
 03/2023: Invited to serve as a reviewer for [AMCIS 2023](https://amcis2023.aisconferences.org/)! \\
