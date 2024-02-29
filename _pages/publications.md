@@ -34,7 +34,7 @@ Zixuan Yuan, Hao Liu, Haoyi Zhou, <ins>**Denghui Zhang**</ins>, Xiao Zhang, Hao 
 
 - **Graph Learning of Multifaceted Motivations for Online Political Engagement Prediction in Counter-party Social Networks** <br>
 Manting Hu, Qingyuan Lin, <ins>**Denghui Zhang,**</ins> Angela Lu, Junming Liu, Hui Xiong<br>
-**ICIS'23**: 44th International Conference on Information Systems (**Best Student Paper**).<br>
+**ICIS'23**: 44th International Conference on Information Systems (**Best Student Paper Award**).<br>
 
 - **LEVER: Online Adaptive Sequence Learning Framework for High-Frequency Trading** <br>
 Zixuan Yuan, Junming Liu, Haoyi Zhou, <ins>**Denghui Zhang**</ins>, Hao Liu, Nengjun Zhu, Hui Xiong<br>
