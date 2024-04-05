@@ -29,15 +29,15 @@ arXiv:2009.02835 <br> -->
 **Methodologies:**  Graph Deep Learning <span style="color:brown">[GL]</span>,  Text Mining <span style="color:purple">[TM]</span>,  Reinforcement Learning <span style="color:Orange;">[RL]</span>
 
 - **Self-Paced Unified Representation Learning for Hierarchical Multi-Label Classification** <br>
-Zixuan Yuan, Hao Liu, Haoyi Zhou, <ins>**Denghui Zhang**</ins>, Xiao Zhang, Hao Wang, Hui Xiong<br>
+Zixuan Yuan, Hao Liu, Haoyi Zhou, Denghui Zhang, Xiao Zhang, Hao Wang, Hui Xiong<br>
 **AAAI'24**: Proceedings of the 38th AAAI Conference on Artificial Intelligence.<br>
 
 - **Graph Learning of Multifaceted Motivations for Online Political Engagement Prediction in Counter-party Social Networks** <br>
-Manting Hu, Qingyuan Lin, <ins>**Denghui Zhang,**</ins> Angela Lu, Junming Liu, Hui Xiong<br>
+Manting Hu, Qingyuan Lin, Denghui Zhang, Angela Lu, Junming Liu, Hui Xiong<br>
 **ICIS'23**: 44th International Conference on Information Systems (**Best Student Paper Award**).<br>
 
 - **LEVER: Online Adaptive Sequence Learning Framework for High-Frequency Trading** <br>
-Zixuan Yuan, Junming Liu, Haoyi Zhou, <ins>**Denghui Zhang**</ins>, Hao Liu, Nengjun Zhu, Hui Xiong<br>
+Zixuan Yuan, Junming Liu, Haoyi Zhou, Denghui Zhang, Hao Liu, Nengjun Zhu, Hui Xiong<br>
 **IEEE TKDE**: IEEE Transactions on Knowledge and Data Engineering.<br>
 
 <!-- ![image](M&A.jpeg){: style="float: left"} -->
@@ -54,7 +54,7 @@ Zixuan Yuan, Junming Liu, Haoyi Zhou, <ins>**Denghui Zhang**</ins>, Hao Liu, Nen
 **CIST'22**: INFORMS Conference On Information Systems And Technology, 2022. (Submitted to Information Systems Research.)<br>
 
 - **Towards Learning Disentangled Representations for Time Series** [<a href=''>PDF</a>] <br>
-Yuening Li, Zhengzhang Chen, Daochen Zha, Mengnan Du, <ins>**Denghui Zhang**</ins>, Haifeng Chen, Xia Hu<br>
+Yuening Li, Zhengzhang Chen, Daochen Zha, Mengnan Du, Denghui Zhang, Haifeng Chen, Xia Hu<br>
 **KDD'22**: Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. <br>
 
 - **Learning to Walk with Dual Agents Reinforcemen Learning for Knowledge Graph Reasoning** [<a href='https://arxiv.org/pdf/2112.12876.pdf'>PDF</a>, <a href='https://github.com/RutgersDM/DKGR/tree/master'>code</a>] <span style="color:Orange;">[RL]</span> <br>
