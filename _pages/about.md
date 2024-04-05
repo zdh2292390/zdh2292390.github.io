@@ -31,7 +31,7 @@ My faviorate quote:
 
 News
 ------
-03/2024: My collaborators and I are glad to receive a grant supporting our research on the AI-influenced labor ecosystem! \\
+03/2024: My collaborators and I are glad to receive a small grant supporting our research on the AI-influenced labor ecosystem! \\
 01/2024: Invited to serve as a reviewer for MIS Quarterly. \\
 12/2023: Glad to receive the Best Student Paper Award at [ICIS 2023](https://icis2023.aisconferences.org/)!\\
 12/2023: One paper on Hierarchical Multi-Label Classification got accepted to AAAI 2024!\\
