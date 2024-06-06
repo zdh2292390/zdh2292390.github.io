@@ -11,12 +11,12 @@ redirect_from:
 
 **Greetings! I am an assistant professor at [Stevens Institute of Technology](https://www.stevens.edu/).** 
 <!-- I'm actively looking for Ph.D. students to work with me in AI-driven business analytics. Feel free to shoot me an email with your CV. Once we have a commitment to each other, I will exert my utmost effort to help you! -->
-I'm actively looking for Ph.D. students to work with me in data science and business analytics. Feel free to shoot me an email with your CV. Once we have a commitment to each other, I will exert my utmost effort to help you!
+I'm actively looking for Ph.D. students to work with me in data science and LLM for business analytics. Feel free to shoot me an email with your CV. Once we have a commitment to each other, I will exert my utmost effort to help you!
 
 
 I received my Ph.D. at [Rutgers University](https://en.wikipedia.org/wiki/Rutgers_University#Rankings), advised by Prof. [Hui Xiong](https://scholar.google.com.hk/citations?hl=zh-CN&user=cVDF1tkAAAAJ&view_op=list_works&sortby=pubdate). 
 My research interests lie in the intersection of data mining, natural langauge processing and business intelligence.
-I am interested in two types of research philosophy: (i) empower deep learning models with human domain knowledge, i.e., leverage domain knowledge to design new AI models for domain sciences (e.g., Talent Analytics and FinTech); (ii) leverage AI to discover new knowledge, i.e., apply machine learning to interpret societal phenomena and derive managerial implications to guide decision-making.
+I am interested in two types of research philosophy: (i) empower AI models with human domain knowledge, i.e., leverage domain knowledge to design new AI models for domain sciences (e.g., Talent Analytics and FinTech); (ii) leverage AI to discover new knowledge, i.e., apply machine learning to interpret societal phenomena and derive managerial implications to guide decision-making.
 
 <!-- Specifically, my research focuses on **domain knowledge inspired deep representation learning** to fuse diverse knowledge sources (e.g., graph-structured knowledge, text semantic, and formula knowledge, etc) for complex domain adaptation.
 My work is primarily related to the following topics,
