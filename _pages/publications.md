@@ -28,7 +28,7 @@ arXiv:2009.02835 <br> -->
 **Domains:**  Computational Management Science <span style="color:RoyalBlue">[CM]</span>,  E-commerce Analysis <span style="color:Salmon">[EM]</span>,  FinTech <span style="color:green">[FT]</span>, Spatial AI <span style="color:green">[SA]</span> <br>
 **Methodologies:**  Graph Deep Learning <span style="color:brown">[GL]</span>,  Text Mining <span style="color:purple">[TM]</span>,  Reinforcement Learning <span style="color:Orange;">[RL]</span>
 
-- **FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design** [<a href='https://arxiv.org/abs/2311.13743'>PDF</a>, <a href='https://github.com/pipiku915/FinMem-LLM-StockTrading/tree/main'>github</a>]<span style="color:green">[FT]</span><br>
+- **FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design** [<a href='https://arxiv.org/abs/2311.13743'>PDF</a>, <a href='https://github.com/pipiku915/FinMem-LLM-StockTrading/tree/main'>Github</a>]<span style="color:green"> [FT]</span><br>
   Yangyang Yu, Haohang Li, Zhi Chen, Yuechen Jiang, Yang Li, Denghui Zhang, Rong Liu, Jordan W. Suchow, Khaldoun Khashanah<br>
   **ICLR'24**: International Conference on Learning Representations - Workshop on LLM Agents.
 - **Self-Paced Unified Representation Learning for Hierarchical Multi-Label Classification** <br>
