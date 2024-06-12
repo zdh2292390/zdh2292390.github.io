@@ -57,6 +57,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 #theme
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Social Sharing
