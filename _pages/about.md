@@ -33,7 +33,7 @@ My faviorate quote:
 
 News
 ----
-
+07/2024: Awarded the OpenAI Researcher Access Program Grant. \\
 03/2024: My collaborators and I are glad to receive a small grant supporting our research on the AI-influenced labor ecosystem! \\
 01/2024: Invited to serve as a reviewer for MIS Quarterly. \\
 12/2023: Glad to receive the Best Student Paper Award at [ICIS 2023](https://icis2023.aisconferences.org/)!\\

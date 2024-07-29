@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /awards.html
 ---
+- Awarded the OpenAI Researcher Access Program Grant
 - ICIS 2023 Best Student Paper Award, in Honor of TP Liang, International Conference on Information Systems
 - Travel Award from the 37th AAAI Conference on Artificial Intelligence, 2023
 - Dean’s Dissertation Fellowship at Rutgers University
