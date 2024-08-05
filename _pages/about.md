@@ -53,7 +53,7 @@ News
 [08/2022]: One paper on product representation learning got accepted to [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69). \\
 [08/2022]: Invited to serve as a PC member for [AAAI 2023](https://aaai.org/Conferences/AAAI-23/). \\
 [07/2022]: Invited to serve as a session chair for [KDD 2022](https://kdd.org/kdd2022/index.html). \\
-[05/2022]: Thrilled to receive the Dean's Dissertation Fellowship from Rutgers, thank you Rutgers! \\
+05/2022: Thrilled to receive the Dean's Dissertation Fellowship from Rutgers, thank you Rutgers! \\
 [04/2022]: Will serve as a session chair at [INFORMS 2022](https://meetings.informs.org/wordpress/indianapolis2022/). \\
 [12/2021]: One paper on KG reasoning got accepted to [AAAI'22](https://aaai.org/conference/aaai/aaai-22/) (15% acceptance rate). \\
 [11/2021]: Invited to serve as a PC member for KDD'22 Applied Data Science Track. \\
