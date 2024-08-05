@@ -34,8 +34,7 @@ My faviorate quote:
 News
 ----
 07/2024: Awarded the OpenAI Researcher Access Program Grant. \\
-04/2024: One paper on Graph Neural Network got accepted to IJCAI 2024.\\
-\\
+04/2024: One paper on Graph Neural Network got accepted to [IJCAI 2024](https://ijcai24.org/#).\\
 03/2024: Collaboration team received a small grant supporting research on the AI-influenced labor ecosystem. \\
 01/2024: Invited to serve as a reviewer for MIS Quarterly. \\
 12/2023: Glad to receive the Best Student Paper Award at [ICIS 2023](https://icis2023.aisconferences.org/)!\\
@@ -45,7 +44,7 @@ News
 09/2023: Invited to serve as a reviewer for Nature Communications. \\
 03/2023: Invited to serve as a reviewer for [AMCIS 2023](https://amcis2023.aisconferences.org/)! \\
 02/2023: Invited to serve as a PC member for [KDD 2023](https://kdd.org/kdd2023/)! \\
-09/2022: So glad to receive the Student Scholarship from INFORMS Workshop on Data Science, thanks!\\
+09/2022: Glad to receive the Student Scholarship from INFORMS Workshop on Data Science!\\
 <!-- 09/2022: Invited to serve as a PC member for [WITS 2022](https://witsconf.org/wits2022-call-for-papers/)! \\ -->
 08/2022: Two papers got accepted to [INFORMS Workshop on Data Science](https://blogs.ubc.ca/datascience2022/)! \\
 08/2022: One paper got accepted to [CIST 2022](https://sites.google.com/view/cist2022/home?authuser=0)! \\
@@ -125,7 +124,7 @@ External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TK
 * **Session Chair:**
   - INFORMS Annual Meeting, 2022
     - Session of AI-driven Business Analytics: New Advances and Applications
-  - The 28th ACM SIGKDD Conference, 2022
+  - The 28th ACM SIGKDD, 2022
     - Session of “Graph Learning and Social Networks”
 
 Industry Experiences
@@ -133,21 +132,19 @@ Industry Experiences
 
 * Amazon Science,   &emsp;&emsp; Product Graph Team, &emsp;&emsp; Applied Scientist Intern, 2021.05 - 2021.08
   <!-- * Applied Scientist Intern -->
-  * Topic: Language Representation Pre-training for Low-resource Entity Matching.
+  <!-- * Topic: Language Representation Pre-training for Low-resource Entity Matching. -->
     <!-- * Mentors: [Xin Luna Dong](https://scholar.google.com/citations?user=uGsKvHoAAAAJ&hl=en), [Zhengyang Wang](https://scholar.google.com/citations?user=A4fNBtEAAAAJ) -->
-
 <!-- * NEC Laboratories America,       Research Intern,       2020.06 - 2020.08 -->
-
 * NEC Laboratories America, &emsp;&emsp; Data Science Team, &emsp;&emsp;Research Intern,&emsp;&emsp; 2020.06 - 2020.08
   <!-- * Research Intern -->
-  * Topic: Deep Contextualized Product Representation Learning.
+  <!-- * Topic: Deep Contextualized Product Representation Learning. -->
 * NEC Laboratories America, &emsp;&emsp;Data Science Team,&emsp;&emsp;Research Intern,&emsp;&emsp;   2019.06 - 2019.08
   <!-- * Research Intern -->
-  * Topic: Spatio-temporal Modeling for Turbulence Forecasting.
+  <!-- * Topic: Spatio-temporal Modeling for Turbulence Forecasting. -->
     <!-- * Mentor: Dr. [Yanchi Liu](https://scholar.google.com.hk/citations?hl=zh-CN&user=faLmr-YAAAAJ&view_op=list_works&sortby=pubdate)  -->
 * Baidu Research,     &emsp;&emsp; Talent Intelligence Center, &emsp;&emsp;Research Intern,&emsp;&emsp;    2018.06 - 2018.08
   <!-- * Research Intern -->
-  * Topic: Representation Learning for Talent and Job Market Analysis and Benchmarking.
+  <!-- * Topic: Representation Learning for Talent and Job Market Analysis and Benchmarking. -->
     <!-- * Mentor: Dr. [Hengshu Zhu](https://scholar.google.com/citations?user=55MQBzYAAAAJ&hl=en)  -->
 
 

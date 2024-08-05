@@ -103,10 +103,10 @@ Tongtao Zhang, Ananya Subburathinam, Ge Shi, Lifu Huang, Di Lu, Xiaoman Pan, <in
 ## Working papers
 
 - **Acqui-hiring or Acqui-quitting: Post-M&A Turnover Prediction via a Dual-fit GNN Model** <br>
-  <ins>**Denghui Zhang**</ins>, Hao Zhong, Jingyuan Yang<br>
+  <!-- <ins>**Denghui Zhang**</ins>, Hao Zhong, Jingyuan Yang<br> -->
   <!-- **ISR**: Submitted to Information Systems Research.<br> -->
 - **AlphaVC: A Reinforcement Learning-based Venture Capital Investment Strategy** <br>
-  <ins>**Zixuan Yuan**</ins>\*, <ins>**Denghui Zhang**</ins>\*, Hao Zhong, Shengming Zhang, Xiong Hui<br>
+  <!-- <ins>**Zixuan Yuan**</ins>\*, <ins>**Denghui Zhang**</ins>\*, Hao Zhong, Shengming Zhang, Xiong Hui<br> -->
   <!-- **MNSC**: In preparation for Manamgement Science.<br> -->
 
 ## Patents
