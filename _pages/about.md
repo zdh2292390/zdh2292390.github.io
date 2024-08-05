@@ -11,7 +11,7 @@ redirect_from:
 
 <!-- I'm actively looking for Ph.D. students to work with me in AI-driven business analytics. Feel free to shoot me an email with your CV. Once we have a commitment to each other, I will exert my utmost effort to help you! -->
 
-I'm looking for highly motivated, hard-working Ph.D. students and remote interns to work with me in data science and LLM for business analytics. Feel free to shoot me an email with your CV. Once we have a commitment to each other, I will exert my utmost effort to help you!
+I'm looking for highly motivated, hard-working Ph.D. students as well as remote RAs to work with me in data science and LLM for business analytics. Feel free to shoot me an email with your CV. Once we have a commitment to each other, I will exert my utmost effort to help you!
 
 I received my Ph.D. at [Rutgers University](https://en.wikipedia.org/wiki/Rutgers_University#Rankings), advised by Prof. [Hui Xiong](https://scholar.google.com.hk/citations?hl=zh-CN&user=cVDF1tkAAAAJ&view_op=list_works&sortby=pubdate).
 My research interests lie in the intersection of data mining, natural langauge processing and business intelligence. More recently, I study the interaction between **LLM, business, law/ethics, social impact and innovation.**
@@ -34,7 +34,7 @@ My faviorate quote:
 News
 ----
 <!-- <div style="width:800px;height:450px;line-height:3em;overflow:scroll;padding:5px;" markdown="1"> -->
-<div style="width:800px;height:350px;overflow:scroll;background-color:WhiteSmoke;border:4px DarkGray;" markdown="1">
+<div style="width:800px;height:350px;overflow:scroll;background-color:WhiteSmoke;border:3px DarkGray;" markdown="1">
 07/2024: Awarded the OpenAI Researcher Access Program Grant. \\
 04/2024: One paper on Graph Neural Network got accepted to [IJCAI 2024](https://ijcai24.org/#).\\
 03/2024: Collaboration team received a small grant supporting research on the AI-influenced labor ecosystem. \\
@@ -95,43 +95,43 @@ Professional Services
 --------
 
 * **Journal Reviewer:**
-    - Pattern Recognition, 2024
-    - MIS Quarterly, 2024
-    - Nature Communications, 2023
-    - Information & Management, 2023
-    - INFORMS Journal on Computing, 2023
-    - Electronic Commerce Research and Applications, 2022
-    - IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019
+* Pattern Recognition, 2024
+- MIS Quarterly, 2024
+- Nature Communications, 2023
+- Information & Management, 2023
+- INFORMS Journal on Computing, 2023
+- Electronic Commerce Research and Applications, 2022
+- IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019
     <!-- - External Reviewer (2019) -->
 
 <!-- PC Member: ACL'2022, AAAI'22, IJCAI'22, WSDM'22, WWW'21, IJCAI'21, AAAI'21.\\
 External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TKDE 2019. -->
 * **Program Committee Member:**
-  - ACM Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022-2024
-    <!-- - Program Committee (2022) -->
-    <!-- - External Reviewer (2021) -->
-  - Annual Meeting of the Association for Computational Linguistics (ACL), 2022
-  - Empirical Methods in Natural Language Processing (EMNLP), 2024
-    <!-- - Rolling Reviewer (2022) -->
-  - AAAI Conference on Artificial Intelligence (AAAI), 2021-2024
-    <!-- - Program Committee (2021, 2022) -->
-  - International Joint Conference on Artificial Intelligence (IJCAI), 2021, 2022
-    <!-- - Program Committee (2021, 2022), External Reviewer (2020) -->
-  - Workshop on Information Technologies and Systems (WITS), 2022
-    <!-- - Program Committee (2022) -->
-  - International Conference on Information Systems (ICIS), 2022
-    <!-- - Reviewer (2022) -->
-  - Pacific Asia Conference on Information Systems (PACIS), 2022
-    <!-- - Reviewer (2022) -->
-  - International Conference on Information and Knowledge Management (CIKM), 2020
-    <!-- - External Reviewer (2019, 2020) -->
-  - ACM International Conference on Web Search and Data Mining (WSDM), 2022
+- ACM Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022-2024
+  <!-- - Program Committee (2022) -->
+  <!-- - External Reviewer (2021) -->
+- Annual Meeting of the Association for Computational Linguistics (ACL), 2022
+- Empirical Methods in Natural Language Processing (EMNLP), 2024
+  <!-- - Rolling Reviewer (2022) -->
+- AAAI Conference on Artificial Intelligence (AAAI), 2021-2024
+  <!-- - Program Committee (2021, 2022) -->
+- International Joint Conference on Artificial Intelligence (IJCAI), 2021, 2022
+  <!-- - Program Committee (2021, 2022), External Reviewer (2020) -->
+- Workshop on Information Technologies and Systems (WITS), 2022
+  <!-- - Program Committee (2022) -->
+- International Conference on Information Systems (ICIS), 2022
+  <!-- - Reviewer (2022) -->
+- Pacific Asia Conference on Information Systems (PACIS), 2022
+  <!-- - Reviewer (2022) -->
+- International Conference on Information and Knowledge Management (CIKM), 2020
+  <!-- - External Reviewer (2019, 2020) -->
+- ACM International Conference on Web Search and Data Mining (WSDM), 2022
 
 * **Session Chair:**
-  - INFORMS Annual Meeting, 2022
-    - Session of AI-driven Business Analytics: New Advances and Applications
-  - The 28th ACM SIGKDD, 2022
-    - Session of “Graph Learning and Social Networks”
+- INFORMS Annual Meeting, 2022
+  - Session of AI-driven Business Analytics: New Advances and Applications
+- The 28th ACM SIGKDD, 2022
+  - Session of “Graph Learning and Social Networks”
 
 
 Prospective Students
