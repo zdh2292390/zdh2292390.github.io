@@ -136,13 +136,15 @@ External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TK
 
 Prospective Students
 --------------------
-Stevens Institute of Technology is a premier, private research university situated in Hoboken, New Jersey. It is ranked #76 out of 439 National Universities. If interested, apply to our [Data Science Ph.D. program](https://www.stevens.edu/program/data-science-phd) and mention my name as expected advisor.
+Stevens Institute of Technology is a premier, private research university situated in Hoboken, New Jersey. It is ranked #76 out of 439 National Universities according to US News report. If interested, apply to our [Data Science Ph.D. program](https://www.stevens.edu/program/data-science-phd) and mention my name as expected advisor.
 
 - Ph.D. Student Requirements
 1. With a bachelor’s or master’s degree in Computer Science, Mathematics, Statistics, Finance, or other related disciplines.
 2. Have a strong passion for academic research, a thirst for knowledge, curiosity, and enjoyment of the investigative process.
 3. Hardworking and a high sense of responsibility.
 4. Excellent communication skills and proficiency in English.
+
+[![Stevens Campus](/images/stevens.jpg "Stevens Campus")](https://www.youtube.com/watch?v=UWOqgGz21gk)
 
 
 Industry Experiences
