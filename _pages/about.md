@@ -33,19 +33,20 @@ My faviorate quote:
 
 News
 ----
+<div style="width:950px;height:450px;line-height:3em;overflow:scroll;padding:5px;">
 07/2024: Awarded the OpenAI Researcher Access Program Grant. \\
 04/2024: One paper on Graph Neural Network got accepted to [IJCAI 2024](https://ijcai24.org/#).\\
 03/2024: Collaboration team received a small grant supporting research on the AI-influenced labor ecosystem. \\
 01/2024: Invited to serve as a reviewer for MIS Quarterly. \\
 12/2023: Glad to receive the Best Student Paper Award at [ICIS 2023](https://icis2023.aisconferences.org/)!\\
 12/2023: One paper on Hierarchical Multi-Label Classification got accepted to AAAI 2024!\\
-<!-- 11/2023: One paper on Adaptive Sequence Learning for Trading got accepted to IEEE TKDE!\\ -->
+11/2023: One paper on Adaptive Sequence Learning for Trading got accepted to IEEE TKDE!\\
 09/2023: Invited to serve as a reviewer for INFORMS Journal on Computing. \\
 09/2023: Invited to serve as a reviewer for Nature Communications. \\
 03/2023: Invited to serve as a reviewer for [AMCIS 2023](https://amcis2023.aisconferences.org/)! \\
 02/2023: Invited to serve as a PC member for [KDD 2023](https://kdd.org/kdd2023/)! \\
 09/2022: Glad to receive the Student Scholarship from INFORMS Workshop on Data Science!\\
-<!-- 09/2022: Invited to serve as a PC member for [WITS 2022](https://witsconf.org/wits2022-call-for-papers/)! \\ -->
+09/2022: Invited to serve as a PC member for [WITS 2022](https://witsconf.org/wits2022-call-for-papers/)! \\
 08/2022: Two papers got accepted to [INFORMS Workshop on Data Science](https://blogs.ubc.ca/datascience2022/)! \\
 08/2022: One paper got accepted to [CIST 2022](https://sites.google.com/view/cist2022/home?authuser=0)! \\
 08/2022: One paper on product representation learning got accepted to [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)! \\
@@ -62,9 +63,13 @@ News
 04/2021: Passed my dissertation proposal defense, glad to be Ph.D. candidate now! \\
 01/2021: Will join Amazon as a research intern. \\
 12/2020: One paper accepted to AAAI'21. \\
-<!-- 11/2020: Invited to serve as a PC member for WWW'21. \\ -->
-<!-- 10/2020: Invited to serve as a PC member for IJCAI'21. \\ -->
-<!-- 09/2020: Invited to serve as a PC member for AAAI’21.\\ -->
+11/2020: Invited to serve as a PC member for WWW'21. \\
+10/2020: Invited to serve as a PC member for IJCAI'21. \\
+09/2020: Invited to serve as a PC member for AAAI’21.\\
+</div>
+
+
+
 
 <!-- Education -->
 
@@ -101,13 +106,13 @@ Professional Services
 <!-- PC Member: ACL'2022, AAAI'22, IJCAI'22, WSDM'22, WWW'21, IJCAI'21, AAAI'21.\\
 External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TKDE 2019. -->
 * **Program Committee Member:**
-  - ACM Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022, 2023, 2024
+  - ACM Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022-2024
     <!-- - Program Committee (2022) -->
     <!-- - External Reviewer (2021) -->
   - Annual Meeting of the Association for Computational Linguistics (ACL), 2022
-  - Empirical Methods in Natural Language Processing, 2024
+  - Empirical Methods in Natural Language Processing (EMNLP), 2024
     <!-- - Rolling Reviewer (2022) -->
-  - AAAI Conference on Artificial Intelligence (AAAI), 2021, 2022, 2024
+  - AAAI Conference on Artificial Intelligence (AAAI), 2021-2024
     <!-- - Program Committee (2021, 2022) -->
   - International Joint Conference on Artificial Intelligence (IJCAI), 2021, 2022
     <!-- - Program Committee (2021, 2022), External Reviewer (2020) -->
@@ -130,19 +135,19 @@ External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TK
 Industry Experiences
 --------------------
 
-* Amazon Science,   &emsp;&emsp; Product Graph Team, &emsp;&emsp; Applied Scientist Intern, 2021.05 - 2021.08
+* Amazon Science,   &emsp; Product Graph Team, &emsp; Applied Scientist Intern, 2021.05 - 2021.08
   <!-- * Applied Scientist Intern -->
   <!-- * Topic: Language Representation Pre-training for Low-resource Entity Matching. -->
     <!-- * Mentors: [Xin Luna Dong](https://scholar.google.com/citations?user=uGsKvHoAAAAJ&hl=en), [Zhengyang Wang](https://scholar.google.com/citations?user=A4fNBtEAAAAJ) -->
 <!-- * NEC Laboratories America,       Research Intern,       2020.06 - 2020.08 -->
-* NEC Laboratories America, &emsp;&emsp; Data Science Team, &emsp;&emsp;Research Intern,&emsp;&emsp; 2020.06 - 2020.08
+* NEC Laboratories America, &emsp; Data Science Team, &emsp;Research Intern,&emsp; 2020.06 - 2020.08
   <!-- * Research Intern -->
   <!-- * Topic: Deep Contextualized Product Representation Learning. -->
-* NEC Laboratories America, &emsp;&emsp;Data Science Team,&emsp;&emsp;Research Intern,&emsp;&emsp;   2019.06 - 2019.08
+* NEC Laboratories America, &emsp;Data Science Team,&emsp;Research Intern,&emsp;   2019.06 - 2019.08
   <!-- * Research Intern -->
   <!-- * Topic: Spatio-temporal Modeling for Turbulence Forecasting. -->
     <!-- * Mentor: Dr. [Yanchi Liu](https://scholar.google.com.hk/citations?hl=zh-CN&user=faLmr-YAAAAJ&view_op=list_works&sortby=pubdate)  -->
-* Baidu Research,     &emsp;&emsp; Talent Intelligence Center, &emsp;&emsp;Research Intern,&emsp;&emsp;    2018.06 - 2018.08
+* Baidu Research,     &emsp; Talent Intelligence Center, &emsp;Research Intern,&emsp;    2018.06 - 2018.08
   <!-- * Research Intern -->
   <!-- * Topic: Representation Learning for Talent and Job Market Analysis and Benchmarking. -->
     <!-- * Mentor: Dr. [Hengshu Zhu](https://scholar.google.com/citations?user=55MQBzYAAAAJ&hl=en)  -->
@@ -151,9 +156,7 @@ Industry Experiences
 
 Teaching Experience
 -------------------
-
-### **Instructor:**
-
+<!-- ### **Instructor:** -->
 - Big Data Technology (Graduate, Spring 2024, Stevens Institute of Technology).
   - Topics: MapReduce, Hadoop, Spark, Streaming Data, Large-scale Machine Learning.
 - Data Warehousing & Data Mining (Undergraduate, Spring 2022, Rutgers University)
