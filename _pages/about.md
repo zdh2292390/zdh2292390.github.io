@@ -11,7 +11,7 @@ redirect_from:
 
 <!-- I'm actively looking for Ph.D. students to work with me in AI-driven business analytics. Feel free to shoot me an email with your CV. Once we have a commitment to each other, I will exert my utmost effort to help you! -->
 
-I'm looking for highly motivated Ph.D. students to work with me in data science and LLM for business analytics. Feel free to shoot me an email with your CV. Once we have a commitment to each other, I will exert my utmost effort to help you!
+I'm looking for highly motivated, hard-working Ph.D. students and remote interns to work with me in data science and LLM for business analytics. Feel free to shoot me an email with your CV. Once we have a commitment to each other, I will exert my utmost effort to help you!
 
 I received my Ph.D. at [Rutgers University](https://en.wikipedia.org/wiki/Rutgers_University#Rankings), advised by Prof. [Hui Xiong](https://scholar.google.com.hk/citations?hl=zh-CN&user=cVDF1tkAAAAJ&view_op=list_works&sortby=pubdate).
 My research interests lie in the intersection of data mining, natural langauge processing and business intelligence. More recently, I study the interaction between **LLM, business, law/ethics, social impact and innovation.**
@@ -34,7 +34,7 @@ My faviorate quote:
 News
 ----
 <!-- <div style="width:800px;height:450px;line-height:3em;overflow:scroll;padding:5px;" markdown="1"> -->
-<div style="width:800px;height:350px;overflow:scroll;background-color:WhiteSmoke;" markdown="1">
+<div style="width:800px;height:350px;overflow:scroll;background-color:WhiteSmoke;border:4px double DarkGray;" markdown="1">
 07/2024: Awarded the OpenAI Researcher Access Program Grant. \\
 04/2024: One paper on Graph Neural Network got accepted to [IJCAI 2024](https://ijcai24.org/#).\\
 03/2024: Collaboration team received a small grant supporting research on the AI-influenced labor ecosystem. \\
@@ -136,13 +136,12 @@ External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TK
 
 Prospective Students
 --------------------
-Stevens Institute of Technology is ranked #76 out of 439 National Universities. 
-
+Stevens Institute of Technology is a premier, private research university situated in Hoboken, New Jersey. It is ranked #76 out of 439 National Universities. If interested, apply to our [Data Science Ph.D. program](https://www.stevens.edu/program/data-science-phd) and mention my name as expected advisor.
 
 - Ph.D. Student Requirements
 1. With a bachelor’s or master’s degree in Computer Science, Mathematics, Statistics, Finance, or other related disciplines.
 2. Have a strong passion for academic research, a thirst for knowledge, curiosity, and enjoyment of the investigative process.
-3. Hard working and a high sense of responsibility.
+3. Hardworking and a high sense of responsibility.
 4. Excellent communication skills and proficiency in English.
 
 
