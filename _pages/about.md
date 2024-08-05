@@ -166,15 +166,14 @@ Industry Experiences
     <!-- * Mentor: Dr. [Hengshu Zhu](https://scholar.google.com/citations?user=55MQBzYAAAAJ&hl=en)  -->
 
 
-[![Stevens Campus](/images/stevens1.jpg "Stevens Campus")](https://www.youtube.com/watch?v=UWOqgGz21gk)
+<!-- [![Stevens Campus](/images/stevens1.jpg "Stevens Campus")](https://www.youtube.com/watch?v=UWOqgGz21gk) -->
 
-<!-- <figure>
-    <img src="/assets/images/albuquerque.jpg"
-         alt="Albuquerque, New Mexico">
-    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+<figure>
+    <a href="https://www.youtube.com/watch?v=UWOqgGz21gk"><img src="/images/stevens1.jpg" style="width:750px;height:350px;"
+         alt=""> </a>
+    <figcaption>Stevens Campus.</figcaption>
 </figure>
 
-<img src="image.png" width="200" height="100"> -->
 
 <!--
 Teaching Experience
