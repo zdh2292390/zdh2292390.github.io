@@ -168,10 +168,15 @@ Industry Experiences
 
 <!-- [![Stevens Campus](/images/stevens1.jpg "Stevens Campus")](https://www.youtube.com/watch?v=UWOqgGz21gk) -->
 
+<style>
+  .center-caption {
+    text-align: center;
+  }
+</style>
 <figure>
-    <a href="https://www.youtube.com/watch?v=UWOqgGz21gk"><img src="/images/stevens.jpg" style="width:750px;height:300px;"
+    <a href="https://www.youtube.com/watch?v=UWOqgGz21gk"><img src="/images/stevens.jpg" style="width:700px;height:300px;"
          alt=""> </a>
-    <figcaption style="text-align: center;">Stevens campus overlooking Manhattan.</figcaption>
+    <figcaption class="center-caption">Stevens campus overlooking Manhattan.</figcaption>
 </figure>
 
 
