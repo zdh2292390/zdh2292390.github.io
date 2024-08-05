@@ -14,7 +14,7 @@ redirect_from:
 I'm looking for highly motivated Ph.D. students to work with me in data science and LLM for business analytics. Feel free to shoot me an email with your CV. Once we have a commitment to each other, I will exert my utmost effort to help you!
 
 I received my Ph.D. at [Rutgers University](https://en.wikipedia.org/wiki/Rutgers_University#Rankings), advised by Prof. [Hui Xiong](https://scholar.google.com.hk/citations?hl=zh-CN&user=cVDF1tkAAAAJ&view_op=list_works&sortby=pubdate).
-My research interests lie in the intersection of data mining, natural langauge processing and business intelligence. More recently, I study the interaction between **LLM, business, ethics, social impact and innovation.**
+My research interests lie in the intersection of data mining, natural langauge processing and business intelligence. More recently, I study the interaction between **LLM, business, law/ethics, social impact and innovation.**
 
 <!-- I am interested in two types of research philosophy: (i) empower AI models with human domain knowledge, i.e., leverage domain knowledge to design new AI models for domain sciences (e.g., Talent Analytics and FinTech); (ii) leverage AI to discover new knowledge, i.e., apply machine learning to interpret societal phenomena and derive managerial implications to guide decision-making. -->
 
@@ -34,7 +34,8 @@ My faviorate quote:
 News
 ----
 07/2024: Awarded the OpenAI Researcher Access Program Grant. \\
-03/2024: My collaborators and I are glad to receive a small grant supporting our research on the AI-influenced labor ecosystem! \\
+04/2024: One paper on Graph Neural Network got accepted to IJCAI 2024.\\
+03/2024: Collaboration team received a small grant supporting research on the AI-influenced labor ecosystem. \\
 01/2024: Invited to serve as a reviewer for MIS Quarterly. \\
 12/2023: Glad to receive the Best Student Paper Award at [ICIS 2023](https://icis2023.aisconferences.org/)!\\
 12/2023: One paper on Hierarchical Multi-Label Classification got accepted to AAAI 2024!\\
@@ -44,7 +45,7 @@ News
 03/2023: Invited to serve as a reviewer for [AMCIS 2023](https://amcis2023.aisconferences.org/)! \\
 02/2023: Invited to serve as a PC member for [KDD 2023](https://kdd.org/kdd2023/)! \\
 09/2022: So glad to receive the Student Scholarship from INFORMS Workshop on Data Science, thanks!\\
-09/2022: Invited to serve as a PC member for [WITS 2022](https://witsconf.org/wits2022-call-for-papers/)! \\
+<!-- 09/2022: Invited to serve as a PC member for [WITS 2022](https://witsconf.org/wits2022-call-for-papers/)! \\ -->
 08/2022: Two papers got accepted to [INFORMS Workshop on Data Science](https://blogs.ubc.ca/datascience2022/)! \\
 08/2022: One paper got accepted to [CIST 2022](https://sites.google.com/view/cist2022/home?authuser=0)! \\
 08/2022: One paper on product representation learning got accepted to [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)! \\
@@ -61,9 +62,9 @@ News
 04/2021: Passed my dissertation proposal defense, glad to be Ph.D. candidate now! \\
 01/2021: Will join Amazon as a research intern. \\
 12/2020: One paper accepted to AAAI'21. \\
-11/2020: Invited to serve as a PC member for WWW'21. \\
-10/2020: Invited to serve as a PC member for IJCAI'21. \\
-09/2020: Invited to serve as a PC member for AAAI’21.\\
+<!-- 11/2020: Invited to serve as a PC member for WWW'21. \\ -->
+<!-- 10/2020: Invited to serve as a PC member for IJCAI'21. \\ -->
+<!-- 09/2020: Invited to serve as a PC member for AAAI’21.\\ -->
 
 <!-- Education -->
 
