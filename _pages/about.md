@@ -94,7 +94,7 @@ News
 Professional Services
 --------
 
-* **Journal Reviewer:**
+**Journal Reviewer:**
 * Pattern Recognition, 2024
 - MIS Quarterly, 2024
 - Nature Communications, 2023
@@ -106,7 +106,7 @@ Professional Services
 
 <!-- PC Member: ACL'2022, AAAI'22, IJCAI'22, WSDM'22, WWW'21, IJCAI'21, AAAI'21.\\
 External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TKDE 2019. -->
-* **Program Committee Member:**
+**Program Committee Member:**
 - ACM Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022-2024
   <!-- - Program Committee (2022) -->
   <!-- - External Reviewer (2021) -->
@@ -127,7 +127,7 @@ External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TK
   <!-- - External Reviewer (2019, 2020) -->
 - ACM International Conference on Web Search and Data Mining (WSDM), 2022
 
-* **Session Chair:**
+**Session Chair:**
 - INFORMS Annual Meeting, 2022
   - Session of AI-driven Business Analytics: New Advances and Applications
 - The 28th ACM SIGKDD, 2022
