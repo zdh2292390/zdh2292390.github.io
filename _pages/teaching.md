@@ -13,8 +13,8 @@ redirect_from:
 - Big Data Technology (Graduate, Spring 2024, Stevens Institute of Technology).
   - Topics: MapReduce, Hadoop, Spark, Streaming Data, Large-scale Machine Learning.
 - Data Warehousing & Data Mining (Undergraduate, Spring 2022, Rutgers University)
-  - Teach students with diverse backgrounds the fundations of data mining and machine learning, as well as how to use Python, Pandas, Orange to perform quick data analytics.
-  - Course Evaluation: 4.53/5 (department average 4.29)
+  <!-- - Teach students with diverse backgrounds the fundations of data mining and machine learning, as well as how to use Python, Pandas, Orange to perform quick data analytics. -->
+  <!-- - Course Evaluation: 4.53/5 (department average 4.29) -->
 
 
 ### **Teaching Assistant:**
