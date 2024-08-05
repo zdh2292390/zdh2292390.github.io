@@ -33,7 +33,7 @@ My faviorate quote:
 
 News
 ----
-<div style="width:950px;height:450px;line-height:3em;overflow:scroll;padding:5px;">
+<span style="width:800px;height:450px;line-height:3em;overflow:scroll;padding:5px;">
 07/2024: Awarded the OpenAI Researcher Access Program Grant. \\
 04/2024: One paper on Graph Neural Network got accepted to [IJCAI 2024](https://ijcai24.org/#).\\
 03/2024: Collaboration team received a small grant supporting research on the AI-influenced labor ecosystem. \\
@@ -66,7 +66,7 @@ News
 11/2020: Invited to serve as a PC member for WWW'21. \\
 10/2020: Invited to serve as a PC member for IJCAI'21. \\
 09/2020: Invited to serve as a PC member for AAAI’21.\\
-</div>
+</span>
 
 
 
