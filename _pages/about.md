@@ -35,6 +35,7 @@ News
 ----
 07/2024: Awarded the OpenAI Researcher Access Program Grant. \\
 04/2024: One paper on Graph Neural Network got accepted to IJCAI 2024.\\
+\\
 03/2024: Collaboration team received a small grant supporting research on the AI-influenced labor ecosystem. \\
 01/2024: Invited to serve as a reviewer for MIS Quarterly. \\
 12/2023: Glad to receive the Best Student Paper Award at [ICIS 2023](https://icis2023.aisconferences.org/)!\\
@@ -85,50 +86,29 @@ News
 <!-- Publications
  -->
 
-Industry Experiences
---------------------
-
-<!-- * Amazon Science,       2021.05 - 2021.08 -->
-
-* Amazon Science,   &emsp;&emsp; Product Graph Team, &emsp;&emsp; 2021.05 - 2021.08
-  * Applied Scientist Intern
-  * Topic: Language Representation Pre-training for Low-resource Entity Matching.
-    <!-- * Mentors: [Xin Luna Dong](https://scholar.google.com/citations?user=uGsKvHoAAAAJ&hl=en), [Zhengyang Wang](https://scholar.google.com/citations?user=A4fNBtEAAAAJ) -->
-
-<!-- * NEC Laboratories America,       Research Intern,       2020.06 - 2020.08 -->
-
-* NEC Laboratories America, &emsp;&emsp; Data Science Team, &emsp;&emsp; 2020.06 - 2020.08
-  * Research Intern
-  * Topic: Deep Contextualized Product Representation Learning.
-* NEC Laboratories America, &emsp;&emsp;Data Science Team,&emsp;&emsp;   2019.06 - 2019.08
-  * Research Intern
-  * Topic: Spatio-temporal Modeling for Turbulence Forecasting.
-    <!-- * Mentor: Dr. [Yanchi Liu](https://scholar.google.com.hk/citations?hl=zh-CN&user=faLmr-YAAAAJ&view_op=list_works&sortby=pubdate)  -->
-* Baidu Research,     &emsp;&emsp; Talent Intelligence Center, &emsp;&emsp;    2018.06 - 2018.08
-  * Research Intern
-  * Topic: Representation Learning for Talent and Job Market Analysis and Benchmarking.
-    <!-- * Mentor: Dr. [Hengshu Zhu](https://scholar.google.com/citations?user=55MQBzYAAAAJ&hl=en)  -->
-
-Services
+Professional Services
 --------
+
+* **Journal Reviewer:**
+  - Pattern Recognition, 2024
+  - MIS Quarterly, 2024
+  - Nature Communications, 2023
+  - Information & Management, 2023
+  - INFORMS Journal on Computing, 2023
+  - Electronic Commerce Research and Applications, 2022
+  - IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019
+    <!-- - External Reviewer (2019) -->
 
 <!-- PC Member: ACL'2022, AAAI'22, IJCAI'22, WSDM'22, WWW'21, IJCAI'21, AAAI'21.\\
 External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TKDE 2019. -->
-
-* **Session Chair:**
-
-  - INFORMS Annual Meeting 2022
-    - Session: AI-driven Business Analytics: New Advances and Applications
-  - The 28th ACM SIGKDD Conference (2022)
-    - Session of “Graph Learning and Social Networks”
 * **Program Committee Member:**
-
-  - ACM Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022
+  - ACM Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022, 2023, 2024
     <!-- - Program Committee (2022) -->
     <!-- - External Reviewer (2021) -->
   - Annual Meeting of the Association for Computational Linguistics (ACL), 2022
+  - Empirical Methods in Natural Language Processing, 2024
     <!-- - Rolling Reviewer (2022) -->
-  - AAAI Conference on Artificial Intelligence (AAAI), 2021, 2022
+  - AAAI Conference on Artificial Intelligence (AAAI), 2021, 2022, 2024
     <!-- - Program Committee (2021, 2022) -->
   - International Joint Conference on Artificial Intelligence (IJCAI), 2021, 2022
     <!-- - Program Committee (2021, 2022), External Reviewer (2020) -->
@@ -142,14 +122,35 @@ External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TK
     <!-- - External Reviewer (2019, 2020) -->
   - ACM International Conference on Web Search and Data Mining (WSDM), 2022
 
-    <!-- - Program Committee (2022), External Reviewer (2020) -->
-* **Journal Reviewer:**
+* **Session Chair:**
+  - INFORMS Annual Meeting, 2022
+    - Session of AI-driven Business Analytics: New Advances and Applications
+  - The 28th ACM SIGKDD Conference, 2022
+    - Session of “Graph Learning and Social Networks”
 
-  - IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019
-    <!-- - External Reviewer (2019) -->
-  - Electronic Commerce Research and Applications, 2022
+Industry Experiences
+--------------------
 
-    <!-- - Reviewer (2022) -->
+* Amazon Science,   &emsp;&emsp; Product Graph Team, &emsp;&emsp; Applied Scientist Intern, 2021.05 - 2021.08
+  <!-- * Applied Scientist Intern -->
+  * Topic: Language Representation Pre-training for Low-resource Entity Matching.
+    <!-- * Mentors: [Xin Luna Dong](https://scholar.google.com/citations?user=uGsKvHoAAAAJ&hl=en), [Zhengyang Wang](https://scholar.google.com/citations?user=A4fNBtEAAAAJ) -->
+
+<!-- * NEC Laboratories America,       Research Intern,       2020.06 - 2020.08 -->
+
+* NEC Laboratories America, &emsp;&emsp; Data Science Team, &emsp;&emsp;Research Intern,&emsp;&emsp; 2020.06 - 2020.08
+  <!-- * Research Intern -->
+  * Topic: Deep Contextualized Product Representation Learning.
+* NEC Laboratories America, &emsp;&emsp;Data Science Team,&emsp;&emsp;Research Intern,&emsp;&emsp;   2019.06 - 2019.08
+  <!-- * Research Intern -->
+  * Topic: Spatio-temporal Modeling for Turbulence Forecasting.
+    <!-- * Mentor: Dr. [Yanchi Liu](https://scholar.google.com.hk/citations?hl=zh-CN&user=faLmr-YAAAAJ&view_op=list_works&sortby=pubdate)  -->
+* Baidu Research,     &emsp;&emsp; Talent Intelligence Center, &emsp;&emsp;Research Intern,&emsp;&emsp;    2018.06 - 2018.08
+  <!-- * Research Intern -->
+  * Topic: Representation Learning for Talent and Job Market Analysis and Benchmarking.
+    <!-- * Mentor: Dr. [Hengshu Zhu](https://scholar.google.com/citations?user=55MQBzYAAAAJ&hl=en)  -->
+
+
 
 Teaching Experience
 -------------------
