@@ -172,7 +172,7 @@ Industry Experiences
 <figure>
     <a href="https://www.youtube.com/watch?v=UWOqgGz21gk"><img src="/images/stevens.jpg" style="width:750px;height:350px;"
          alt=""> </a>
-    <figcaption>&emsp; &emsp; &emsp; Stevens campus overlooking Manhattan.</figcaption>
+    <figcaption> Stevens campus overlooking Manhattan.</figcaption>
 </figure>
 
 
