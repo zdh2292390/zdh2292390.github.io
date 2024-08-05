@@ -136,15 +136,14 @@ External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TK
 
 Prospective Students
 --------------------
-Stevens Institute of Technology is a premier, private research university situated in Hoboken, New Jersey. It is ranked #76 out of 439 National Universities according to US News report. If interested, apply to our [Data Science Ph.D. program](https://www.stevens.edu/program/data-science-phd) and mention my name as expected advisor.
+Stevens Institute of Technology is a premier, private research university situated in Hoboken, New Jersey. It is ranked #76 out of 439 National Universities according to US News report. Stevens is the best school for engineering, science, and quantitative finance in the NY metro area and one of the best in the US. If interested, apply to our [Data Science Ph.D. program](https://www.stevens.edu/program/data-science-phd) and mention my name as expected advisor.
 
-- Ph.D. Student Requirements
+**Ph.D. Student Requirements**
 1. With a bachelor’s or master’s degree in Computer Science, Mathematics, Statistics, Finance, or other related disciplines.
 2. Have a strong passion for academic research, a thirst for knowledge, curiosity, and enjoyment of the investigative process.
 3. Hardworking and a high sense of responsibility.
 4. Excellent communication skills and proficiency in English.
 
-[![Stevens Campus](/images/stevens.jpg "Stevens Campus")](https://www.youtube.com/watch?v=UWOqgGz21gk)
 
 
 Industry Experiences
@@ -166,6 +165,16 @@ Industry Experiences
   <!-- * Topic: Representation Learning for Talent and Job Market Analysis and Benchmarking. -->
     <!-- * Mentor: Dr. [Hengshu Zhu](https://scholar.google.com/citations?user=55MQBzYAAAAJ&hl=en)  -->
 
+
+[![Stevens Campus](/images/stevens1.jpg "Stevens Campus")](https://www.youtube.com/watch?v=UWOqgGz21gk)
+
+<!-- <figure>
+    <img src="/assets/images/albuquerque.jpg"
+         alt="Albuquerque, New Mexico">
+    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+</figure>
+
+<img src="image.png" width="200" height="100"> -->
 
 <!--
 Teaching Experience
