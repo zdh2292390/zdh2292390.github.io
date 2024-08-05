@@ -35,38 +35,38 @@ News
 ----
 <!-- <div style="width:800px;height:450px;line-height:3em;overflow:scroll;padding:5px;" markdown="1"> -->
 <div style="width:800px;height:350px;overflow:scroll;background-color:WhiteSmoke;border:3px DarkGray;" markdown="1">
-[07/2024]: Awarded the OpenAI Researcher Access Program Grant. \\
-[04/2024]: One paper on Graph Neural Network got accepted to [IJCAI 2024](https://ijcai24.org/#).\\
-[03/2024]: Collaboration team received a small grant supporting research on the AI-influenced labor ecosystem. \\
-[01/2024]: Invited to serve as a reviewer for MIS Quarterly. \\
-[12/2023]: Glad to receive the Best Student Paper Award at [ICIS 2023](https://icis2023.aisconferences.org/)!\\
-[12/2023]: One paper on Hierarchical Multi-Label Classification got accepted to [AAAI 2024](https://aaai.org/aaai-conference/)!\\
-[11/2023]: One paper on Adaptive Sequence Learning for Trading got accepted to IEEE TKDE!\\
-[09/2023]: Invited to serve as a reviewer for INFORMS Journal on Computing. \\
-[09/2023]: Invited to serve as a reviewer for [Nature Communications](https://www.nature.com/ncomms/). \\
-[03/2023]: Invited to serve as a reviewer for [AMCIS 2023](https://amcis2023.aisconferences.org/). \\
-[02/2023]: Invited to serve as a PC member for [KDD 2023](https://kdd.org/kdd2023/). \\
-[09/2022]: Glad to receive the Student Scholarship from INFORMS Workshop on Data Science!\\
-[09/2022]: Invited to serve as a PC member for [WITS 2022](https://witsconf.org/wits2022-call-for-papers/)! \\
-[08/2022]: Two papers got accepted to [INFORMS Workshop on Data Science](https://blogs.ubc.ca/datascience2022/). \\
-[08/2022]: One paper got accepted to [CIST 2022](https://sites.google.com/view/cist2022/home?authuser=0). \\
-[08/2022]: One paper on product representation learning got accepted to [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69). \\
-[08/2022]: Invited to serve as a PC member for [AAAI 2023](https://aaai.org/Conferences/AAAI-23/). \\
-[07/2022]: Invited to serve as a session chair for [KDD 2022](https://kdd.org/kdd2022/index.html). \\
-05/2022: Thrilled to receive the Dean's Dissertation Fellowship from Rutgers, thank you Rutgers! \\
-[04/2022]: Will serve as a session chair at [INFORMS 2022](https://meetings.informs.org/wordpress/indianapolis2022/). \\
-[12/2021]: One paper on KG reasoning got accepted to [AAAI'22](https://aaai.org/conference/aaai/aaai-22/) (15% acceptance rate). \\
-[11/2021]: Invited to serve as a PC member for KDD'22 Applied Data Science Track. \\
-[10/2021]: Gave a talk about "Domain-oriented BERT" at [AI Times (by Tsinghua University)](https://www.bilibili.com/video/BV11q4y197Qr?spm_id_from=333.999.0.0). \\
-[08/2021]: Invited to serve as a PC member for AAAI'22, WSDM'22. \\
-[07/2021]: Invited to serve as a PC member for IJCAI'22. \\
-[05/2021]: One paper accepted to [KDD'21](https://kdd.org/kdd2021/). \\
-[04/2021]: Passed my dissertation proposal defense, glad to be Ph.D. candidate now! \\
-[01/2021]: Will join Amazon as a research intern. \\
-[12/2020]: One paper accepted to AAAI'21. \\
-[11/2020]: Invited to serve as a PC member for WWW'21. \\
-[10/2020]: Invited to serve as a PC member for IJCAI'21. \\
-[09/2020]: Invited to serve as a PC member for AAAI’21.
+**07/2024**: Awarded the OpenAI Researcher Access Program Grant. \\
+**04/2024**: One paper on Graph Neural Network got accepted to [IJCAI 2024](https://ijcai24.org/#).\\
+**03/2024**: Collaboration team received a small grant supporting research on the AI-influenced labor ecosystem. \\
+**01/2024**: Invited to serve as a reviewer for MIS Quarterly. \\
+**12/2023**: Glad to receive the Best Student Paper Award at [ICIS 2023](https://icis2023.aisconferences.org/)!\\
+**12/2023**: One paper on Hierarchical Multi-Label Classification got accepted to [AAAI 2024](https://aaai.org/aaai-conference/)!\\
+**11/2023**: One paper on Adaptive Sequence Learning for Trading got accepted to IEEE TKDE!\\
+**09/2023**: Invited to serve as a reviewer for INFORMS Journal on Computing. \\
+**09/2023**: Invited to serve as a reviewer for [Nature Communications](https://www.nature.com/ncomms/). \\
+**03/2023**: Invited to serve as a reviewer for [AMCIS 2023](https://amcis2023.aisconferences.org/). \\
+**02/2023**: Invited to serve as a PC member for [KDD 2023](https://kdd.org/kdd2023/). \\
+**09/2022**: Glad to receive the Student Scholarship from INFORMS Workshop on Data Science!\\
+**09/2022**: Invited to serve as a PC member for [WITS 2022](https://witsconf.org/wits2022-call-for-papers/)! \\
+**08/2022**: Two papers got accepted to [INFORMS Workshop on Data Science](https://blogs.ubc.ca/datascience2022/). \\
+**08/2022**: One paper got accepted to [CIST 2022](https://sites.google.com/view/cist2022/home?authuser=0). \\
+**08/2022**: One paper on product representation learning got accepted to [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69). \\
+**08/2022**: Invited to serve as a PC member for [AAAI 2023](https://aaai.org/Conferences/AAAI-23/). \\
+**07/2022**: Invited to serve as a session chair for [KDD 2022](https://kdd.org/kdd2022/index.html). \\
+**05/2022**: Thrilled to receive the Dean's Dissertation Fellowship from Rutgers, thank you Rutgers! \\
+**04/2022**: Will serve as a session chair at [INFORMS 2022](https://meetings.informs.org/wordpress/indianapolis2022/). \\
+**12/2021**: One paper on KG reasoning got accepted to [AAAI'22](https://aaai.org/conference/aaai/aaai-22/) (15% acceptance rate). \\
+**11/2021**: Invited to serve as a PC member for KDD'22 Applied Data Science Track. \\
+**10/2021**: Gave a talk about "Domain-oriented BERT" at [AI Times (by Tsinghua University)](https://www.bilibili.com/video/BV11q4y197Qr?spm_id_from=333.999.0.0). \\
+**08/2021**: Invited to serve as a PC member for AAAI'22, WSDM'22. \\
+**07/2021**: Invited to serve as a PC member for IJCAI'22. \\
+**05/2021**: One paper accepted to [KDD'21](https://kdd.org/kdd2021/). \\
+**04/2021**: Passed my dissertation proposal defense, glad to be Ph.D. candidate now! \\
+**01/2021**: Will join Amazon as a research intern. \\
+**12/2020**: One paper accepted to AAAI'21. \\
+**11/2020**: Invited to serve as a PC member for WWW'21. \\
+**10/2020**: Invited to serve as a PC member for IJCAI'21. \\
+**09/2020**: Invited to serve as a PC member for AAAI’21.
 </div>
 
 
