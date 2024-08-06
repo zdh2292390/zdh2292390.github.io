@@ -188,7 +188,7 @@ Stevens Institute of Technology is a premier, private research university situat
 <figure>
     <a href="https://www.youtube.com/watch?v=UWOqgGz21gk"><img src="/images/stevens.jpg" style="width:750px;height:350px;"
          alt=""> </a>
-    <figcaption> Stevens campus overlooking Manhattan NYC.</figcaption>
+    <figcaption> <span style="color:black">Stevens campus overlooking Manhattan NYC.</span></figcaption>
 </figure>
 
 
