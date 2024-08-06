@@ -104,7 +104,8 @@ Professional Services
 - INFORMS Journal on Computing
 - Information & Management
 - Electronic Commerce Research and Applications
-<!-- * Pattern Recognition, 2024
+
+<!--  Pattern Recognition, 2024
 - MIS Quarterly, 2024
 - Nature Communications, 2023
 - Information & Management, 2023
