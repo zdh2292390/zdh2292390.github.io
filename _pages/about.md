@@ -41,7 +41,7 @@ My faviorate quote:
 **07/2024**: Awarded the **OpenAI Researcher Access** Program Grant. \\
 **04/2024**: One paper on Graph Neural Network got accepted to [IJCAI 2024](https://ijcai24.org/#).\\
 **03/2024**: Collaboration team received a $5,000 grant supporting research on **AI labor ecosystem**. \\
-**01/2024**: Invited to serve as a reviewer for MIS Quarterly. \\
+**01/2024**: Invited to serve as a reviewer for **MIS Quarterly**. \\
 **12/2023**: Glad to receive the **Best Student Paper Award** at [ICIS 2023](https://icis2023.aisconferences.org/)!\\
 **12/2023**: One paper on Hierarchical Multi-Label Classification got accepted to [AAAI 2024](https://aaai.org/aaai-conference/)!\\
 **11/2023**: One paper on **Sequence Learning for Trading** got accepted to **IEEE TKDE**!\\
