@@ -31,7 +31,7 @@ My faviorate quote:
 "It does not matter how slowly you go as long as you do not stop." - Confucius\\
 子曰：“譬如为山，未成一篑，止，吾止也。譬如平地，虽覆一篑，进，吾往也。”  -->
 
-<span style="color:DarkBlue">News</span>
+<span style="color:DarkRed">News</span>
 ----
 <!-- <div style="width:800px;height:450px;line-height:3em;overflow:scroll;padding:5px;" markdown="1"> -->
 <!-- <div style="width:800px;height:350px;overflow:scroll;background-color:WhiteSmoke;border:3px DarkGray;resize:" markdown="1"> -->
@@ -92,7 +92,7 @@ My faviorate quote:
 <!-- Publications
  -->
 
-<span style="color:DarkBlue">Professional Services</span>
+<span style="color:DarkRed">Professional Services</span>
 --------
 
 **Journal Reviewer:**
@@ -144,7 +144,7 @@ External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TK
   - Session of “Graph Learning and Social Networks”
 
 
-<span style="color:DarkBlue">Prospective Students</span>
+<span style="color:DarkRed">Prospective Students</span>
 --------------------
 Stevens Institute of Technology is a premier, private research university situated in Hoboken, New Jersey. Stevens is the best school for engineering, science, and quantitative finance in the NY metro area and one of the best in the US. It is ranked #76 out of 439 National Universities according to US News report. If interested, please apply to our [**Data Science Ph.D. program**](https://www.stevens.edu/program/data-science-phd) and mention my name as expected advisor.
 
@@ -156,7 +156,7 @@ Stevens Institute of Technology is a premier, private research university situat
 
 
 
-<span style="color:DarkBlue">Industry Experiences</span>
+<span style="color:DarkRed">Industry Experiences</span>
 --------------------
 * Amazon Science,   &emsp; Product Graph Team, &emsp; Applied Scientist Intern, 2021.05 - 2021.08
   <!-- * Applied Scientist Intern -->
@@ -178,7 +178,7 @@ Stevens Institute of Technology is a premier, private research university situat
 
 <!-- [![Stevens Campus](/images/stevens1.jpg "Stevens Campus")](https://www.youtube.com/watch?v=UWOqgGz21gk) -->
 
-<span style="color:DarkBlue">Resources for Students</span>
+<span style="color:DarkRed">Resources for Students</span>
 ----------------------
 [**Useful tips for Ph.D. students from Dr. Jia-Bin Huang**](https://github.com/jbhuang0604/awesome-tips)
 
