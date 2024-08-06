@@ -95,14 +95,22 @@ Professional Services
 --------
 
 **Journal Reviewer:**
-* Pattern Recognition, 2024
+- Nature Communications
+- IEEE Transactions on Knowledge and Data Engineering (TKDE)
+- IEEE Transactions on Image Processing (TIP)
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- MIS Quarterly
+- Pattern Recognition
+- INFORMS Journal on Computing
+- Information & Management
+- Electronic Commerce Research and Applications
+<!-- * Pattern Recognition, 2024
 - MIS Quarterly, 2024
 - Nature Communications, 2023
 - Information & Management, 2023
 - INFORMS Journal on Computing, 2023
 - Electronic Commerce Research and Applications, 2022
-- IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019
-    <!-- - External Reviewer (2019) -->
+- IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019 -->
 
 <!-- PC Member: ACL'2022, AAAI'22, IJCAI'22, WSDM'22, WWW'21, IJCAI'21, AAAI'21.\\
 External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TKDE 2019. -->
@@ -136,7 +144,7 @@ External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TK
 
 Prospective Students
 --------------------
-Stevens Institute of Technology is a premier, private research university situated in Hoboken, New Jersey. Stevens is the best school for engineering, science, and quantitative finance in the NY metro area and one of the best in the US. It is ranked #76 out of 439 National Universities according to US News report. If interested, please apply to our [Data Science Ph.D. program](https://www.stevens.edu/program/data-science-phd) and mention my name as expected advisor.
+Stevens Institute of Technology is a premier, private research university situated in Hoboken, New Jersey. Stevens is the best school for engineering, science, and quantitative finance in the NY metro area and one of the best in the US. It is ranked #76 out of 439 National Universities according to US News report. If interested, please apply to our [**Data Science Ph.D. program**](https://www.stevens.edu/program/data-science-phd) and mention my name as expected advisor.
 
 **Ph.D. Student Requirements**
 - With a bachelor’s or master’s degree in Computer Science, Mathematics, Statistics, Finance, or other related disciplines.
