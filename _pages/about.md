@@ -182,9 +182,9 @@ Stevens Institute of Technology is a premier, private research university situat
 
 <span style="color:MidnightBlue">Resources for Students</span>
 ----------------------
-- [**Awesome Tips for Ph.D. Students from Dr. Jia-Bin Huang**](https://github.com/jbhuang0604/awesome-tips)
-- [How to Do Research](https://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf)
-- [Planning paper writing](https://deviparikh.medium.com/planning-paper-writing-553f497e8839)
+- [Awesome Tips for Ph.D. Students from Dr. Jia-Bin Huang](https://github.com/jbhuang0604/awesome-tips)
+- [How to Do Research?](https://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf)
+- [Planning Paper Writing](https://deviparikh.medium.com/planning-paper-writing-553f497e8839)
 - [Shortening Papers to Fit Page Limits](https://deviparikh.medium.com/shortening-papers-to-fit-page-limits-97601318681d)
 - [How to Write Rebuttals](https://deviparikh.medium.com/how-we-write-rebuttals-dc84742fece1)
 
