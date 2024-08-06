@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="color:MidnightBlue">Bio</span>
----
+<!-- <span style="color:MidnightBlue">Bio</span> -->
+<!-- --- -->
 **Greetings! I am an Assistant Professor at [Stevens Institute of Technology](https://www.stevens.edu/).**
 
 <!-- I'm actively looking for Ph.D. students to work with me in AI-driven business analytics. Feel free to shoot me an email with your CV. Once we have a commitment to each other, I will exert my utmost effort to help you! -->
