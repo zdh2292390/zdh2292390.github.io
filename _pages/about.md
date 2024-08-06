@@ -178,6 +178,10 @@ Industry Experiences
 
 <!-- [![Stevens Campus](/images/stevens1.jpg "Stevens Campus")](https://www.youtube.com/watch?v=UWOqgGz21gk) -->
 
+Resources for Students
+----------------------
+[**Useful tips for Ph.D. students from Dr. Jia-Bin Huang**](https://github.com/jbhuang0604/awesome-tips)
+
 
 <figure>
     <a href="https://www.youtube.com/watch?v=UWOqgGz21gk"><img src="/images/stevens.jpg" style="width:750px;height:350px;"
