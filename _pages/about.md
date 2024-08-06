@@ -37,11 +37,11 @@ News
 <div style="width:800px;height:350px;overflow:scroll;background-color:WhiteSmoke;border:3px DarkGray;" markdown="1">
 **07/2024**: Awarded the OpenAI Researcher Access Program Grant. \\
 **04/2024**: One paper on Graph Neural Network got accepted to [IJCAI 2024](https://ijcai24.org/#).\\
-**03/2024**: Collaboration team received a small grant supporting research on the AI-influenced labor ecosystem. \\
+**03/2024**: Collaboration team received a small grant supporting research on AI labor ecosystem. \\
 **01/2024**: Invited to serve as a reviewer for MIS Quarterly. \\
 **12/2023**: Glad to receive the Best Student Paper Award at [ICIS 2023](https://icis2023.aisconferences.org/)!\\
 **12/2023**: One paper on Hierarchical Multi-Label Classification got accepted to [AAAI 2024](https://aaai.org/aaai-conference/)!\\
-**11/2023**: One paper on Adaptive Sequence Learning for Trading got accepted to IEEE TKDE!\\
+**11/2023**: One paper on Sequence Learning for Trading got accepted to IEEE TKDE!\\
 **09/2023**: Invited to serve as a reviewer for INFORMS Journal on Computing. \\
 **09/2023**: Invited to serve as a reviewer for [Nature Communications](https://www.nature.com/ncomms/). \\
 **03/2023**: Invited to serve as a reviewer for [AMCIS 2023](https://amcis2023.aisconferences.org/). \\
@@ -181,7 +181,7 @@ Industry Experiences
 <figure>
     <a href="https://www.youtube.com/watch?v=UWOqgGz21gk"><img src="/images/stevens.jpg" style="width:750px;height:350px;"
          alt=""> </a>
-    <figcaption> Stevens campus overlooking Manhattan.</figcaption>
+    <figcaption> Stevens campus overlooking Manhattan NYC.</figcaption>
 </figure>
 
 
