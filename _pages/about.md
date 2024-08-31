@@ -16,7 +16,7 @@ redirect_from:
 I'm looking for highly motivated, hard-working Ph.D. students as well as remote RAs to work with me in data science and interdisciplinary trustworthy GenAI. Feel free to shoot me an email with your CV. Once we have a commitment to each other, I will exert my utmost effort to help you!
 
 I received my Ph.D. from [Rutgers University](https://en.wikipedia.org/wiki/Rutgers_University#Rankings) in 2023 under supervision of Dr. [Hui Xiong](https://scholar.google.com.hk/citations?hl=zh-CN&user=cVDF1tkAAAAJ&view_op=list_works&sortby=pubdate).
-My research interests lie in the intersection of data mining, natural langauge processing and business intelligence. More recently, I study the interplay between **LLMs, business applications, legal and ethical considerations, social good, and innovation**.
+My research interests lie in the intersection of data mining, natural langauge processing and business intelligence. More recently, I study the interplay between **LLMs/GenAI, legal and ethical considerations, social good, business and innovation**.
 <!-- More recently, I study the interaction between **LLM, business, law/ethics, social impact and innovation.** -->
 
 <!-- I am interested in two types of research philosophy: (i) empower AI models with human domain knowledge, i.e., leverage domain knowledge to design new AI models for domain sciences (e.g., Talent Analytics and FinTech); (ii) leverage AI to discover new knowledge, i.e., apply machine learning to interpret societal phenomena and derive managerial implications to guide decision-making. -->
