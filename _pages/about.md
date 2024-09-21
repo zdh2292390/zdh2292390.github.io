@@ -40,7 +40,7 @@ My faviorate quote:
 <!-- <div style="width:800px;height:350px;overflow:scroll;background-color:WhiteSmoke;border:3px DarkGray;resize:" markdown="1"> -->
 <div style="width:100%;height:350px;overflow:scroll;background-color:WhiteSmoke;border:3px DarkGray;" markdown="1">
 **09/2024**: One paper on analyzing copyright behavior of LLMs accepted to **EMNLP (Main)**. \\
-**08/2024**: Will present LLM copyright research on **CIKM Data-centric AI workshop**. \\
+**08/2024**: Will present LLM copyright study at **CIKM Data-centric AI workshop**. \\
 **07/2024**: Awarded the **OpenAI Researcher Access** Program. \\
 **04/2024**: One paper on Graph Neural Network got accepted to [IJCAI 2024](https://ijcai24.org/#).\\
 **03/2024**: Collaboration team received a $5,000 grant supporting research on **AI labor ecosystem**. \\
