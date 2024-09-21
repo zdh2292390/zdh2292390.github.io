@@ -30,7 +30,7 @@ arXiv:2009.02835 <br> -->
 
 - **Do LLMs Know to Respect Copyright Notice?** [<a href=''>PDF</a>, <a href=''>Github</a>]<span style="color:green"> </span><br>
   Jialiang Xu, Shenglan Li, Zhaozhuo Xu, Denghui Zhang<br>
-  **EMNLP'24**: The 2024 Conference on Empirical Methods in Natural Language Processing.
+  **EMNLP'24**: The 2024 Conference on Empirical Methods in Natural Language Processing (**Main**).
 - **FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design** [<a href='https://arxiv.org/abs/2311.13743'>PDF</a>, <a href='https://github.com/pipiku915/FinMem-LLM-StockTrading/tree/main'>Github</a>]<span style="color:green"> [FT]</span><br>
   Yangyang Yu, Haohang Li, Zhi Chen, Yuechen Jiang, Yang Li, Denghui Zhang, Rong Liu, Jordan W. Suchow, Khaldoun Khashanah<br>
   **ICLR'24**: International Conference on Learning Representations - Workshop on LLM Agents.
