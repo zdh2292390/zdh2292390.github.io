@@ -40,6 +40,7 @@ My faviorate quote:
 <!-- <div style="width:800px;height:450px;line-height:3em;overflow:scroll;padding:5px;" markdown="1"> -->
 <!-- <div style="width:800px;height:350px;overflow:scroll;background-color:WhiteSmoke;border:3px DarkGray;resize:" markdown="1"> -->
 <div style="width:100%;height:350px;overflow:scroll;background-color:WhiteSmoke;border:3px DarkGray;" markdown="1">
+**11/2024**: We are glad to receive the award from [NSF NAIRR Pilot Program](https://new.nsf.gov/science-matters/us-nairr-pilot-brings-cutting-edge-ai-resources-researchers). \\
 **11/2024**: We’ll be hosting a tutorial at AAAI-2025 on LLM copyright risks, memorization, and ethical alignment—stay tuned! \\
 **09/2024**: One paper on Financial multi-agent system accepted to **NeurIPS (Main)**. \\
 **09/2024**: One paper on analyzing copyright behavior of LLMs accepted to **EMNLP (Main)**. \\
