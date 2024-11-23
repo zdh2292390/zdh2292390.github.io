@@ -31,6 +31,11 @@ arXiv:2009.02835 <br> -->
 - **Do LLMs Know to Respect Copyright Notice?** [<a href='https://aclanthology.org/2024.emnlp-main.1147/'>PDF</a>, <a href='https://github.com/liamjxu/copyright'>Github</a>]<span style="color:green"> </span><br>
   Jialiang Xu, Shenglan Li, Zhaozhuo Xu, Denghui Zhang<br>
   **EMNLP'24**: The 2024 Conference on Empirical Methods in Natural Language Processing (**Main**).
+- **FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making** [<a href='https://openreview.net/pdf?id=dG1HwKMYbC'>PDF</a>, <a href=''>Github</a>]<span style="color:green"> </span><br>
+  Yangyang Yu, Zhiyuan Yao, Haohang Li, Zhiyang Deng, Yuechen Jiang, Yupeng Cao,
+Zhi Chen, Jordan W. Suchow, Zhenyu Cui, Rong Liu, Zhaozhuo Xu, Denghui Zhang,
+Koduvayur Subbalakshmi, Guojun Xiong, Yueru He, Jimin Huang, Dong Li, Qianqian Xie<br>
+  **NeurIPS'24**: The 2024 Annual Conference on Neural Information Processing Systems. (**Main**).
 - **FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design** [<a href='https://arxiv.org/abs/2311.13743'>PDF</a>, <a href='https://github.com/pipiku915/FinMem-LLM-StockTrading/tree/main'>Github</a>]<span style="color:green"> [FT]</span><br>
   Yangyang Yu, Haohang Li, Zhi Chen, Yuechen Jiang, Yang Li, Denghui Zhang, Rong Liu, Jordan W. Suchow, Khaldoun Khashanah<br>
   **ICLR'24**: International Conference on Learning Representations - Workshop on LLM Agents.
