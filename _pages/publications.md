@@ -25,8 +25,8 @@ arXiv:2009.02835 <br> -->
 
 ## Peer-reviewed conference and journal papers
 
-**Domains:**  Computational Management Science <span style="color:RoyalBlue">[CM]</span>,  E-commerce Analysis <span style="color:Salmon">[EM]</span>,  FinTech <span style="color:green">[FT]</span>, Spatial AI <span style="color:green">[SA]</span> <br>
-**Methodologies:**  Graph Deep Learning <span style="color:brown">[GL]</span>,  Text Mining <span style="color:purple">[TM]</span>,  Reinforcement Learning <span style="color:Orange;">[RL]</span>
+<!-- **Domains:**  Computational Management Science <span style="color:RoyalBlue">[CM]</span>,  E-commerce Analysis <span style="color:Salmon">[EM]</span>,  FinTech <span style="color:green">[FT]</span>, Spatial AI <span style="color:green">[SA]</span> <br>
+**Methodologies:**  Graph Deep Learning <span style="color:brown">[GL]</span>,  Text Mining <span style="color:purple">[TM]</span>,  Reinforcement Learning <span style="color:Orange;">[RL]</span> -->
 
 - **Do LLMs Know to Respect Copyright Notice?** [<a href='https://aclanthology.org/2024.emnlp-main.1147/'>PDF</a>, <a href='https://github.com/liamjxu/copyright'>Github</a>]<span style="color:green"> </span><br>
   Jialiang Xu, Shenglan Li, Zhaozhuo Xu, Denghui Zhang<br>
