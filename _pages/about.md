@@ -28,7 +28,7 @@ My work is primarily related to the following topics,
 -  **Domain Applications:** Career Network Analysis, Employee Turnover Prediction, Venture Capital Portfolio Generation, E-commerce Product Linkage.  -->
 
 
-My work has been published in top venues of machine learning, artificial intelligence and information systems, including refereed journals (**IEEE TKDE, IEEE BigData**) and conference proceedings (**KDD, NeruIPS, EMNLP, AAAI, IJCAI, SIGIR, ICDM, CIKM, CIST**, etc.). Some of my working papers are under review at **UTD and FT50 journals**.
+My work has been published in top venues of machine learning, artificial intelligence and information systems, including refereed journals (**IEEE TKDE, IEEE BigData**) and conference proceedings (**NeruIPS, KDD, EMNLP, AAAI, IJCAI, SIGIR, ICDM, CIKM, CIST**, etc.). Some of my working papers are under review at **UTD and FT50 journals**.
 
 <!-- 
 My faviorate quote:
