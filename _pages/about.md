@@ -42,6 +42,7 @@ My faviorate quote:
 <!-- <div style="width:800px;height:450px;line-height:3em;overflow:scroll;padding:5px;" markdown="1"> -->
 <!-- <div style="width:800px;height:350px;overflow:scroll;background-color:WhiteSmoke;border:3px DarkGray;resize:" markdown="1"> -->
 <div style="width:100%;height:350px;overflow:scroll;background-color:WhiteSmoke;border:3px DarkGray;" markdown="1">
+**01/2025**: A paper on data valuation accepted by **NAACL-2025**!\\
 **12/2024**: Copyright tutorial accepted by **NAACL-2025**, see you at Albuquerque!\\
 **11/2024**: We are glad to receive the award from [NSF NAIRR Pilot Program](https://new.nsf.gov/science-matters/us-nairr-pilot-brings-cutting-edge-ai-resources-researchers). \\
 **11/2024**: We’ll be hosting a [tutorial at AAAI-2025](https://aaai.org/conference/aaai/aaai-25/tutorial-and-lab-list/#TQ05) on LLM copyright risks, memorization, and ethical alignment! \\
