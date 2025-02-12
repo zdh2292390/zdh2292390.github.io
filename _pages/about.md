@@ -18,7 +18,7 @@ I'm looking for highly motivated, hard-working Ph.D. students as well as RAs to 
 
 To [prospective students](https://hackmd.io/@Fg51OpMIRxuG47UeqMhuZw/Hylyc7jSkg).
 
-I received my Ph.D. from [Rutgers University](https://en.wikipedia.org/wiki/Rutgers_University#Rankings) in 2023 under supervision of Dr. [Hui Xiong](https://scholar.google.com.hk/citations?hl=zh-CN&user=cVDF1tkAAAAJ&view_op=list_works&sortby=pubdate).
+<!-- I received my Ph.D. from [Rutgers University](https://en.wikipedia.org/wiki/Rutgers_University#Rankings) in 2023 under supervision of Dr. [Hui Xiong](https://scholar.google.com.hk/citations?hl=zh-CN&user=cVDF1tkAAAAJ&view_op=list_works&sortby=pubdate). -->
 My research interests lie in the intersection of machine learning, natural langauge processing and business intelligence. More recently, I study the interplay between **LLMs/GenAI, legal and socioethical issue, business and innovation**.
 <!-- More recently, I study the interaction between **LLM, business, law/ethics, social impact and innovation.** -->
 
