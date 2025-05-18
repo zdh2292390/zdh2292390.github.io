@@ -42,6 +42,8 @@ My faviorate quote:
 <!-- <div style="width:800px;height:450px;line-height:3em;overflow:scroll;padding:5px;" markdown="1"> -->
 <!-- <div style="width:800px;height:350px;overflow:scroll;background-color:WhiteSmoke;border:3px DarkGray;resize:" markdown="1"> -->
 <div style="width:100%;height:350px;overflow:scroll;background-color:WhiteSmoke;border:3px DarkGray;" markdown="1">
+**05/2025**: Our position paper on handling complex copyright risks accepted by **ICML-2025**.\\
+**05/2025**: Two papers on alignment and reasoning agent accepted by **ACL-2025**.\\
 **01/2025**: A paper on data valuation accepted by **NAACL-2025**!\\
 **12/2024**: Copyright tutorial accepted by **NAACL-2025**, see you at Albuquerque!\\
 **11/2024**: We are glad to receive the award from [NSF NAIRR Pilot Program](https://new.nsf.gov/science-matters/us-nairr-pilot-brings-cutting-edge-ai-resources-researchers). \\
