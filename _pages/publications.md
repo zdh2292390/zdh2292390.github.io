@@ -27,16 +27,16 @@ arXiv:2009.02835 <br> -->
 
 <!-- **Domains:**  Computational Management Science <span style="color:RoyalBlue">[CM]</span>,  E-commerce Analysis <span style="color:Salmon">[EM]</span>,  FinTech <span style="color:green">[FT]</span>, Spatial AI <span style="color:green">[SA]</span> <br>
 **Methodologies:**  Graph Deep Learning <span style="color:brown">[GL]</span>,  Text Mining <span style="color:purple">[TM]</span>,  Reinforcement Learning <span style="color:Orange;">[RL]</span> -->
-- **EscapeBench: Pushing Language Models to Think Outside the Box**<br>
+- **EscapeBench: Pushing Language Models to Think Outside the Box** [<a href='https://arxiv.org/pdf/2412.13549'>PDF</a>]<br>
   Cheng Qian, Peixuan Han, Qinyu Luo, Bingxiang He, Xiusi Chen, Yuji Zhang, Hongyi Du, Jiarui Yao, Xiaocheng Yang, <ins>**Denghui Zhang**</ins>, Yunzhu Li, Heng Ji<br>
   **ACL'25**: Proceedings of the Association for Computational Linguistics (**Main Track**), 2025.
-- **Iterative Online-Offline Joint Optimization is Needed to Manage Complex LLM Copyright Risks**<br>
+- **Iterative Online-Offline Joint Optimization is Needed to Manage Complex LLM Copyright Risks** [<a href='https://icml.cc/virtual/2025/poster/40114'>PDF</a>]<br>
   Yanzhou Pan, Jiayi Chen, Jiamin Chen, ZhaoZhuo Xu, <ins>**Denghui Zhang**</ins><br>
   **ICML'25**: The 42nd International Conference on Machine Learning (**Position Paper**), 2025.
 - **Beyond Reactive Safety: Risk-Aware LLM Alignment via Long-Horizon Simulation**<br>
   Chenkai Sun, <ins>**Denghui Zhang**</ins>, ChengXiang Zhai, Heng Ji<br>
   **ACL'25**: Proceedings of the Association for Computational Linguistics (ACL Findings), 2025.
-- **ALinFiK: Learning to Approximate Linearized Future Influence Kernel for Scalable Third-Parity LLM Data Valuation**<br>
+- **ALinFiK: Learning to Approximate Linearized Future Influence Kernel for Scalable Third-Parity LLM Data Valuation** [<a href='https://aclanthology.org/2025.naacl-long.589.pdf'>PDF</a>, <a href='https://github.com/huawei-lin/RapidIn'>Github</a>]<br>
   Yanzhou Pan, Huawei Lin, Yide Ran, Jiamin Chen, Xiaodong Yu, Weijie Zhao, Denghui Zhang, Zhaozhuo Xu<br>
   **NAACL'25**: 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (**Main**).
 - **Do LLMs Know to Respect Copyright Notice?** [<a href='https://aclanthology.org/2024.emnlp-main.1147/'>PDF</a>, <a href='https://github.com/liamjxu/copyright'>Github</a>]<span style="color:green"> </span><br>
