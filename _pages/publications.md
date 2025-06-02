@@ -27,7 +27,7 @@ arXiv:2009.02835 <br> -->
 
 <!-- **Domains:**  Computational Management Science <span style="color:RoyalBlue">[CM]</span>,  E-commerce Analysis <span style="color:Salmon">[EM]</span>,  FinTech <span style="color:green">[FT]</span>, Spatial AI <span style="color:green">[SA]</span> <br>
 **Methodologies:**  Graph Deep Learning <span style="color:brown">[GL]</span>,  Text Mining <span style="color:purple">[TM]</span>,  Reinforcement Learning <span style="color:Orange;">[RL]</span> -->
-- **EscapeBench: Pushing Language Models to Think Outside the Box** [<a href='https://arxiv.org/pdf/2412.13549'>PDF</a>]<br>
+- **EscapeBench: Towards Advancing Creative Intelligence of Language Model Agents** [<a href='https://arxiv.org/pdf/2412.13549'>PDF</a>]<br>
   Cheng Qian, Peixuan Han, Qinyu Luo, Bingxiang He, Xiusi Chen, Yuji Zhang, Hongyi Du, Jiarui Yao, Xiaocheng Yang, <ins>**Denghui Zhang**</ins>, Yunzhu Li, Heng Ji<br>
   **ACL'25**: Proceedings of the Association for Computational Linguistics (**Main Track**), 2025.
 - **Iterative Online-Offline Joint Optimization is Needed to Manage Complex LLM Copyright Risks** [<a href='https://icml.cc/virtual/2025/poster/40114'>PDF</a>]<br>
