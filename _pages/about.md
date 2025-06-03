@@ -18,7 +18,8 @@ I'm looking for highly motivated, hard-working Ph.D. students as well as RAs to 
 
 To [prospective students](https://hackmd.io/@Fg51OpMIRxuG47UeqMhuZw/Hylyc7jSkg).
 
-I received my Ph.D. from [Rutgers University](https://en.wikipedia.org/wiki/Rutgers_University#Rankings) in 2023 where I was fortunate to work with Dr. [Hui Xiong](https://scholar.google.com.hk/citations?hl=zh-CN&user=cVDF1tkAAAAJ&view_op=list_works&sortby=pubdate). I was a visiting scholar at UIUC, Siebel School of Computing and Data Science, in 2024, hosted by Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html).
+I received my Ph.D. from [Rutgers University](https://en.wikipedia.org/wiki/Rutgers_University#Rankings) in 2023 where I was fortunate to work with Dr. [Hui Xiong](https://scholar.google.com.hk/citations?hl=zh-CN&user=cVDF1tkAAAAJ&view_op=list_works&sortby=pubdate). 
+<!-- I was a visiting scholar at UIUC, Siebel School of Computing and Data Science, in 2024, hosted by Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html). -->
 
 My research interests lie in the intersection of machine learning, natural langauge processing and business intelligence. More recently, I study the interplay between **LLMs/GenAI, legal and socioethical issue, business and innovation**.
 <!-- More recently, I study the interaction between **LLM, business, law/ethics, social impact and innovation.** -->
