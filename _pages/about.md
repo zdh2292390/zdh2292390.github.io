@@ -22,6 +22,7 @@ I received my Ph.D. from [Rutgers University](https://en.wikipedia.org/wiki/Rutg
 <!-- I was a visiting scholar at UIUC, Siebel School of Computing and Data Science, in 2024, hosted by Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html). -->
 
 My research interests lie in the intersection of machine learning, natural langauge processing and business intelligence. More recently, I study the interplay between **LLMs/GenAI, legal and socioethical issue, business and innovation**.
+
 <!-- More recently, I study the interaction between **LLM, business, law/ethics, social impact and innovation.** -->
 
 <!-- I am interested in two types of research philosophy: (i) empower AI models with human domain knowledge, i.e., leverage domain knowledge to design new AI models for domain sciences (e.g., Talent Analytics and FinTech); (ii) leverage AI to discover new knowledge, i.e., apply machine learning to interpret societal phenomena and derive managerial implications to guide decision-making. -->
@@ -44,6 +45,7 @@ My faviorate quote:
 <!-- <div style="width:800px;height:450px;line-height:3em;overflow:scroll;padding:5px;" markdown="1"> -->
 <!-- <div style="width:800px;height:350px;overflow:scroll;background-color:WhiteSmoke;border:3px DarkGray;resize:" markdown="1"> -->
 <div style="width:100%;height:350px;overflow:scroll;background-color:WhiteSmoke;border:3px DarkGray;" markdown="1">
+**05/2025**: Find our LLM copyright tutorial [slides here](https://zhangdenghui.site/naacl-copyright-tutorial-web/).\\
 **05/2025**: Our position paper on handling complex copyright risks accepted by **ICML-2025**.\\
 **05/2025**: Two papers on alignment and reasoning agent accepted by **ACL-2025**.\\
 **01/2025**: A paper on data valuation accepted by **NAACL-2025**!\\
