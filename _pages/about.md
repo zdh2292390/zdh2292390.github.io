@@ -45,7 +45,7 @@ My faviorate quote:
 <!-- <div style="width:800px;height:450px;line-height:3em;overflow:scroll;padding:5px;" markdown="1"> -->
 <!-- <div style="width:800px;height:350px;overflow:scroll;background-color:WhiteSmoke;border:3px DarkGray;resize:" markdown="1"> -->
 <div style="width:100%;height:350px;overflow:scroll;background-color:WhiteSmoke;border:3px DarkGray;" markdown="1">
-**05/2025**: Find our LLM copyright tutorial [slides here](https://zhangdenghui.site/naacl-copyright-tutorial-web/).\\
+**05/2025**: Find our NAACL LLM copyright tutorial [slides here](https://zhangdenghui.site/naacl-copyright-tutorial-web/).\\
 **05/2025**: Our position paper on handling complex copyright risks accepted by **ICML-2025**.\\
 **05/2025**: Two papers on alignment and reasoning agent accepted by **ACL-2025**.\\
 **01/2025**: A paper on data valuation accepted by **NAACL-2025**!\\
