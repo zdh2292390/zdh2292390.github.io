@@ -46,12 +46,12 @@ My faviorate quote:
 **1. Understanding LLM Mechanistics for Trustworthiness**
 
 - **Copyright Compliance:** Detect and prevent intellectual property violations in LLM outputs.
-- **Safety Prediction:** Anticipate and mitigate risky behaviors at inference time.
+- **Safety Prediction:** Forecasting and early intervetion for risky behaviors at inference time.
 - **Theory of Mind (ToM):** Study LLMs' ability to simulate reasoning and align with human values.
 
-**2. Enhancing Fundamental Reasoning via Architecture Redesign**
+**2. Enhancing Fundamental Reasoning via Reinforcement Learning**
 
-- **Process-Based Reward Models:** Promote logical reasoning over outcome-only optimization.
+- **Process-Based Reward Models:** Promote logical reasoning via verifiable rewards and reinforcement learning.
 - **Structural Attention:** Improve handling of hierarchical and context-rich inputs.
 - **Moral & Legal Reasoning:** Enable alignment with social norms and legal standards.
 
