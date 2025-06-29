@@ -21,7 +21,8 @@ To [prospective students](https://hackmd.io/@Fg51OpMIRxuG47UeqMhuZw/Hylyc7jSkg).
 I received my Ph.D. from [Rutgers University](https://en.wikipedia.org/wiki/Rutgers_University#Rankings) in 2023 where I was fortunate to work with Dr. [Hui Xiong](https://scholar.google.com.hk/citations?hl=zh-CN&user=cVDF1tkAAAAJ&view_op=list_works&sortby=pubdate). 
 <!-- I was a visiting scholar at UIUC, Siebel School of Computing and Data Science, in 2024, hosted by Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html). -->
 
-My research interests lie in the intersection of machine learning, natural langauge processing and business intelligence. More recently, I study the interplay between **LLMs/GenAI, legal and socioethical issue, business and innovation**.
+<!-- My research interests lie in the intersection of machine learning, natural langauge processing and business intelligence.  -->
+<!-- More recently, I study the interplay between **LLMs/GenAI, legal and socioethical issue, business and innovation**. -->
 
 <!-- More recently, I study the interaction between **LLM, business, law/ethics, social impact and innovation.** -->
 
@@ -38,7 +39,27 @@ My work has been published in top venues of machine learning, artificial intelli
 <!-- 
 My faviorate quote:
 "It does not matter how slowly you go as long as you do not stop." - Confucius\\
-子曰：“譬如为山，未成一篑，止，吾止也。譬如平地，虽覆一篑，进，吾往也。”  -->
+子曰："譬如为山，未成一篑，止，吾止也。譬如平地，虽覆一篑，进，吾往也。"  -->
+
+<span style="color:MidnightBlue">Research Interests</span>
+--------------------
+**1. Understanding LLM Mechanistics for Trustworthiness**
+
+- **Copyright Compliance:** Detect and prevent intellectual property violations in LLM outputs.
+- **Safety Prediction:** Anticipate and mitigate risky behaviors at inference time.
+- **Theory of Mind (ToM):** Study LLMs' ability to simulate reasoning and align with human values.
+
+**2. Enhancing Fundamental Reasoning via Architecture Redesign**
+
+- **Process-Based Reward Models:** Promote logical reasoning over outcome-only optimization.
+- **Structural Attention:** Improve handling of hierarchical and context-rich inputs.
+- **Moral & Legal Reasoning:** Enable alignment with social norms and legal standards.
+
+**3. Broadening Applications & Domain Adaptation**
+
+- **LLM Agents in Finance:** Support investment, compliance, and risk tasks.
+- **Multi-Modal Document Understanding:** Integrate text, tables, and charts for regulatory documents.
+- **Robust Domain Adaptation:** Strengthen LLMs for high-stakes, domain-specific use cases.
 
 <span style="color:MidnightBlue">News</span>
 ----
@@ -51,7 +72,7 @@ My faviorate quote:
 **01/2025**: A paper on data valuation accepted by **NAACL-2025**!\\
 **12/2024**: Copyright tutorial accepted by **NAACL-2025**, see you at Albuquerque!\\
 **11/2024**: We are glad to receive the award from [NSF NAIRR Pilot Program](https://new.nsf.gov/science-matters/us-nairr-pilot-brings-cutting-edge-ai-resources-researchers). \\
-**11/2024**: We’ll be hosting a [tutorial at AAAI-2025](https://aaai.org/conference/aaai/aaai-25/tutorial-and-lab-list/#TQ05) on LLM copyright risks, memorization, and ethical alignment! \\
+**11/2024**: We'll be hosting a [tutorial at AAAI-2025](https://aaai.org/conference/aaai/aaai-25/tutorial-and-lab-list/#TQ05) on LLM copyright risks, memorization, and ethical alignment! \\
 **09/2024**: One paper on Financial multi-agent system accepted to **NeurIPS (Main)**. \\
 **09/2024**: One paper on analyzing copyright behavior of LLMs accepted to **EMNLP (Main)**. \\
 **08/2024**: Will present LLM copyright study at **CIKM Data-centric AI workshop**. \\
@@ -86,7 +107,7 @@ My faviorate quote:
 **12/2020**: One paper on **Corporate Profiling** accepted to AAAI'21. \\
 **11/2020**: Invited to serve as a PC member for WWW'21. \\
 **10/2020**: Invited to serve as a PC member for IJCAI'21. \\
-**09/2020**: Invited to serve as a PC member for AAAI’21.
+**09/2020**: Invited to serve as a PC member for AAAI'21.
 </div>
 
 
@@ -160,7 +181,7 @@ External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TK
 - INFORMS Annual Meeting, 2022
   - Session of AI-driven Business Analytics: New Advances and Applications
 - The 28th ACM SIGKDD, 2022
-  - Session of “Graph Learning and Social Networks”
+  - Session of "Graph Learning and Social Networks"
 
 
 <span style="color:MidnightBlue">Prospective Students</span>
@@ -168,7 +189,7 @@ External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TK
 Stevens Institute of Technology is a premier, private research university situated in Hoboken, New Jersey. Stevens is the best school for engineering, science, and quantitative finance in the NY metro area and one of the best in the US. It is ranked #76 out of 439 National Universities according to US News report. If interested, please apply to our [**Data Science Ph.D. program**](https://www.stevens.edu/program/data-science-phd) and mention my name as expected advisor.
 
 **Ph.D. Student Requirements**
-- With a bachelor’s or master’s degree in Computer Science, Mathematics, Statistics, Finance, or other related disciplines.
+- With a bachelor's or master's degree in Computer Science, Mathematics, Statistics, Finance, or other related disciplines.
 - Have a strong passion for academic research, a thirst for knowledge, curiosity, and enjoyment of the investigative process.
 - Hardworking and a high sense of responsibility.
 - Excellent communication skills and proficiency in English.
