@@ -18,7 +18,7 @@ I'm looking for highly motivated, hard-working Ph.D. students as well as RAs to 
 
 To [prospective students](https://hackmd.io/@Fg51OpMIRxuG47UeqMhuZw/Hylyc7jSkg).
 
-I received my Ph.D. from [Rutgers University](https://en.wikipedia.org/wiki/Rutgers_University#Rankings) in 2023 where I was fortunate to work with Dr. [Hui Xiong](https://scholar.google.com.hk/citations?hl=zh-CN&user=cVDF1tkAAAAJ&view_op=list_works&sortby=pubdate). 
+I received my Ph.D. from [Rutgers University](https://en.wikipedia.org/wiki/Rutgers_University#Rankings) recently where I was fortunate to work with Dr. [Hui Xiong](https://scholar.google.com.hk/citations?hl=zh-CN&user=cVDF1tkAAAAJ&view_op=list_works&sortby=pubdate). 
 <!-- I was a visiting scholar at UIUC, Siebel School of Computing and Data Science, in 2024, hosted by Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html). -->
 
 <!-- My research interests lie in the intersection of machine learning, natural langauge processing and business intelligence.  -->
@@ -177,7 +177,9 @@ External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TK
   <!-- - External Reviewer (2019, 2020) -->
 - ACM International Conference on Web Search and Data Mining (WSDM), 2022
 
-**Session Chair:**
+**Area Chair & Session Chair:**
+- EMNLP Main Conference, 2025
+- EMNLP Demo Track, 2024, 2025
 - INFORMS Annual Meeting, 2022
   - Session of AI-driven Business Analytics: New Advances and Applications
 - The 28th ACM SIGKDD, 2022
