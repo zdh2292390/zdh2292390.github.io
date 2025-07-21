@@ -154,6 +154,14 @@ My faviorate quote:
 - Electronic Commerce Research and Applications, 2022
 - IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019 -->
 
+**Area Chair & Session Chair:**
+- EMNLP Main Conference, 2025
+- EMNLP Demo Track, 2024, 2025
+- INFORMS Annual Meeting, 2022
+  - Session of AI-driven Business Analytics: New Advances and Applications
+- The 28th ACM SIGKDD, 2022
+  - Session of "Graph Learning and Social Networks"
+  
 <!-- PC Member: ACL'2022, AAAI'22, IJCAI'22, WSDM'22, WWW'21, IJCAI'21, AAAI'21.\\
 External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TKDE 2019. -->
 **Program Committee Member:**
@@ -177,13 +185,7 @@ External/Sub Reviewer: KDD 2021, WSDM 2020, CIKM 2020, IJCAI 2020, CIKM 2019, TK
   <!-- - External Reviewer (2019, 2020) -->
 - ACM International Conference on Web Search and Data Mining (WSDM), 2022
 
-**Area Chair & Session Chair:**
-- EMNLP Main Conference, 2025
-- EMNLP Demo Track, 2024, 2025
-- INFORMS Annual Meeting, 2022
-  - Session of AI-driven Business Analytics: New Advances and Applications
-- The 28th ACM SIGKDD, 2022
-  - Session of "Graph Learning and Social Networks"
+
 
 
 <span style="color:MidnightBlue">Prospective Students</span>
