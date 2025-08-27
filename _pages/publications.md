@@ -42,6 +42,9 @@ arXiv:2009.02835 <br> -->
 - **SafeSwitch: Steering Unsafe LLM Behavior via Internal Activation Signals**<br>
   Peixuan Han, Cheng Qian, Xiusi Chen, Yuji Zhang, <ins>**Denghui Zhang**</ins>, Heng Ji<br>
   **EMNLP'25**: The 2025 Conference on Empirical Methods in Natural Language Processing (**Findings**), 2025.
+- **How Large Language Models Encode Theory-of-Mind: A Study on Sparse Parameter Patterns**<br>
+  Yuheng Wu, Wentao Guo, Zirui Liu, Heng Ji, Zhaozhuo Xu, <ins>**Denghui Zhang**</ins><br>
+  **npj Artificial Intelligence**, 2025.
 - **EscapeBench: Towards Advancing Creative Intelligence of Language Model Agents** [<a href='https://arxiv.org/pdf/2412.13549'>PDF</a>]<br>
   Cheng Qian, Peixuan Han, Qinyu Luo, Bingxiang He, Xiusi Chen, Yuji Zhang, Hongyi Du, Jiarui Yao, Xiaocheng Yang, <ins>**Denghui Zhang**</ins>, Yunzhu Li, Heng Ji<br>
   **ACL'25**: Proceedings of the Association for Computational Linguistics (**Main Track**), 2025.
