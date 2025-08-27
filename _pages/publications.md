@@ -27,6 +27,21 @@ arXiv:2009.02835 <br> -->
 
 <!-- **Domains:**  Computational Management Science <span style="color:RoyalBlue">[CM]</span>,  E-commerce Analysis <span style="color:Salmon">[EM]</span>,  FinTech <span style="color:green">[FT]</span>, Spatial AI <span style="color:green">[SA]</span> <br>
 **Methodologies:**  Graph Deep Learning <span style="color:brown">[GL]</span>,  Text Mining <span style="color:purple">[TM]</span>,  Reinforcement Learning <span style="color:Orange;">[RL]</span> -->
+- **Rescorla-Wagner Steering of LLMs for Undesired Behaviors over Disproportionate Inappropriate Context**<br>
+  Rushi Wang, Jiateng Liu, Cheng Qian, Yifan Shen, Yanzhou Pan, Zhaozhuo Xu, Ahmed Abbasi, Heng Ji, <ins>**Denghui Zhang**</ins><br>
+  **EMNLP'25**: The 2025 Conference on Empirical Methods in Natural Language Processing (**Main**), 2025.
+- **DEL-ToM: Inference-Time Scaling for Theory-of-Mind Reasoning via Dynamic Epistemic Logic**<br>
+  Yuheng Wu, Jianwen Xie, <ins>**Denghui Zhang**</ins>, Zhaozhuo Xu<br>
+  **EMNLP'25**: The 2025 Conference on Empirical Methods in Natural Language Processing (**Main**), 2025.
+- **Profiling LLM's Copyright Infringement Risks under Adversarial Persuasive Prompting**<br>
+  Jikai Long, Ming Liu, Xiusi Chen, Jialiang Xu, Shenglan Li, Zhaozhuo Xu, <ins>**Denghui Zhang**</ins><br>
+  **EMNLP'25**: The 2025 Conference on Empirical Methods in Natural Language Processing (**Findings**), 2025.
+- **ISACL: Internal State Analyzer for Copyrighted Training Data Leakage**<br>
+  Guangwei Zhang, Qisheng Su, Jiateng Liu, Cheng Qian, Yanzhou Pan, Yanjie Fu, <ins>**Denghui Zhang**</ins><br>
+  **EMNLP'25**: The 2025 Conference on Empirical Methods in Natural Language Processing (**Findings**), 2025.
+- **SafeSwitch: Steering Unsafe LLM Behavior via Internal Activation Signals**<br>
+  Peixuan Han, Cheng Qian, Xiusi Chen, Yuji Zhang, <ins>**Denghui Zhang**</ins>, Heng Ji<br>
+  **EMNLP'25**: The 2025 Conference on Empirical Methods in Natural Language Processing (**Findings**), 2025.
 - **EscapeBench: Towards Advancing Creative Intelligence of Language Model Agents** [<a href='https://arxiv.org/pdf/2412.13549'>PDF</a>]<br>
   Cheng Qian, Peixuan Han, Qinyu Luo, Bingxiang He, Xiusi Chen, Yuji Zhang, Hongyi Du, Jiarui Yao, Xiaocheng Yang, <ins>**Denghui Zhang**</ins>, Yunzhu Li, Heng Ji<br>
   **ACL'25**: Proceedings of the Association for Computational Linguistics (**Main Track**), 2025.
