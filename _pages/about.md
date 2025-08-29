@@ -157,7 +157,8 @@ My faviorate quote:
 - Electronic Commerce Research and Applications, 2022
 - IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019 -->
 
-**Area Chair & Session Chair:**
+**Area Chair or Session Chair:**
+- ICLR, 2025
 - EMNLP Main Conference, 2025
 - EMNLP Demo Track, 2024, 2025
 - INFORMS Annual Meeting, 2022
