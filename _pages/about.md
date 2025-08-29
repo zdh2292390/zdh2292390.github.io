@@ -67,6 +67,7 @@ My faviorate quote:
 <!-- <div style="width:800px;height:350px;overflow:scroll;background-color:WhiteSmoke;border:3px DarkGray;resize:" markdown="1"> -->
 <div style="width:100%;height:350px;overflow:scroll;background-color:WhiteSmoke;border:3px DarkGray;" markdown="1">
 **08/2025**: Invited to serve as area chair for ICLR 2025.\\
+**08/2025**: Five interesting papers accepted by EMNLP 2025.\\
 **05/2025**: We will host a genAI [workshop at ICDM](https://vista-genai.github.io/) 2025 on fintech and regulation topics. \\
 **05/2025**: Invited to serve as area chair for EMNLP 2025.\\
 **05/2025**: Check our NAACL LLM copyright tutorial [slides here](https://zhangdenghui.site/naacl-copyright-tutorial-web/).\\
