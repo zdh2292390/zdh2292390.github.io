@@ -27,7 +27,7 @@ arXiv:2009.02835 <br> -->
 
 <!-- **Domains:**  Computational Management Science <span style="color:RoyalBlue">[CM]</span>,  E-commerce Analysis <span style="color:Salmon">[EM]</span>,  FinTech <span style="color:green">[FT]</span>, Spatial AI <span style="color:green">[SA]</span> <br>
 **Methodologies:**  Graph Deep Learning <span style="color:brown">[GL]</span>,  Text Mining <span style="color:purple">[TM]</span>,  Reinforcement Learning <span style="color:Orange;">[RL]</span> -->
-- **Rescorla-Wagner Steering of LLMs for Undesired Behaviors over Disproportionate Inappropriate Context**<br>
+- **Rescorla-Wagner Steering of LLMs for Undesired Behaviors over Disproportionate Inappropriate Context**[<a href='https://oppugno-rushi.github.io/rw-steering-page/'>project detail</a>]<br>
   Rushi Wang, Jiateng Liu, Cheng Qian, Yifan Shen, Yanzhou Pan, Zhaozhuo Xu, Ahmed Abbasi, Heng Ji, <ins>**Denghui Zhang**</ins><br>
   **EMNLP'25**: The 2025 Conference on Empirical Methods in Natural Language Processing (**Main**), 2025.
 - **DEL-ToM: Inference-Time Scaling for Theory-of-Mind Reasoning via Dynamic Epistemic Logic**<br>
