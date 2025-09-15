@@ -44,7 +44,7 @@ arXiv:2009.02835 <br> -->
   **EMNLP'25**: The 2025 Conference on Empirical Methods in Natural Language Processing (**Findings**), 2025.
 
 - **SafeSwitch: Steering Unsafe LLM Behavior via Internal Activation Signals**<br>
-  Peixuan Han, Cheng Qian, Xiusi Chen, Yuji Zhang, <ins>**Denghui Zhang**</ins>, Heng Ji<br>
+  Peixuan Han, Cheng Qian, Xiusi Chen, Yuji Zhang, Heng Ji, <ins>**Denghui Zhang**</ins><br>
   **EMNLP'25**: The 2025 Conference on Empirical Methods in Natural Language Processing (**Findings**), 2025.
 
 - **How Large Language Models Encode Theory-of-Mind: A Study on Sparse Parameter Patterns**<br>
