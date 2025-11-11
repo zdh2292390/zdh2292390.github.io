@@ -176,7 +176,7 @@ ul li a:hover {
 <h3>2025</h3>
 
 <div class="publication">
-    <img src="{{ site.baseurl }}/images/1.jpg" alt="Paper 1" class="publication-image">
+    <img src="{{ '/images/1.jpg' | relative_url }}" alt="Paper 1" class="publication-image">
     <div class="publication-content">
         <div class="publication-title">Rescorla-Wagner Steering of LLMs for Undesired Behaviors over Disproportionate Inappropriate Context</div>
         <div class="publication-authors">Rushi Wang, Jiateng Liu, Cheng Qian, Yifan Shen, Yanzhou Pan, Zhaozhuo Xu, Ahmed Abbasi, Heng Ji, <strong>Denghui Zhang</strong></div>
@@ -187,7 +187,7 @@ ul li a:hover {
 </div>
 
 <div class="publication">
-    <img src="{{ site.baseurl }}/images/2.jpg" alt="Paper 2" class="publication-image">
+    <img src="{{ '/images/2.jpg' | relative_url }}" alt="Paper 2" class="publication-image">
     <div class="publication-content">
         <div class="publication-title">DEL-ToM: Inference-Time Scaling for Theory-of-Mind Reasoning via Dynamic Epistemic Logic</div>
         <div class="publication-authors">Yuheng Wu, Jianwen Xie, <strong>Denghui Zhang</strong>, Zhaozhuo Xu</div>
@@ -197,7 +197,7 @@ ul li a:hover {
 </div>
 
 <div class="publication">
-    <img src="{{ site.baseurl }}/images/3.jpg" alt="Paper 3" class="publication-image">
+    <img src="{{ '/images/3.jpg' | relative_url }}" alt="Paper 3" class="publication-image">
     <div class="publication-content">
         <div class="publication-title">Profiling LLM's Copyright Infringement Risks under Adversarial Persuasive Prompting</div>
         <div class="publication-authors">Jikai Long, Ming Liu, Xiusi Chen, Jialiang Xu, Shenglan Li, Zhaozhuo Xu, <strong>Denghui Zhang</strong></div>
@@ -207,7 +207,7 @@ ul li a:hover {
 </div>
 
 <div class="publication">
-    <img src="{{ site.baseurl }}/images/4.jpg" alt="Paper 4" class="publication-image">
+    <img src="{{ '/images/4.jpg' | relative_url }}" alt="Paper 4" class="publication-image">
     <div class="publication-content">
         <div class="publication-title">ISACL: Internal State Analyzer for Copyrighted Training Data Leakage</div>
         <div class="publication-authors">Guangwei Zhang, Qisheng Su, Jiateng Liu, Cheng Qian, Yanzhou Pan, Yanjie Fu, <strong>Denghui Zhang</strong></div>
@@ -217,7 +217,7 @@ ul li a:hover {
 </div>
 
 <div class="publication">
-    <img src="{{ site.baseurl }}/images/5.jpg" alt="Paper 5" class="publication-image">
+    <img src="{{ '/images/5.jpg' | relative_url }}" alt="Paper 5" class="publication-image">
     <div class="publication-content">
         <div class="publication-title">SafeSwitch: Steering Unsafe LLM Behavior via Internal Activation Signals</div>
         <div class="publication-authors">Peixuan Han, Cheng Qian, Xiusi Chen, Yuji Zhang, Heng Ji, <strong>Denghui Zhang</strong></div>
@@ -227,7 +227,7 @@ ul li a:hover {
 </div>
 
 <div class="publication">
-    <img src="{{ site.baseurl }}/images/6.jpg" alt="Paper 6" class="publication-image">
+    <img src="{{ '/images/6.jpg' | relative_url }}" alt="Paper 6" class="publication-image">
     <div class="publication-content">
         <div class="publication-title">How Large Language Models Encode Theory-of-Mind: A Study on Sparse Parameter Patterns</div>
         <div class="publication-authors">Yuheng Wu, Wentao Guo, Zirui Liu, Heng Ji, Zhaozhuo Xu, <strong>Denghui Zhang</strong></div>
@@ -237,7 +237,7 @@ ul li a:hover {
 </div>
 
 <div class="publication">
-    <img src="{{ site.baseurl }}/images/7.jpg" alt="Paper 7" class="publication-image">
+    <img src="{{ '/images/7.jpg' | relative_url }}" alt="Paper 7" class="publication-image">
     <div class="publication-content">
         <div class="publication-title">EscapeBench: Towards Advancing Creative Intelligence of Language Model Agents</div>
         <div class="publication-authors">Cheng Qian, Peixuan Han, Qinyu Luo, Bingxiang He, Xiusi Chen, Yuji Zhang, Hongyi Du, Jiarui Yao, Xiaocheng Yang, <strong>Denghui Zhang</strong>, Yunzhu Li, Heng Ji</div>
@@ -248,7 +248,7 @@ ul li a:hover {
 </div>
 
 <div class="publication">
-    <img src="{{ site.baseurl }}/images/8.jpg" alt="Paper 8" class="publication-image">
+    <img src="{{ '/images/8.jpg' | relative_url }}" alt="Paper 8" class="publication-image">
     <div class="publication-content">
         <div class="publication-title">Iterative Online-Offline Joint Optimization is Needed to Manage Complex LLM Copyright Risks</div>
         <div class="publication-authors">Yanzhou Pan, Jiayi Chen, Jiamin Chen, ZhaoZhuo Xu, <strong>Denghui Zhang</strong></div>
@@ -259,7 +259,7 @@ ul li a:hover {
 </div>
 
 <div class="publication">
-    <img src="{{ site.baseurl }}/images/9.jpg" alt="Paper 9" class="publication-image">
+    <img src="{{ '/images/9.jpg' | relative_url }}" alt="Paper 9" class="publication-image">
     <div class="publication-content">
         <div class="publication-title">Beyond Reactive Safety: Risk-Aware LLM Alignment via Long-Horizon Simulation</div>
         <div class="publication-authors">Chenkai Sun, <strong>Denghui Zhang</strong>, ChengXiang Zhai, Heng Ji</div>
@@ -269,7 +269,7 @@ ul li a:hover {
 </div>
 
 <div class="publication">
-    <img src="{{ site.baseurl }}/images/10.jpg" alt="Paper 10" class="publication-image">
+    <img src="{{ '/images/10.jpg' | relative_url }}" alt="Paper 10" class="publication-image">
     <div class="publication-content">
         <div class="publication-title">ALinFiK: Learning to Approximate Linearized Future Influence Kernel for Scalable Third-Parity LLM Data Valuation</div>
         <div class="publication-authors">Yanzhou Pan, Huawei Lin, Yide Ran, Jiamin Chen, Xiaodong Yu, Weijie Zhao, <strong>Denghui Zhang</strong>, Zhaozhuo Xu</div>
@@ -284,7 +284,7 @@ ul li a:hover {
 <h3>2024</h3>
 
 <div class="publication">
-    <img src="{{ site.baseurl }}/images/11.jpg" alt="Paper 11" class="publication-image">
+    <img src="{{ '/images/11.jpg' | relative_url }}" alt="Paper 11" class="publication-image">
     <div class="publication-content">
         <div class="publication-title">Do LLMs Know to Respect Copyright Notice?</div>
         <div class="publication-authors">Jialiang Xu, Shenglan Li, Zhaozhuo Xu, <strong>Denghui Zhang</strong></div>
@@ -295,7 +295,7 @@ ul li a:hover {
 </div>
 
 <div class="publication">
-    <img src="{{ site.baseurl }}/images/12.jpg" alt="Paper 12" class="publication-image">
+    <img src="{{ '/images/12.jpg' | relative_url }}" alt="Paper 12" class="publication-image">
     <div class="publication-content">
         <div class="publication-title">FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making</div>
         <div class="publication-authors">Yangyang Yu, Zhiyuan Yao, Haohang Li, Zhiyang Deng, Yuechen Jiang, Yupeng Cao, Zhi Chen, Jordan W. Suchow, Zhenyu Cui, Rong Liu, Zhaozhuo Xu, <strong>Denghui Zhang</strong>, Koduvayur Subbalakshmi, Guojun Xiong, Yueru He, Jimin Huang, Dong Li, Qianqian Xie</div>
@@ -306,7 +306,7 @@ ul li a:hover {
 </div>
 
 <div class="publication">
-    <img src="{{ site.baseurl }}/images/13.jpg" alt="Paper 13" class="publication-image">
+    <img src="{{ '/images/13.jpg' | relative_url }}" alt="Paper 13" class="publication-image">
     <div class="publication-content">
         <div class="publication-title">FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design</div>
         <div class="publication-authors">Yangyang Yu, Haohang Li, Zhi Chen, Yuechen Jiang, Yang Li, <strong>Denghui Zhang</strong>, Rong Liu, Jordan W. Suchow, Khaldoun Khashanah</div>
@@ -317,7 +317,7 @@ ul li a:hover {
 </div>
 
 <div class="publication">
-    <img src="{{ site.baseurl }}/images/14.jpg" alt="Paper 14" class="publication-image">
+    <img src="{{ '/images/14.jpg' | relative_url }}" alt="Paper 14" class="publication-image">
     <div class="publication-content">
         <div class="publication-title">Self-Paced Unified Representation Learning for Hierarchical Multi-Label Classification</div>
         <div class="publication-authors">Zixuan Yuan, Hao Liu, Haoyi Zhou, <strong>Denghui Zhang</strong>, Xiao Zhang, Hao Wang, Hui Xiong</div>
@@ -331,7 +331,7 @@ ul li a:hover {
 <h3>2023</h3>
 
 <div class="publication">
-    <img src="{{ site.baseurl }}/images/15.jpg" alt="Paper 15" class="publication-image">
+    <img src="{{ '/images/15.jpg' | relative_url }}" alt="Paper 15" class="publication-image">
     <div class="publication-content">
         <div class="publication-title">Graph Learning of Multifaceted Motivations for Online Political Engagement Prediction in Counter-party Social Networks</div>
         <div class="publication-authors">Manting Hu, Qingyuan Lin, <strong>Denghui Zhang</strong>, Angela Lu, Junming Liu, Hui Xiong</div>
@@ -341,7 +341,7 @@ ul li a:hover {
 </div>
 
 <div class="publication">
-    <img src="{{ site.baseurl }}/images/16.jpg" alt="Paper 16" class="publication-image">
+    <img src="{{ '/images/16.jpg' | relative_url }}" alt="Paper 16" class="publication-image">
     <div class="publication-content">
         <div class="publication-title">LEVER: Online Adaptive Sequence Learning Framework for High-Frequency Trading</div>
         <div class="publication-authors">Zixuan Yuan, Junming Liu, Haoyi Zhou, <strong>Denghui Zhang</strong>, Hao Liu, Nengjun Zhu, Hui Xiong</div>
@@ -352,7 +352,7 @@ ul li a:hover {
 </div>
 
 <div class="publication">
-    <img src="{{ site.baseurl }}/images/17.jpg" alt="Paper 17" class="publication-image">
+    <img src="{{ '/images/17.jpg' | relative_url }}" alt="Paper 17" class="publication-image">
     <div class="publication-content">
         <div class="publication-title">Multi-Faceted Knowledge-Driven Pre-training for Product Representation Learning</div>
         <div class="publication-authors"><strong>Denghui Zhang</strong>, Yanchi Liu, Zixuan Yuan, Yanjie Fu, Haifeng Chen, Hui Xiong</div>
@@ -367,7 +367,7 @@ ul li a:hover {
 <h3>2022</h3>
 
 <div class="publication">
-    <img src="{{ site.baseurl }}/images/18.jpg" alt="Paper 18" class="publication-image">
+    <img src="{{ '/images/18.jpg' | relative_url }}" alt="Paper 18" class="publication-image">
     <div class="publication-content">
         <div class="publication-title">AlphaVC: A Reinforcement Learning-based Venture Capital Investment Strategy</div>
         <div class="publication-authors">Zixuan Yuan*, <strong>Denghui Zhang</strong>*, Hao Zhong, Shengming Zhang, Xiong Hui</div>
@@ -378,7 +378,7 @@ ul li a:hover {
 </div>
 
 <div class="publication">
-    <img src="{{ site.baseurl }}/images/19.jpg" alt="Paper 19" class="publication-image">
+    <img src="{{ '/images/19.jpg' | relative_url }}" alt="Paper 19" class="publication-image">
     <div class="publication-content">
         <div class="publication-title">Acqui-hiring or Acqui-quitting: Data-driven Post-M&A Turnover Prediction via a Dual-fit GNN Model</div>
         <div class="publication-authors"><strong>Denghui Zhang</strong>, Hao Zhong, Jingyuan Yang</div>
@@ -389,7 +389,7 @@ ul li a:hover {
 </div>
 
 <div class="publication">
-    <img src="{{ site.baseurl }}/images/20.jpg" alt="Paper 20" class="publication-image">
+    <img src="{{ '/images/20.jpg' | relative_url }}" alt="Paper 20" class="publication-image">
     <div class="publication-content">
         <div class="publication-title">Towards Learning Disentangled Representations for Time Series</div>
         <div class="publication-authors">Yuening Li, Zhengzhang Chen, Daochen Zha, Mengnan Du, <strong>Denghui Zhang</strong>, Haifeng Chen, Xia Hu</div>
@@ -400,7 +400,7 @@ ul li a:hover {
 </div>
 
 <div class="publication">
-    <img src="{{ site.baseurl }}/images/21.jpg" alt="Paper 21" class="publication-image">
+    <img src="{{ '/images/21.jpg' | relative_url }}" alt="Paper 21" class="publication-image">
     <div class="publication-content">
         <div class="publication-title">Learning to Walk with Dual Agents Reinforcement Learning for Knowledge Graph Reasoning</div>
         <div class="publication-authors"><strong>Denghui Zhang</strong>*, Zixuan Yuan*, Hao Liu, Xiaodong Lin, Hui Xiong</div>
@@ -415,7 +415,7 @@ ul li a:hover {
 <h3>2021</h3>
 
 <div class="publication">
-    <img src="{{ site.baseurl }}/images/22.jpg" alt="Paper 22" class="publication-image">
+    <img src="{{ '/images/22.jpg' | relative_url }}" alt="Paper 22" class="publication-image">
     <div class="publication-content">
         <div class="publication-title">Domain-oriented Language Modeling with Adaptive Hybrid Masking and Optimal Transport Alignment</div>
         <div class="publication-authors"><strong>Denghui Zhang</strong>, Zixuan Yuan, Yanchi Liu, Hao Liu, Fuzhen Zhuang, Hui Xiong, Haifeng Chen</div>
@@ -426,7 +426,7 @@ ul li a:hover {
 </div>
 
 <div class="publication">
-    <img src="{{ site.baseurl }}/images/23.jpg" alt="Paper 23" class="publication-image">
+    <img src="{{ '/images/23.jpg' | relative_url }}" alt="Paper 23" class="publication-image">
     <div class="publication-content">
         <div class="publication-title">Self-Supervised Prototype Representation Learning for Event-Based Corporate Profiling</div>
         <div class="publication-authors">Zixuan Yuan, Hao Liu, Renjun Hu, <strong>Denghui Zhang</strong>, Hui Xiong</div>
@@ -441,7 +441,7 @@ ul li a:hover {
 <h3>2020</h3>
 
 <div class="publication">
-    <img src="{{ site.baseurl }}/images/24.jpg" alt="Paper 24" class="publication-image">
+    <img src="{{ '/images/24.jpg' | relative_url }}" alt="Paper 24" class="publication-image">
     <div class="publication-content">
         <div class="publication-title">T²-Net: A Semi-supervised Deep Model for Turbulence Forecasting</div>
         <div class="publication-authors"><strong>Denghui Zhang</strong>, Yanchi Liu, Wei Cheng, Bo Zong, Jingchao Ni, Zhengzhang Chen, Haifeng Chen, Hui Xiong</div>
@@ -452,7 +452,7 @@ ul li a:hover {
 </div>
 
 <div class="publication">
-    <img src="{{ site.baseurl }}/images/25.jpg" alt="Paper 25" class="publication-image">
+    <img src="{{ '/images/25.jpg' | relative_url }}" alt="Paper 25" class="publication-image">
     <div class="publication-content">
         <div class="publication-title">Spatio-Temporal Dual Graph Attention Network for Query-POI Matching</div>
         <div class="publication-authors">Zixuan Yuan, Hao Liu, Yanchi Liu, <strong>Denghui Zhang</strong>, Fei Yi, Nengju Zhu, Hui Xiong</div>
@@ -467,7 +467,7 @@ ul li a:hover {
 <h3>2019</h3>
 
 <div class="publication">
-    <img src="{{ site.baseurl }}/images/26.jpg" alt="Paper 26" class="publication-image">
+    <img src="{{ '/images/26.jpg' | relative_url }}" alt="Paper 26" class="publication-image">
     <div class="publication-content">
         <div class="publication-title">Job2Vec: Job Title Benchmarking with Collective Multi-View Representation Learning</div>
         <div class="publication-authors"><strong>Denghui Zhang</strong>, Junming Liu, Hengshu Zhu, Yanchi Liu, Lichen Wang, Pengyang Wang, Hui Xiong</div>
@@ -482,7 +482,7 @@ ul li a:hover {
 <h3>2018</h3>
 
 <div class="publication">
-    <img src="{{ site.baseurl }}/images/27.jpg" alt="Paper 27" class="publication-image">
+    <img src="{{ '/images/27.jpg' | relative_url }}" alt="Paper 27" class="publication-image">
     <div class="publication-content">
         <div class="publication-title">Link Prediction in Knowledge Graphs: A Hierarchy-Constrained Approach</div>
         <div class="publication-authors">Manling Li, Yuanzhuo Wang, <strong>Denghui Zhang</strong>, Yantao Jia, Xueqi Cheng</div>
@@ -493,7 +493,7 @@ ul li a:hover {
 </div>
 
 <div class="publication">
-    <img src="{{ site.baseurl }}/images/28.jpg" alt="Paper 28" class="publication-image">
+    <img src="{{ '/images/28.jpg' | relative_url }}" alt="Paper 28" class="publication-image">
     <div class="publication-content">
         <div class="publication-title">Path-Based Attention Neural Model for Fine-Grained Entity Typing</div>
         <div class="publication-authors"><strong>Denghui Zhang</strong>, Manling Li, Pengshan Cai, Yantao Jia, Yuanzhuo Wang, Xueqi Cheng</div>
@@ -508,7 +508,7 @@ ul li a:hover {
 <h3>2017</h3>
 
 <div class="publication">
-    <img src="{{ site.baseurl }}/images/29.jpg" alt="Paper 29" class="publication-image">
+    <img src="{{ '/images/29.jpg' | relative_url }}" alt="Paper 29" class="publication-image">
     <div class="publication-content">
         <div class="publication-title">Efficient Parallel Translating Embedding For Knowledge Graphs</div>
         <div class="publication-authors"><strong>Denghui Zhang</strong>, Manling Li, Yantao Jia, Yuanzhuo Wang, Xueqi Cheng</div>
