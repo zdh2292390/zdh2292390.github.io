@@ -64,11 +64,11 @@ arXiv:2009.02835 <br> -->
   **ACL'25**: Proceedings of the Association for Computational Linguistics (ACL Findings), 2025.
 
 - **ALinFiK: Learning to Approximate Linearized Future Influence Kernel for Scalable Third-Parity LLM Data Valuation** [<a href='https://aclanthology.org/2025.naacl-long.589.pdf'>PDF</a>, <a href='https://github.com/huawei-lin/RapidIn'>Github</a>]<br>
-  Yanzhou Pan, Huawei Lin, Yide Ran, Jiamin Chen, Xiaodong Yu, Weijie Zhao, Denghui Zhang, Zhaozhuo Xu<br>
+  Yanzhou Pan, Huawei Lin, Yide Ran, Jiamin Chen, Xiaodong Yu, Weijie Zhao, <ins>**Denghui Zhang**</ins>, Zhaozhuo Xu<br>
   **NAACL'25**: 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (**Main**).
 
 - **Do LLMs Know to Respect Copyright Notice?** [<a href='https://aclanthology.org/2024.emnlp-main.1147/'>PDF</a>, <a href='https://github.com/liamjxu/copyright'>Github</a>]<span style="color:green"> </span><br>
-  Jialiang Xu, Shenglan Li, Zhaozhuo Xu, Denghui Zhang<br>
+  Jialiang Xu, Shenglan Li, Zhaozhuo Xu, <ins>**Denghui Zhang**</ins><br>
   **EMNLP'24**: The 2024 Conference on Empirical Methods in Natural Language Processing (**Main**).
 
 - **FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making** [<a href='https://openreview.net/pdf?id=dG1HwKMYbC'>PDF</a>, <a href=''>Github</a>]<span style="color:green"> </span><br>
